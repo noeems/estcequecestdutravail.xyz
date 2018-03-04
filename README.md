@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## arkadianriver.com
 
-You can use the [editor on GitHub](https://github.com/noeems/estcequecestdutravail.xyz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My personal web site, based off the http://html5up.net/spectral design by
+[@ajlkn](http://twitter.com/ajlkn).
+The site is made for blog and portfolio content. The blog can contain both
+personal entries and entries by syndicated authors.
+The site uses jekyll, a method of creating and maintaining a web site,
+which works by using local templates to generate static files that you upload
+and sync with your remote site.
+This repo is the same code I use for my site, excluding my posts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### If you clone or fork this repo to use it:
 
-### Markdown
+0. Install [Jekyll](https://jekyllrb.com/) (version 3.1.2 or higher).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+0. Tweak the site to make it your own. Jekyll uses [YAML files](http://www.yaml.org/start.html)
+   for its site variables:
 
-```markdown
-Syntax highlighted code block
+   a. Edit the `_config.yml` file, replacing the values for each key with your info.
 
-# Header 1
-## Header 2
-### Header 3
+   b. Add a `_data/tokens.yml` file with your IDs & mail program.
+      See the `_data/tokens-template.yml.` file for example entries.
 
-- Bulleted
-- List
+   c. Add author info for yourself in `_data/authors.yml` as the first
+      author entry in the file.
 
-1. Numbered
-2. List
+   d. Provide your own images.
+   
+   e. Continue tweaking to your heart's desire, or not.
 
-**Bold** and _Italic_ and `Code` text
+0. Create your posts:
 
-[Link](url) and ![Image](src)
-```
+   a. Use the posts in the 31st century as guides for yours. They're built by jekyll only when
+      the `--future` option is used.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+   b. You can run `ruby compose.rb` to create new draft posts.
 
-### Jekyll Themes
+0. Test and publish your site:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noeems/estcequecestdutravail.xyz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   If you're building your site on Windows (like me) and you use WinSCP to sync with your
+   remote site, you can use the `site.bat` file. Set up a `_site.env` file
+   as described in the comments of `site.bat` and change the excludes list for your site.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   `site dev` runs `jekyll serve --future --drafts` in development mode.  
+   `site devnof` runs `jekyll serve --drafts` in development mode.  
+   `site preview` runs `jekyll serve` in production mode.  
+   `site prod` simply builds with `jekyll build` in production mode (no serve).  
+   `site publish` uses WinSCP's `synchronize` feature to mirror to a remote site.
