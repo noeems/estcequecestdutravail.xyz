@@ -24,7 +24,7 @@ Je pouvais apprendre tranquillement dans un milieu avec des gens brillants, m’
 
 Passage par la case "entretien en pleine canicule Londonienne fin juin", et un mois plus tard je suis ’Product management intern’ dans une équipe de trois, avec une designer et une développeuse.
 
-![Springfield Park](/images/2018-03-05-voir-londres-et-partir/Springfield Park.jpg)
+![Springfield Park](/images/2018-03-05-voir-londres-et-partir/Springfield park.jpg)
 
 ## Product what?
 
@@ -86,10 +86,10 @@ On laisse volontairement de la place à la spontanéité, au "vous devriez renco
 
 ## Quelques photos de Bournemouth
 
-![Sous le pier de Boscombe](/images/2018-03-05-voir-londres-et-partir/Bournemouth arches.jpg)
-![Trouve sur la plage](/images/2018-03-05-voir-londres-et-partir/Bournemouth coquillage.jpg)
-![Fish and chips obligatoire](/images/2018-03-05-voir-londres-et-partir/Smithsons fish and chips.jpg)
-![Couleurs complementaires - Thomas devant des cabines de plage](/images/2018-03-05-voir-londres-et-partir/Tom Bournemouth beach.jpg)
+![Sous le pier de Boscombe](/images/2018-03-05-voir-londres-et-partir/Bournemouth arches.JPG)
+![Trouve sur la plage](/images/2018-03-05-voir-londres-et-partir/Bournemouth coquillage.JPG)
+![Fish and chips obligatoire](/images/2018-03-05-voir-londres-et-partir/Smithsons fish and chips.JPG)
+![Couleurs complementaires - Thomas devant des cabines de plage](/images/2018-03-05-voir-londres-et-partir/Tom Bournemouth beach.JPG)
 
 ## Bye Auriga
 <iframe src="https://player.vimeo.com/video/258665899" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
