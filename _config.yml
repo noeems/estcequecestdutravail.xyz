@@ -21,6 +21,12 @@ first_published: 2018
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://estcequecestdutravail.xyz" # the base hostname & protocol for your site
 
+twitter:
+  image: /images/2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
+
+seo_tag:
+  image: /images/2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
+
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
@@ -106,8 +112,15 @@ include: ['_pages','.htaccess']
 
 plugins:
 - jekyll-avatar
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
   - scope:
       path: _pages
     values:
