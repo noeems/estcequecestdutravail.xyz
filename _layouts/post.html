@@ -29,8 +29,15 @@ layout: default
 %}{%    endif
 %}{%  endif
 %}{%  unless page.options contains 'minihead' %}
-      <span id="post-date">{{ page.date  | date: "%-d %B %Y" }}</span><hr
-        style="margin-top:3px;" />{%
+  <section class="article-metadata">
+      <span id="post-date">{{ page.date  | date: "%-d %B %Y" }}</span>
+
+      {%  unless page.author == 'none' %}
+      {% assign author = site.data.authors[page.author] %}
+      par {% avatar {{page.author}} size=25 %} {{ author.name }}
+      {% endunless %}
+
+  </section>{%
       endunless
 %}{%  if page.categories contains 'works' and page.tags %}
       <h4>Skills</h4>
@@ -50,9 +57,6 @@ layout: default
 %}{%      include fn_sortednav.html posclass='btnbottom'
 %}{%    endif
 %}{%  endif
-%}{%  unless page.author == 'none'
-%}{%    include author-block.html %}
-  {%  endunless
 %}{%  if jekyll.environment == "production"
 %}{%    unless page.options contains nocomment or page.categories contains 'works'
 %}{%      include disqus.html %}
