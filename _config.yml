@@ -17,7 +17,7 @@ owner:
   name: Thomas Parisot et Noémie Girard
   email: hello@estcequecestdutravail.xyz
   url: http://estcequecestdutravail.xyz
-first_published: 2018 
+first_published: 2018
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://estcequecestdutravail.xyz" # the base hostname & protocol for your site
 
@@ -28,13 +28,13 @@ greeting:
   text: |
     "Est-ce que c'est du travail ?", c'est la question qu'on se pose en souriant quand on s'aperçoit qu'on discute du revenu de base avant le petit déjeuner.
     Quand la conversation sur un sujet qui nous passionne déborde aux matinées et aux soirées, est-ce que c'est encore du travail ?
-  
+
     Suivez ici les points d'étapes dans notre recherche d'un endroit où vivre et être utile.
 # - title for your blog's featured posts
 features-title: Featured articles
 # - displayed at the bottom
 closing-head: À bientôt
-closing-para: 
+closing-para:
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
@@ -96,12 +96,17 @@ works_in_progress: yes
 custom_extensions: no
 
 # Build settings
-permalink: /:categories/:title.html
+permalink: /:year/:month/:slug:output_ext
 markdown: kramdown
-#sass:
-#  style: compressed
+sass:
+ style: compressed
+
 exclude: ['site.bat','compose.rb','README.md']
 include: ['_pages','.htaccess']
+
+plugins:
+- jekyll-avatar
+
 defaults:
   - scope:
       path: _pages

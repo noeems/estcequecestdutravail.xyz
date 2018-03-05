@@ -1,5 +1,6 @@
 ---
 title: My Topic Group
+author: noeems
 excerpt: first topic in my neat grouping
 permalink: /topics/my topic group/
 categories:
