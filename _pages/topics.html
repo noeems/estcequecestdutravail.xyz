@@ -7,41 +7,45 @@ excerpt: Suivre nos étapes de voyage et nos réflexions sur le travail en mouve
 image: 2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
 background-image: 2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
 ---
+<div class="wrapper">
+  <div class="inner">
 
-{% if site.posts %}
-  {% if site.tags.featured %}
-  <h4>Featured</h4>
-  <ul class="post-list">
-    {% for post in site.tags.featured %}
-      <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="container">
-            <p class="post-title">{{ post.title }}</p>
-            <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
-            <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-
-  {% assign p = '9999' %}
-  {% for post in site.posts %}
-  {% assign n = post.date | date: "%Y" %}
-  {% if n != p %}
-    {% unless p == '9999' %}</ul>{% endunless %}
-    <h5>{{ n }}</h5>
-    <ul style="list-style-type: none;">
-    {% assign p = n %}
-  {% endif %}
-      <li style="padding-bottom: 6px;">
-        <time class="code">[{{ post.date | date: "%d %b" }}]</time>&nbsp;
-        <a href="{{ post.url | prepend: site.baseurl }}" style="white-space: nowrap;">
-          <b>{{ post.title }}</b>
-        </a>&nbsp;{{ post.excerpt | strip_html | truncatewords: 12 }}
-      </li>
-    {% endfor %}
+  {% if site.posts %}
+    {% if site.tags.featured %}
+    <h4>Featured</h4>
+    <ul class="post-list">
+      {% for post in site.tags.featured %}
+        <li>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <div class="container">
+              <p class="post-title">{{ post.title }}</p>
+              <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+              <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
     </ul>
+    {% endif %}
 
-{%  endif %}
+    {% assign p = '9999' %}
+    {% for post in site.posts %}
+    {% assign n = post.date | date: "%Y" %}
+    {% if n != p %}
+      {% unless p == '9999' %}</ul>{% endunless %}
+      <h5>{{ n }}</h5>
+      <ul style="list-style-type: none;">
+      {% assign p = n %}
+    {% endif %}
+        <li style="padding-bottom: 6px;">
+          <time class="code">[{{ post.date | date: "%d %b" }}]</time>&nbsp;
+          <a href="{{ post.url | prepend: site.baseurl }}" style="white-space: nowrap;">
+            <b>{{ post.title }}</b>
+          </a>&nbsp;{{ post.excerpt | strip_html | truncatewords: 12 }}
+        </li>
+      {% endfor %}
+      </ul>
+
+  {%  endif %}
+  </div>
+</div>
