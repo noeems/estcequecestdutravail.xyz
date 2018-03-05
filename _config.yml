@@ -112,6 +112,10 @@ plugins:
 
 defaults:
   - scope:
+      path: ""
+    values:
+      image: /images/2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
+  - scope:
       path: _pages
     values:
       layout: page
