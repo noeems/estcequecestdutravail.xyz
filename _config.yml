@@ -17,28 +17,25 @@ owner:
   name: Thomas Parisot et Noémie Girard
   email: hello@estcequecestdutravail.xyz
   url: http://estcequecestdutravail.xyz
-first_published: 1996 # if migrating another site, the year of your first publish
+first_published: 2018 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "http://estcequecestdutravail.xyz" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!  
-  text: I hope you enjoy my collection
+  text: I hope you enjoy our writing
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Featured articles
 # - displayed at the bottom
 closing-head: Thanks for visiting
 closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  twitter: https://twitter.com/noeems
+  github: https://github.com/noeems/estcequecestdutravail.xyz
   email: /contact/
   #flickr:
   #instagram:
