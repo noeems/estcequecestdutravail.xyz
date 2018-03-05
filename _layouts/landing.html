@@ -39,8 +39,8 @@
           <section id="greeting" class="wrapper style1 special">
             <div class="inner">
               <header class="major">
-                <h2>{% if site.greeting.title %}{{ site.greeting.title }}{% else %}{{ site.title }}{% endif %}</h2>
-                <p>{% if site.greeting.text %}{{ site.greeting.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
+                <h2>{{ site.greeting.title | default: site.title }}</h2>
+                {{ site.greeting.text | default: site.description | markdownify }}
               </header>
 
             </div>
