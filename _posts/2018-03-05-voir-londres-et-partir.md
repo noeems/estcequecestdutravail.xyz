@@ -9,24 +9,26 @@ excerpt: Update on what the hell is going on.
 C’est passé vite.
 J’aime bien en rire en disant que Londres est bien connue pour être bien plus agréable en été… Et j’y aurai passé tout l’hiver.
 
-Il y a un an et demi, c’était la première étape de cette envie: je suis partie de mon boulot de trois ans à la Gaîté lyrique avec l’envie de poursuivre un peu le côté développement de ‘produits’ web (des sites, applications)…
+Il y a un an et demi, c’était la première étape de cette envie : je suis partie de mon boulot de trois ans à la Gaîté lyrique avec l’envie de poursuivre un peu le côté développement de ‘produits’ web (des sites, applications)…
 Jusqu’à présent, j’avais été trop prise par des missions surtout orientées community management, production de contenu et gestion d’un site web.
 
 J’ai passé six mois à Paris en peaufinant un projet, en apprenant beaucoup, en suivant un programme de mentorat pour les femmes dans la tech (via Social Builder). J’ai postulé à Londres ici et là, mais c’était difficile, de loin, de voir clair dans les chemins qui s’offraient à moi / les intitulés de poste.
 Vu mon profil, est-ce que je correspondais plutôt à une Digital Producer, une Product Owner, une Product Manager, une UX designer? Ce n’était pas clair pour moi.
 
 En juin, j’ai vu qu’une de mes agences web préférées, [Made by many](https://www.madebymany.com/) publie une annonce pour un stage d’été rémunéré.
-L’occasion était quand même sublime — même s’il a fallu passer la barrière psychologique de redevenir stagiaire après pas mal d’activité professionnelle, tant pis.
-La formulation de l’annonce a aidé:
-"Who should apply?
-If you’re a student, recent graduate or **someone with a passion for product development who’s looking to get some invaluable experience**, read on."
+L’occasion était quand même sublime — même s’il a fallu passer la barrière psychologique de redevenir stagiaire après pas mal d’activité professionnelle, tant pis.  
+La formulation de l’annonce a aidé:  
+"Who should apply?  
+If you’re a student, recent graduate or **someone with a passion for product development who’s looking to get some invaluable experience**, read on."  
 Je pouvais apprendre tranquillement dans un milieu avec des gens brillants, m’imprégner de leurs réflexes et leurs manières de faire.
 
 Passage par la case "entretien en pleine canicule Londonienne fin juin", et un mois plus tard je suis ’Product management intern’ dans une équipe de trois, avec une designer et une développeuse.
 
+![Springfield Park] (2018-03-05-voir-londres-et-partir/Springfield Park.jpg)
+
 ## Product what?
 
-Argh. En français, “produit”, c’est déjà super moche, mais alors couplé avec manager…
+Argh. En français, “produit”, c’est déjà super moche, mais alors couplé avec manager…  
 En anglais, l’industrie tech/web affine son vocabulaire au fur et à mesure que les métiers évoluent et se spécialisent et “product” désigne donc la fin des barrières entre “monde virtuel et monde physique”, les sites web sont des produits comme des autres, ils sont mûrement réfléchis en amont, développés, améliorés dans le temps…
 
 Et un Product manager, c’est quelqu’un qui s’occupe de la vision stratégique d’un site/service. Il/elle va coordonner des équipes qui ont des compétences en design et en technique pour réaliser les projets. Il/elle va prioriser les développements, partager les raisons pour lesquelles il a choisi de donner de l’importance à tel ou tel aspect… Pouvoir mesurer le succès (ou non) de ces étapes.
@@ -34,6 +36,8 @@ Et un Product manager, c’est quelqu’un qui s’occupe de la vision stratégi
 _“A good technologist isn’t a specialist, it’s someone who knows how to talk about his craft”_
 
 L’apprentissage a duré deux mois et demi, je suis restée en mission encore un peu, et puis je suis partie. Je détaillerai cette expérience un peu plus longuement dans un autre article — la synthèse c'est que l'habit du Product Manager ne m'allait pas mais que durant ces quelques mois j'ai appris et découvert un tas de choses. Ça a renforcé ma curiosité et mon envie de pratiquer la recherche et le design de service en particulier.
+
+![Made by many] (2018-03-05-voir-londres-et-partir/Diespeker Wharf.jpg)
 
 ## Ton expérience de la ville, ça a donné quoi ?
 
@@ -48,6 +52,8 @@ En fait, assez vite, j'ai compris que j'avais la fatigue de la ville, la démang
 J'ai aussi réalisé un autre tas de trucs que je fantasmais depuis Paris : le milieu anglophone n'a pas transformé mon comportement (j'étais persuadée de devenir plus extravertie en m'exprimant en anglais — la langue que j'utilisais pour les blagues, pour les émotions, les références culturelles...)
 
 Par contre je porte dans mon coeur le pub du coin de la rue avec son ambiance calme et son menu de folie (Lady Mildmay, tribute), le café d'à côté qui fait un des meilleurs pains que j'aie jamais goûté, les ateliers vélo inclusifs où j'ai désossé mon Peugeot et compris comment il fonctionnait...
+
+![The Flask bieres et scotch eggs] (2018-03-05-voir-londres-et-partir/The Flask beer and scotch eggs.jpg)
 
 ## Et tu vas chercher quoi ?
 
@@ -65,12 +71,22 @@ On part à la rencontre de lieux et de personnes.
 Une chose que l'expérience Londonienne m'aura apprise c'est la richesse de la communauté. De pouvoir sentir des racines se former, de s'enrichir au contact des autres. Pas évident lorsqu'on se parachute dans un nouvel endroit.   
 Alors on part apprendre de plein de formes de savoirs différents. Des groupes de personnes qui se sont constitués en coopérative pour travailler, des paysans qui diffusent des licences open source pour de nouveaux outils agricoles, ceux qui explorent la transmission de savoir horizontale...
 
+![Demenagement en Kangoo] (2018-03-05-voir-londres-et-partir/Kangoo demenagement.jpg)
+![Auriga sous la neige] (2018-03-05-voir-londres-et-partir/Auriga sous neige.jpg)
+
 ## Ok, où ça ?
 
-On reste en Angleterre pendant quelques semaines, on explore la côte sud (côte "Jurassique" — no joke).
-Bournemouth — Swanage — Weymouth — Bristol en mars.
+On reste en Angleterre pendant quelques semaines, on explore la côte sud (côte "Jurassique" — no joke).  
+Bournemouth — Swanage — Weymouth — Bristol en mars.  
 Puis Bordeaux — Montpellier — Marseille — Lyon en avril  
 Paris — Reims — Crest — Anduze en mai  
 
 Par exemple. Ça pourra changer.   
 On laisse volontairement de la place à la spontanéité, au "vous devriez rencontrer un•etel•le"...
+
+## Quelques photos de Bournemouth
+
+![Sous le pier de Boscombe] (2018-03-05-voir-londres-et-partir/Bournemouth arches.jpg)
+![Trouve sur la plage] (2018-03-05-voir-londres-et-partir/Bournemouth coquillage.jpg)
+![Fish and chips obligatoire] (2018-03-05-voir-londres-et-partir/Smithsons fish and chips.jpg)
+![Couleurs complementaires - Thomas devant des cabines de plage] (2018-03-05-voir-londres-et-partir/Tom Bournemouth beach.jpg)
