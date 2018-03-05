@@ -25,8 +25,7 @@ url: "http://estcequecestdutravail.xyz" # the base hostname & protocol for your 
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Quoi ?!
-  text: |
-    "Est-ce que c'est du travail ?", c'est la question qu'on se pose en souriant quand on s'aperçoit qu'on discute du revenu de base avant le petit déjeuner.
+  text: | "Est-ce que c'est du travail ?", c'est la question qu'on se pose en souriant quand on s'aperçoit qu'on discute du revenu de base avant le petit déjeuner.
     Quand la conversation sur un sujet qui nous passionne déborde aux matinées et aux soirées, est-ce que c'est encore du travail ?
 
     Suivez ici les points d'étapes dans notre recherche d'un endroit où vivre et être utile.
