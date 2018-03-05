@@ -24,7 +24,7 @@ Je pouvais apprendre tranquillement dans un milieu avec des gens brillants, m’
 
 Passage par la case "entretien en pleine canicule Londonienne fin juin", et un mois plus tard je suis ’Product management intern’ dans une équipe de trois, avec une designer et une développeuse.
 
-![Springfield Park] (2018-03-05-voir-londres-et-partir/Springfield Park.jpg)
+![Springfield Park](2018-03-05-voir-londres-et-partir/Springfield Park.jpg)
 
 ## Product what?
 
@@ -37,7 +37,7 @@ _“A good technologist isn’t a specialist, it’s someone who knows how to ta
 
 L’apprentissage a duré deux mois et demi, je suis restée en mission encore un peu, et puis je suis partie. Je détaillerai cette expérience un peu plus longuement dans un autre article — la synthèse c'est que l'habit du Product Manager ne m'allait pas mais que durant ces quelques mois j'ai appris et découvert un tas de choses. Ça a renforcé ma curiosité et mon envie de pratiquer la recherche et le design de service en particulier.
 
-![Made by many] (2018-03-05-voir-londres-et-partir/Diespeker Wharf.jpg)
+![Made by many](2018-03-05-voir-londres-et-partir/Diespeker Wharf.jpg)
 
 ## Ton expérience de la ville, ça a donné quoi ?
 
@@ -53,7 +53,7 @@ J'ai aussi réalisé un autre tas de trucs que je fantasmais depuis Paris : le m
 
 Par contre je porte dans mon coeur le pub du coin de la rue avec son ambiance calme et son menu de folie (Lady Mildmay, tribute), le café d'à côté qui fait un des meilleurs pains que j'aie jamais goûté, les ateliers vélo inclusifs où j'ai désossé mon Peugeot et compris comment il fonctionnait...
 
-![The Flask bieres et scotch eggs] (2018-03-05-voir-londres-et-partir/The Flask beer and scotch eggs.jpg)
+![The Flask bieres et scotch eggs](2018-03-05-voir-londres-et-partir/The Flask beer and scotch eggs.jpg)
 
 ## Et tu vas chercher quoi ?
 
@@ -71,8 +71,8 @@ On part à la rencontre de lieux et de personnes.
 Une chose que l'expérience Londonienne m'aura apprise c'est la richesse de la communauté. De pouvoir sentir des racines se former, de s'enrichir au contact des autres. Pas évident lorsqu'on se parachute dans un nouvel endroit.   
 Alors on part apprendre de plein de formes de savoirs différents. Des groupes de personnes qui se sont constitués en coopérative pour travailler, des paysans qui diffusent des licences open source pour de nouveaux outils agricoles, ceux qui explorent la transmission de savoir horizontale...
 
-![Demenagement en Kangoo] (2018-03-05-voir-londres-et-partir/Kangoo demenagement.jpg)
-![Auriga sous la neige] (2018-03-05-voir-londres-et-partir/Auriga sous neige.jpg)
+![Demenagement en Kangoo](2018-03-05-voir-londres-et-partir/Kangoo demenagement.jpg)
+![Auriga sous la neige](2018-03-05-voir-londres-et-partir/Auriga sous neige.jpg)
 
 ## Ok, où ça ?
 
@@ -86,7 +86,13 @@ On laisse volontairement de la place à la spontanéité, au "vous devriez renco
 
 ## Quelques photos de Bournemouth
 
-![Sous le pier de Boscombe] (2018-03-05-voir-londres-et-partir/Bournemouth arches.jpg)
-![Trouve sur la plage] (2018-03-05-voir-londres-et-partir/Bournemouth coquillage.jpg)
-![Fish and chips obligatoire] (2018-03-05-voir-londres-et-partir/Smithsons fish and chips.jpg)
-![Couleurs complementaires - Thomas devant des cabines de plage] (2018-03-05-voir-londres-et-partir/Tom Bournemouth beach.jpg)
+![Sous le pier de Boscombe](2018-03-05-voir-londres-et-partir/Bournemouth arches.jpg)
+![Trouve sur la plage](2018-03-05-voir-londres-et-partir/Bournemouth coquillage.jpg)
+![Fish and chips obligatoire](2018-03-05-voir-londres-et-partir/Smithsons fish and chips.jpg)
+![Couleurs complementaires - Thomas devant des cabines de plage](2018-03-05-voir-londres-et-partir/Tom Bournemouth beach.jpg)
+
+## Bye Auriga
+<iframe src="https://player.vimeo.com/video/258665899" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## Crushing it
+<iframe src="https://player.vimeo.com/video/258665998" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
