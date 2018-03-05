@@ -1,5 +1,5 @@
 <ul class="breadcrumb">
-  <li><a href="{{ site.baseurl }}/index.html">Home</a></li>{%
+  <li><a href="{{ '/' | relative_url }}">Home</a></li>{%
   if page.layout == 'page' %}
   <li>{{ page.title }}</li>{%
   elsif page.layout == 'post' %}{%
@@ -7,7 +7,7 @@
     for cat in page.categories %}{%
       unless page.permalink and cat == lastcat %}{%
         capture urlstr %}{{ urlstr }}/{{ cat }}{% endcapture %}
-  <li style="text-transform: capitalize;"><a href="{{ site.baseurl }}{{ urlstr }}">{{ cat }}</a></li>{%  endunless %}{%
+  <li style="text-transform: capitalize;"><a href="{{ site.baseurl | append: urlstr | relative_url }}">{{ cat }}</a></li>{%  endunless %}{%
     endfor %}
   <li>{{ page.title }}</li>{%
   endif %}
