@@ -1453,8 +1453,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include padding(3em, 0); //6
 
 		> .inner {
-			width: 60em;
+			max-width: 60em;
 			margin: 0 auto;
+
+			p, li {
+				max-width: 55%;
+			}
 
 			&.fullwidth {
 				width: 100%;
@@ -1462,12 +1466,19 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 
 			@include breakpoint(large) {
-				//width: 90%;
-				width: 60em;
+				max-width: 75%;
+
+				p, li {
+					max-width: 75%;
+				}
 			}
 
 			@include breakpoint(medium) {
-				width: 100%;
+				width: 95%;
+
+				p, li {
+					max-width: 100%;
+				}
 			}
 
 		}
