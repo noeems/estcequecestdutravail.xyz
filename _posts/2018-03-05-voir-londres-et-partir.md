@@ -2,6 +2,7 @@
 title: Voir Londres et partir
 author: noeems
 excerpt: Update on what the hell is going on.
+image: /images/2018-03-05-voir-londres-et-partir/The Flask beer and scotch eggs.jpg
 ---
 
 ## J’ai l’impression que tu es partie hier. Raconte un peu.
@@ -16,10 +17,10 @@ J’ai passé six mois à Paris en peaufinant un projet, en apprenant beaucoup, 
 Vu mon profil, est-ce que je correspondais plutôt à une Digital Producer, une Product Owner, une Product Manager, une UX designer? Ce n’était pas clair pour moi.
 
 En juin, j’ai vu qu’une de mes agences web préférées, [Made by many](https://www.madebymany.com/) publie une annonce pour un stage d’été rémunéré.
-L’occasion était quand même sublime — même s’il a fallu passer la barrière psychologique de redevenir stagiaire après pas mal d’activité professionnelle, tant pis.  
-La formulation de l’annonce a aidé:  
-"Who should apply?  
-If you’re a student, recent graduate or **someone with a passion for product development who’s looking to get some invaluable experience**, read on."  
+L’occasion était quand même sublime — même s’il a fallu passer la barrière psychologique de redevenir stagiaire après pas mal d’activité professionnelle, tant pis.
+La formulation de l’annonce a aidé:
+"Who should apply?
+If you’re a student, recent graduate or **someone with a passion for product development who’s looking to get some invaluable experience**, read on."
 Je pouvais apprendre tranquillement dans un milieu avec des gens brillants, m’imprégner de leurs réflexes et leurs manières de faire.
 
 Passage par la case "entretien en pleine canicule Londonienne fin juin", et un mois plus tard je suis ’Product management intern’ dans une équipe de trois, avec une designer et une développeuse.
@@ -28,7 +29,7 @@ Passage par la case "entretien en pleine canicule Londonienne fin juin", et un m
 
 ## Product what?
 
-Argh. En français, “produit”, c’est déjà super moche, mais alors couplé avec manager…  
+Argh. En français, “produit”, c’est déjà super moche, mais alors couplé avec manager…
 En anglais, l’industrie tech/web affine son vocabulaire au fur et à mesure que les métiers évoluent et se spécialisent et “product” désigne donc la fin des barrières entre “monde virtuel et monde physique”, les sites web sont des produits comme des autres, ils sont mûrement réfléchis en amont, développés, améliorés dans le temps…
 
 Et un Product manager, c’est quelqu’un qui s’occupe de la vision stratégique d’un site/service. Il/elle va coordonner des équipes qui ont des compétences en design et en technique pour réaliser les projets. Il/elle va prioriser les développements, partager les raisons pour lesquelles il a choisi de donner de l’importance à tel ou tel aspect… Pouvoir mesurer le succès (ou non) de ces étapes.
@@ -64,11 +65,11 @@ Lieu important "pour la société civile, la démocratie, l'engagement civique q
 
 En réalité, ce qui motive ce départ, cette itinérance et ce retour en France, c'est l'envie (le besoin ?) de trouver un endroit où habiter qui nous parle. Un endroit où on aurait un vrai sens d'appartenance, de contribution, de bien être aussi. De moins 'subir' la ville.
 
-Ça ne nous paraissait pas très cohérent de mettre un doigt sur une carte, de ne rien connaître d'un lieu et de faire un pari. C'est plus important pour nous d'aller sur place et écouter nos tripes, voir si on a une révélation soudaine, ou pas.  
+Ça ne nous paraissait pas très cohérent de mettre un doigt sur une carte, de ne rien connaître d'un lieu et de faire un pari. C'est plus important pour nous d'aller sur place et écouter nos tripes, voir si on a une révélation soudaine, ou pas.
 Voir comment les lieux découverts s'inscrivent dans le temps, dans le cadre d'une vie quotidienne, pas le temps des vacances qui peut charmer s'il fait beau et que tu te promènes un croissant à la main.
 
-On part à la rencontre de lieux et de personnes.  
-Une chose que l'expérience Londonienne m'aura apprise c'est la richesse de la communauté. De pouvoir sentir des racines se former, de s'enrichir au contact des autres. Pas évident lorsqu'on se parachute dans un nouvel endroit.   
+On part à la rencontre de lieux et de personnes.
+Une chose que l'expérience Londonienne m'aura apprise c'est la richesse de la communauté. De pouvoir sentir des racines se former, de s'enrichir au contact des autres. Pas évident lorsqu'on se parachute dans un nouvel endroit.
 Alors on part apprendre de plein de formes de savoirs différents. Des groupes de personnes qui se sont constitués en coopérative pour travailler, des paysans qui diffusent des licences open source pour de nouveaux outils agricoles, ceux qui explorent la transmission de savoir horizontale...
 
 ![Demenagement en Kangoo](/images/2018-03-05-voir-londres-et-partir/Kangoo demenagement.jpg)
@@ -76,12 +77,12 @@ Alors on part apprendre de plein de formes de savoirs différents. Des groupes d
 
 ## Ok, où ça ?
 
-On reste en Angleterre pendant quelques semaines, on explore la côte sud (côte "Jurassique" — no joke).  
-Bournemouth — Swanage — Weymouth — Bristol en mars.  
-Puis Bordeaux — Montpellier — Marseille — Lyon en avril  
-Paris — Reims — Crest — Anduze en mai  
+On reste en Angleterre pendant quelques semaines, on explore la côte sud (côte "Jurassique" — no joke).
+Bournemouth — Swanage — Weymouth — Bristol en mars.
+Puis Bordeaux — Montpellier — Marseille — Lyon en avril
+Paris — Reims — Crest — Anduze en mai
 
-Par exemple. Ça pourra changer.   
+Par exemple. Ça pourra changer.
 On laisse volontairement de la place à la spontanéité, au "vous devriez rencontrer un•etel•le"...
 
 ## Quelques photos de Bournemouth

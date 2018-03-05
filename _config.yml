@@ -106,6 +106,9 @@ include: ['_pages','.htaccess']
 
 plugins:
 - jekyll-avatar
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
 
 defaults:
   - scope:

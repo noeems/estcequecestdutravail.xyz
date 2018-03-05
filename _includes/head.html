@@ -2,36 +2,35 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% seo %}
   <!--[if lte IE 8]><script src="{{ "/js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ "/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{ "/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->{%
-  if page.background-image %}{%
-    assign first_char = page.background-image | slice: 0 %}{%
+  if page.image %}{%
+    assign first_char = page.image | slice: 0 %}{%
     if first_char == '/' %}{%
-      assign second_char = page.background-image | slice: 1 %}{%
+      assign second_char = page.image | slice: 1 %}{%
       if second_char == '/' %}{% comment %}                     // remote                 {% endcomment %}{%
-        assign imageurl = page.background-image %}{%
+        assign imageurl = page.image %}{%
       else %}{% comment %}                                      // local, not in /images/ {% endcomment %}{%
-        assign imageurl = page.background-image | prepend: site.baseurl %}{%
+        assign imageurl = page.image | prepend: site.baseurl %}{%
       endif %}{%
     else %}{% comment %}                                        // local, in /images/     {% endcomment %}{%
-      assign imageurl = page.background-image | prepend: "/images/" | prepend: site.baseurl %}{%
+      assign imageurl = page.image | prepend: "/images/" | prepend: site.baseurl %}{%
     endif %}
   <style>
   #main > header {
-    background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl }}");
-    background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl }}");
-    background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl }}");
-    background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl }}");
+    background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl | relative_url }}");
+    background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl | relative_url }}");
+    background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl | relative_url }}");
+    background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ imageurl | relative_url }}");
   }
   </style>
   <!--[if lte IE 9]>
   <style>
   #main > header {
-    background-image: url("{{ imageurl }}");
+    image: url("{{ imageurl }}");
   }
   </style>
   -->{%
