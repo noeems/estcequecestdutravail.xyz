@@ -4,12 +4,6 @@ layout: default
   <section class="wrapper{% if page.options contains 'minihead' %} minihead{% endif %} style5">
     <div class="inner{% if page.options contains 'fullwidth' %} fullwidth{% endif %}">{%
       unless site.navlinks == 'none'
-%}{%    if page.categories contains 'works'
-%}{%      assign idxperma = '/works/' | prepend: site.baseurl
-%}{%      assign idxtitle = 'Works Index'
-%}{%      assign idxbutton = 'Index'
-%}{%      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
-%}{%    endif
 %}{%    if page.categories.first == 'topics' and page.categories.last != 'topics'
 %}{%      assign idxperma = page.categories | join: '/' | prepend: '/' | prepend: site.baseurl | append: '/'
 %}{%      assign idxtitle = 'Start page'
@@ -27,8 +21,8 @@ layout: default
 %}{%    if site.navlinks == 'top' or site.navlinks == 'both'
 %}{%      include fn_sortednav.html posclass='btntop'
 %}{%    endif
-%}{%  endif
-%}{%  unless page.options contains 'minihead' %}
+%}{%  endif %}
+{%  unless page.options contains 'minihead' %}
   <section class="article-metadata">
       <span id="post-date">{{ page.date  | date: "%-d %B %Y" }}</span>
 
@@ -37,14 +31,8 @@ layout: default
       par {% avatar {{page.author}} size=25 %} {{ author.name }}
       {% endunless %}
 
-  </section>{%
-      endunless
-%}{%  if page.categories contains 'works' and page.tags %}
-      <h4>Skills</h4>
-  {%    assign work = page
-%}{%    include techlist.html %}
-  {%  endif
-%}
+  </section>
+{% endunless %}
 
       {{ content }}{%
 
@@ -58,9 +46,6 @@ layout: default
 %}{%    endif
 %}{%  endif
 %}{%  if jekyll.environment == "production"
-%}{%    unless page.options contains nocomment or page.categories contains 'works'
-%}{%      include disqus.html %}
-  {%    endunless
 %}{%  endif
 %}
     </div>
