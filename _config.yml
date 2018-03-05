@@ -33,7 +33,7 @@ greeting:
 # - title for your blog's featured posts
 features-title: Featured articles
 # - displayed at the bottom
-closing-head: À bientôt
+closing-head: À&nbsp;bientôt&nbsp;😀
 closing-para:
 
 # on all pages (and the first three you list display with greeting, if included)

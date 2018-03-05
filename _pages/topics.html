@@ -8,13 +8,11 @@ image: pic01.jpg
 background-image: pic01.jpg
 ---
 
-{%  if site.posts %}{%
-      if site.tags.featured %}
-  <hr style="margin:0 0 1em 0;" />
+{% if site.posts %}
+  {% if site.tags.featured %}
   <h4>Featured</h4>
-  <ul class="post-list">{%
-        for post in site.categories.topics %}{%
-          if post.tags contains "featured" %}
+  <ul class="post-list">
+    {% for post in site.tags.featured %}
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
           <div class="container">
@@ -23,27 +21,27 @@ background-image: pic01.jpg
             <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
           </div>
         </a>
-      </li>{%
-          endif %}{%
-        endfor %}
-  </ul>{%
-      endif %}
-  <hr style="margin:1em 0 1em 0;" />
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
 
-    <ul style="list-style-type: none;">{%
-      assign p = '9999'
-%}{%  for post in site.categories.topics
-%}{%    assign n = post.date | date: "%Y"
-%}{%    if n != p
-%}{%      assign p = n
-%}
-      <br /><h5>{{ n }}</h5>{%
-        endif %}
-      <li style="padding-bottom: 6px;"><code>[{{ post.date | date: "%d %b" }}]</code>&nbsp;
-        <a href="{{ post.url | prepend: site.baseurl }}" style="white-space: nowrap;"><b>{{ post.title }}</b></a>&nbsp;
-          {{ post.excerpt | strip_html | truncatewords: 12 }}</li>{%
-      endfor
-%}
+  {% assign p = '9999' %}
+  {% for post in site.posts %}
+  {% assign n = post.date | date: "%Y" %}
+  {% if n != p %}
+    {% unless p == '9999' %}</ul>{% endunless %}
+    <h5>{{ n }}</h5>
+    <ul style="list-style-type: none;">
+    {% assign p = n %}
+  {% endif %}
+      <li style="padding-bottom: 6px;">
+        <time class="code">[{{ post.date | date: "%d %b" }}]</time>&nbsp;
+        <a href="{{ post.url | prepend: site.baseurl }}" style="white-space: nowrap;">
+          <b>{{ post.title }}</b>
+        </a>&nbsp;{{ post.excerpt | strip_html | truncatewords: 12 }}
+      </li>
+    {% endfor %}
     </ul>
 
 {%  endif %}
