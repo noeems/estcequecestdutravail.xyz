@@ -72,8 +72,10 @@ On part à la rencontre de lieux et de personnes.
 Une chose que l'expérience Londonienne m'aura apprise c'est la richesse de la communauté. De pouvoir sentir des racines se former, de s'enrichir au contact des autres. Pas évident lorsqu'on se parachute dans un nouvel endroit.
 Alors on part apprendre de plein de formes de savoirs différents. Des groupes de personnes qui se sont constitués en coopérative pour travailler, des paysans qui diffusent des licences open source pour de nouveaux outils agricoles, ceux qui explorent la transmission de savoir horizontale...
 
+<section class="gallery" markdown="span">
 ![Demenagement en Kangoo](/images/2018-03-05-voir-londres-et-partir/Kangoo demenagement.jpg)
 ![Auriga sous la neige](/images/2018-03-05-voir-londres-et-partir/Auriga sous neige.jpg)
+</section>
 
 ## Ok, où ça ?
 
@@ -87,13 +89,16 @@ On laisse volontairement de la place à la spontanéité, au "vous devriez renco
 
 ## Quelques photos de Bournemouth
 
+<section class="gallery" markdown="span">
 ![Sous le pier de Boscombe](/images/2018-03-05-voir-londres-et-partir/Bournemouth arches.JPG)
 ![Trouve sur la plage](/images/2018-03-05-voir-londres-et-partir/Bournemouth coquillage.JPG)
 ![Fish and chips obligatoire](/images/2018-03-05-voir-londres-et-partir/Smithsons fish and chips.JPG)
 ![Couleurs complementaires - Thomas devant des cabines de plage](/images/2018-03-05-voir-londres-et-partir/Tom Bournemouth beach.JPG)
+</section>
 
 ## Bye Auriga
 <iframe src="https://player.vimeo.com/video/258665899" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 ## Crushing it
 <iframe src="https://player.vimeo.com/video/258665998" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

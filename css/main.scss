@@ -672,6 +672,34 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	.gallery {
+	   /* Prevent vertical gaps */
+	   line-height: 0;
+	   column-count:         3;
+	   column-gap:           7px;
+		 margin-top: 					10px;
+		 margin-bottom: 			10px;
+	}
+
+	.gallery img {
+	  /* Just in case there are inline attributes */
+	  width: 100% !important;
+	  height: auto !important;
+	  padding-bottom:        7px;
+	  border-radius:          3px;
+	}
+
+	@media (max-width: 800px) {
+	  .gallery {
+	  column-count:         2;
+	  }
+	}
+	@media (max-width: 400px) {
+	  .gallery {
+		column-count:         1;
+	  }
+	}
+
 /* List */
 
 	ol {
