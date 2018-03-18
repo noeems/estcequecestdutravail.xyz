@@ -16,7 +16,11 @@ image: /images/2018-03-18-deux-semaines-d-itinerance/Vue de la marche.jpg
 **Livre en cours** 📖  
 Audre Lorde - ['Your Silence will not protect you'](https://www.theguardian.com/books/2017/oct/04/your-silence-will-not-protect-you-by-audre-lorder-review) et je ne peux que vous conseiller de mettre ceci dans vos oreilles : [Une vie, une œuvre, Audre Lorde](https://www.franceculture.fr/emissions/une-vie-une-oeuvre/audre-lorde-1934-1992-poete-guerriere)
 
+> Il ne faut pas chercher à tout anticiper, vouloir être prédictif, tout baliser, mais faire confiance — Roland Feuillas, "A la recherche du pain vivant"
+{: .first-quote }
+
 ## Londres - Bournemouth
+
 C'est quand même marrant qu'on parte en plein blizzard, the Beast from the East nous accueille avec des vents glaciaux.
 1er mars, on laisse les clés sur la table, on claque la porte.
 
@@ -104,6 +108,24 @@ Plein les mirettes.
 </section>
 
 Un peu de justice dans ce bas monde, on repart quand même sous la pluie après avoir presque pris des coups de soleil.
+
+## Endroits choisis
+
+Il y a un mois ou deux, j'écoutais (encore) [un podcast](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/retours-a-la-nature-14-sur-les-sentiers-de-la-liberte-henry-david-thoreau-elisee-reclus) dont voici des bribes qui me sont restées :  
+> “Libérer la façon dont nous vivons l’espace. Des lieux qui nous traversent en même temps que nous y habitons”  
+“Faire de la géographie par ses sens, un voyage intérieur et extérieur”  
+“Des alliés existentiels”  
+"Des réformes de soi, des utopies concrètes… A chacun de trouver ses propres combats"  
+"Un universel qui n’écrase pas les singuliers"    
+
+D'ailleurs, sur la notion de chez soi, une des lectures qui m'avaient le plus saisies était ["Chez soi — une odyssée de l'espace domestique"](http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=197) de Mona Chollet.
+
+> Parler du chez-soi, de ce que nos maisons représentent dans nos vies, de ce qu’elles rendent possible, de nos aspirations en matière d’habitat : quand ce sujet ne semble pas dénué du moindre intérêt, il suscite une certaine défiance, comme si le simple fait de s’en préoccuper nous menaçait d’un embourgeoisement fatal.
+
+> On insiste – à raison, ô combien – sur la nécessité de se réapproprier l’espace public ; mais on l’oppose de façon simpliste à un univers domestique qui, dans l’esprit de beaucoup, ne fait naître que des images peu glorieuses de repli frileux, d’avachissement devant la télévision en pantoufles Mickey, d’accumulation compulsive d’appareils électroménagers et d’indifférence résolue au monde.  
+> Or, dans une époque aussi dure et désorientée, il me semble au contraire qu’il peut y avoir du sens à repartir de nos conditions concrètes d’existence ; à repartir de ces actions – à peine des actions, en réalité – et de ces plaisirs élémentaires qui nous maintiennent en contact avec notre énergie vitale : traîner, dormir, rêvasser, lire, réfléchir, créer, jouer, jouir de sa solitude ou de la compagnie de ses proches, jouir tout court, préparer et manger des plats que l’on aime.
+
+> J’appartiens donc à cette espèce discrète, un rien honteuse : les casaniers, habitués à susciter autour d’eux la perplexité, voire la pitié ou l’agressivité, et qui, avec le temps, apprennent à s’accommoder stoïquement des sarcasmes de leurs proches.
 
 ## Swanage - Isle of Portland
 

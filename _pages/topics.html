@@ -41,7 +41,9 @@ image: 2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
           <time class="code">[{{ post.date | date: "%d %b" }}]</time>&nbsp;
           <a href="{{ post.url | prepend: site.baseurl }}" style="white-space: nowrap;">
             <b>{{ post.title }}</b>
-          </a>&nbsp;{{ post.excerpt | strip_html | truncatewords: 12 }}
+          </a>
+
+          <p>{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
         </li>
       {% endfor %}
       </ul>
