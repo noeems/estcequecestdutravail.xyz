@@ -1,13 +1,13 @@
-## arkadianriver.com
+## Est-ce que c'est du travail
 
-My personal web site, based off the http://html5up.net/spectral design by
+Personal web site, based off the http://html5up.net/spectral design by
 [@ajlkn](http://twitter.com/ajlkn).
-The site is made for blog and portfolio content. The blog can contain both
-personal entries and entries by syndicated authors.
 The site uses jekyll, a method of creating and maintaining a web site,
 which works by using local templates to generate static files that you upload
 and sync with your remote site.
-This repo is the same code I use for my site, excluding my posts.
+
+## With thanks to
+Loïc Sander at Velvetyne foundry for the [Fengardo Neue font](http://velvetyne.fr/fonts/fengardo-neue/).
 
 ### If you clone or fork this repo to use it:
 
@@ -25,7 +25,7 @@ This repo is the same code I use for my site, excluding my posts.
       author entry in the file.
 
    d. Provide your own images.
-   
+
    e. Continue tweaking to your heart's desire, or not.
 
 0. Create your posts:
