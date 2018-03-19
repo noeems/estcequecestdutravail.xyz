@@ -13,7 +13,7 @@ image: /images/2018-03-18-deux-semaines-d-itinerance/Vue de la marche.jpg
 * [Invisibilia](https://www.npr.org/podcasts/510307/invisibilia) - I, I, I. Him
 * A voix nue. [Matali Crasset - De la Marne à Berlin : s'échapper !](https://www.franceculture.fr/emissions/a-voix-nue/matali-crasset-15-de-la-marne-a-berlin-sechapper)
 
-**Livre en cours** 📖  
+**Livre en cours** 📖
 Audre Lorde - ['Your Silence will not protect you'](https://www.theguardian.com/books/2017/oct/04/your-silence-will-not-protect-you-by-audre-lorder-review) et je ne peux que vous conseiller de mettre ceci dans vos oreilles : [Une vie, une œuvre, Audre Lorde](https://www.franceculture.fr/emissions/une-vie-une-oeuvre/audre-lorde-1934-1992-poete-guerriere)
 
 > Il ne faut pas chercher à tout anticiper, vouloir être prédictif, tout baliser, mais faire confiance — Roland Feuillas, "A la recherche du pain vivant"
@@ -27,7 +27,7 @@ C'est quand même marrant qu'on parte en plein blizzard, the Beast from the East
 Le temps de passer boire un café rapide chez [Basile](https://twitter.com/basilesimon), et on quitte Londres pour le Dorset. On morcelle en quelques étapes un circuit qui nous mènera à Bristol, où on présente un projet en cours ([Mind the Gaps](https://mind-the-gaps.org/research/)) au [Data for Development festival](http://www.data4sdgs.org/).
 
 **Vivre avec un sac à dos ?
-Aucun problème, je ne manque de rien.**  
+Aucun problème, je ne manque de rien.**
 Sans frimer, vraiment — un sac à dos de 35 litres bien plein contient ce qu'il me faut. (J'ai même encore 4 livres dans mon sac, pas super raisonnable là-dessus.)
 
 Ce qui se dessine assez rapidement, c'est que **c'est l'accès (tranquille) à une cuisine qui est essentiel pour qu'on se sente bien quelque part**.
@@ -46,17 +46,17 @@ L'Angleterre n'a pas la tradition du marché, et encore moins pour y faire ses c
 </section>
 
 Bournemouth est une ancienne station balnéaire prisée, elle en porte les signes architecturaux, mais on sent que depuis, c'est un peu moins la gloire.
-On nous n'a déjà dit, mais on voit à quel point Londres (en particulier) et les grandes villes vampirisent toutes les ressources.
+On nous l'a déjà dit, mais on voit à quel point Londres (en particulier) et les grandes villes vampirisent toutes les ressources.
 
-D'ailleurs (biais de confirmation ou non), on voit dans les jours qui suivent plusieurs articles sur le déclin de l'Angleterre et on en constate, dans notre vie quotidienne, tous les signes.
-[Baisse de l'espérance de vie](http://abonnes.lemonde.fr/economie/article/2018/03/10/voyage-au-pays-ou-l-austerite-fait-reculer-l-esperance-de-vie_5268837_3234.html), catastrophe de privatisation des réseaux ferroviaires et de [l'eau](http://abonnes.lemonde.fr/economie/article/2018/03/03/au-royaume-uni-la-privatisation-de-l-eau-sous-le-feu-des-critiques_5265205_3234.html)...
+D'ailleurs (biais de confirmation ou non), on voit dans les jours qui suivent [plusieurs](https://www.theguardian.com/business/2018/mar/14/toys-r-us-to-shut-all-uk-stores-resulting-in-3000-job-losses) [articles](https://www.theguardian.com/lifeandstyle/2018/feb/16/not-so-fresh-why-jamie-oliver-restaurants-lost-their-bite) sur le déclin de l'Angleterre et on en constate, dans notre vie quotidienne, tous les signes.
+[Baisse de l'espérance de vie](http://www.lemonde.fr/economie/article/2018/03/10/voyage-au-pays-ou-l-austerite-fait-reculer-l-esperance-de-vie_5268837_3234.html), catastrophe de privatisation des réseaux ferroviaires et de [l'eau](http://www.lemonde.fr/economie/article/2018/03/03/au-royaume-uni-la-privatisation-de-l-eau-sous-le-feu-des-critiques_5265205_3234.html)...
 
 Le micropub du coin sert des bières locales et nous sert de refuge. Un soir, on s'y retrouve et il n'y a qu'une poignée de gens, qui finissent par échanger des parcours de vie - on dirait bien que beaucoup de gens sont passés par la case Londres et en sont repartis.
 
 ## Bournemouth - Swanage
 
 Changement d'ambiance.
-Le bus régional qui longe la côte doit embarquer sur un ferry pour nous mener droit dans une réserve naturelle. On ne connait rien de cette région, mais June (qui nous accueillait à Bournemouth) ne tarit pas d'éloges dessus.  
+Le bus régional qui longe la côte doit embarquer sur un ferry pour nous mener droit dans une réserve naturelle. On ne connait rien de cette région, mais June (qui nous accueillait à Bournemouth) ne tarit pas d'éloges dessus.
 Thomas avait vu une cheminée et un petit feu qui crépite sur Airbnb et a eu un coup de foudre.
 
 <section class="gallery" markdown="span">
@@ -65,19 +65,19 @@ Thomas avait vu une cheminée et un petit feu qui crépite sur Airbnb et a eu un
 ![Goofing on Purbeck](/images/2018-03-18-deux-semaines-d-itinerance/Goofing on Purbeck.jpg)
 </section>
 
-**Ok. On ne nous a pas menti sur la marchandise**  
+**Ok. On ne nous a pas menti sur la marchandise**
 L'endroit est magnifique. On marche 25 minutes au nord de Swanage et on arrive par un chemin boueux dans un vieux corps de ferme ultra cosy avec cheminée effectivement, vieux four au gaz, deux chats noirs en bonus et évidemment - des édredons 'out of this world' en plumes d'oie, parce que faut pas déconner, on va jusqu'au bout ici.
 
 On trouve en riant des points communs avec Clare, notre hôte, qui est prof d'art à l'université de Bournemouth.
-Un de ses chats s'appelle Luna, comme la fille de Stéphane (à une voyelle près. Stéphane nous a rejoint la veille).  
-Son père, un peintre, se rendait à Anduze tous les ans, et elle continue à y aller lorsqu'elle peut. Nous y allons en mai.  
+Un de ses chats s'appelle Luna, comme la fille de Stéphane (à une voyelle près. Stéphane nous a rejoint la veille).
+Son père, un peintre, se rendait à Anduze tous les ans, et elle continue à y aller lorsqu'elle peut. Nous y allons en mai. Coïncidence ? Je ne crois pas.
 
 On lui explique un peu ce qu'on fait.
 
-_“— I'm writing a book on a programming language”  
+_“— I'm writing a book on a programming language”
 “— OH GOD!”_
 
-J'adore son honnêteté, pour elle c'est impensable (et 'utterly boring').   
+J'adore son honnêteté, pour elle c'est impensable (et 'utterly boring').
 En fait, l'endroit est tellement beau qu'on ne peut pas s'empêcher d'aller explorer.
 
 <section class="gallery" markdown="span">
@@ -91,12 +91,12 @@ En fait, l'endroit est tellement beau qu'on ne peut pas s'empêcher d'aller expl
 ![Vue sur un village le soir tombé](/images/2018-03-18-deux-semaines-d-itinerance/Vue sur un village.jpg)
 </section>
 
-Au passage, si vous y êtes, ne loupez surtout pas The Fish Plaice, sans blaguer le meilleur fish and chips de ma vie, et de loin.
+Au passage, si vous y êtes, ne loupez surtout pas [The Fish Plaice](http://fishplaice.co.uk/).
+Sans blaguer le meilleur _fish and chips_ de ma vie, et de loin.
 
 ## Balade sur la Jurassic Coast
 
-Les Anglais font certaines choses très, très bien, et parmi elles - les sentiers de marche et de randonnée.  
-Plein les mirettes.
+Parmi les choses que les Anglais font très, très bien : les sentiers de marche et de randonnée. Plein les mirettes.
 
 <section class="gallery" markdown="span">
 ![Bout de falaise](/images/2018-03-18-deux-semaines-d-itinerance/Minuscule Stephane sur bout de falaise.jpg)
@@ -111,28 +111,28 @@ Un peu de justice dans ce bas monde, on repart quand même sous la pluie après 
 
 ## Endroits choisis
 
-Il y a un mois ou deux, j'écoutais (encore) [un podcast](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/retours-a-la-nature-14-sur-les-sentiers-de-la-liberte-henry-david-thoreau-elisee-reclus) dont voici des bribes qui me sont restées :  
-> “Libérer la façon dont nous vivons l’espace. Des lieux qui nous traversent en même temps que nous y habitons”  
-“Faire de la géographie par ses sens, un voyage intérieur et extérieur”  
-“Des alliés existentiels”  
-"Des réformes de soi, des utopies concrètes… A chacun de trouver ses propres combats"  
-"Un universel qui n’écrase pas les singuliers"    
+Il y a un mois ou deux, j'écoutais (encore) [un podcast](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/retours-a-la-nature-14-sur-les-sentiers-de-la-liberte-henry-david-thoreau-elisee-reclus) dont voici des bribes qui me sont restées :
+> “Libérer la façon dont nous vivons l’espace. Des lieux qui nous traversent en même temps que nous y habitons”
+“Faire de la géographie par ses sens, un voyage intérieur et extérieur”
+“Des alliés existentiels”
+"Des réformes de soi, des utopies concrètes… A chacun de trouver ses propres combats"
+"Un universel qui n’écrase pas les singuliers"
 
 D'ailleurs, sur la notion de chez soi, une des lectures qui m'avaient le plus saisies était ["Chez soi — une odyssée de l'espace domestique"](http://www.editions-zones.fr/spip.php?page=lyberplayer&id_article=197) de Mona Chollet.
 
 > Parler du chez-soi, de ce que nos maisons représentent dans nos vies, de ce qu’elles rendent possible, de nos aspirations en matière d’habitat : quand ce sujet ne semble pas dénué du moindre intérêt, il suscite une certaine défiance, comme si le simple fait de s’en préoccuper nous menaçait d’un embourgeoisement fatal.
 
-> On insiste – à raison, ô combien – sur la nécessité de se réapproprier l’espace public ; mais on l’oppose de façon simpliste à un univers domestique qui, dans l’esprit de beaucoup, ne fait naître que des images peu glorieuses de repli frileux, d’avachissement devant la télévision en pantoufles Mickey, d’accumulation compulsive d’appareils électroménagers et d’indifférence résolue au monde.  
+> On insiste – à raison, ô combien – sur la nécessité de se réapproprier l’espace public ; mais on l’oppose de façon simpliste à un univers domestique qui, dans l’esprit de beaucoup, ne fait naître que des images peu glorieuses de repli frileux, d’avachissement devant la télévision en pantoufles Mickey, d’accumulation compulsive d’appareils électroménagers et d’indifférence résolue au monde.
 > Or, dans une époque aussi dure et désorientée, il me semble au contraire qu’il peut y avoir du sens à repartir de nos conditions concrètes d’existence ; à repartir de ces actions – à peine des actions, en réalité – et de ces plaisirs élémentaires qui nous maintiennent en contact avec notre énergie vitale : traîner, dormir, rêvasser, lire, réfléchir, créer, jouer, jouir de sa solitude ou de la compagnie de ses proches, jouir tout court, préparer et manger des plats que l’on aime.
 
 > J’appartiens donc à cette espèce discrète, un rien honteuse : les casaniers, habitués à susciter autour d’eux la perplexité, voire la pitié ou l’agressivité, et qui, avec le temps, apprennent à s’accommoder stoïquement des sarcasmes de leurs proches.
 
 ## Swanage - Isle of Portland
 
-Pluie, pluie, pluie, pluie...  
+Pluie, pluie, pluie, pluie...
 Ah oui. Mars en Angleterre, on voit à peu près ce que ça donne.
 
-Portland est en fait une presqu'île (et non pas une île), un énorme rocher, exploité pour son minerais. Partout, on tombe sur de grandes carrières encore actives.  
+Portland est en fait une presqu'île (et non pas une île), un énorme rocher, exploité pour son minerais. Partout, on tombe sur de grandes carrières encore actives.
 Et à côté, ça ne respire pas la joie. Ici, on est dans un cottage à trois, pas d'hôtes à (peut être) déranger, mais en bonus, le bruit des voitures passantes en stéréo...
 Moi qui pensais avoir trouvé un endroit plein de 'mignonceté', je me suis bien trompée. On en profite pour plonger chacun dans nos projets.
 
@@ -159,7 +159,7 @@ La méga bonne nouvelle : Thomas avait emporté à peu près cinq kilos de farin
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Apag7fL05Ppd3W8_47_5gSqUrkPtcSPy" width="640" height="480"></iframe>
 
-On vient d'arriver à Dorchester, il nous reste moins d'une semaine avant le retour en France.  
+On vient d'arriver à Dorchester, il nous reste moins d'une semaine avant le retour en France.
 D'ailleurs nos étapes des mois à venir sont indiquées [ici](http://estcequecestdutravail.xyz/map/).
 
 ## I mean
