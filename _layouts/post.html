@@ -27,8 +27,12 @@ layout: default
       <span id="post-date">{{ page.date  | date: "%-d %B %Y" }}</span>
 
       {%  unless page.author == 'none' %}
-      {% assign author = site.data.authors[page.author] %}
-      par {% avatar {{page.author}} size=25 %} {{ author.name }}
+      par
+      {% for author_id in page.author %}
+      {% assign author = site.data.authors[ author_id ] %}
+      <img src="https://avatars1.githubusercontent.com/{{author_id}}?v=3&s=25" alt="">
+      {{ author.name }}
+      {% endfor %}
       {% endunless %}
 
   </section>
