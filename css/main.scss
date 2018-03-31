@@ -1178,6 +1178,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			width: 40%;
 			img {
 				border-radius: 0;
+				object-fit: cover;
+				max-height: 25vw;
 				width: 100%;
 			}
 		}
