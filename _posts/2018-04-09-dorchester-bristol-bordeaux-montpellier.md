@@ -88,10 +88,10 @@ Lorsqu'il est arrivé, il avait fêté ses 30 ans. Jolie boucle.
 
 On fête ça avec une sortie en règle chez [Martin - boire et manger](http://bar-martin.fr/) avec [Olivier](https://twitter.com/olivierlacan). Eperlans frits, bouillon coco, meatballs, brownie tahini halva...
 
-Juste avant de partir pour Bordeaux, on rencontre Valentin d'Open Source Politics.
+Juste avant de partir pour Bordeaux, on rencontre Valentin d'[Open Source Politics](http://www.opensourcepolitics.eu/).
 Notre premier 'vrai' entretien sur la route.
 On parle de démocratie essouflée, de technologie et de communs, de silos, d'équilibre.
-Par ici pour lire la rencontre.
+Un article plus détaillé sur nos discussions est en cours d'écriture - à venir dans quelques jours.
 
 A Bordeaux, on poursuit notre recherche de terrain pour Mind the Gaps.
 
