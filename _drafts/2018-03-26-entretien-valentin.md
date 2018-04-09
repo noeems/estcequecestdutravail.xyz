@@ -1,13 +1,11 @@
 ---
-title: Entretien avec Valentin Chaput (Open Source Politics)
+title: Entretien avec Valentin Chaput d'Open Source Politics
+excerpt: Pour que la démocratie continue entre les élections
 image: /images/2018-03-26-entretien-valentin/liberte-living-lab.jpg
 author:
 - noeems
 - oncletom
 ---
-
-### Open Source Politics
-#### Pour que la démocratie continue entre les élections
 
 Fin mars, on a profité de notre passage éclair à Paris pour discuter avec Valentin Chaput, co-fondateur d'[Open Source Politics](http://www.opensourcepolitics.eu/).
 
@@ -38,19 +36,25 @@ Les pratiques s'affinent et se diversifient — Madrid lance sa propre plateform
   "Les technologies de la citoyenneté sont pleines de promesses. Nos attentes collectives sont très élevées. Pourtant, l’impact du numérique sur la politique est, encore à ce jour, trop limité à un cercle restreint d’initiés répondant aux mêmes traits socio-économiques. [...]
   Nous avons trouvé dans ces nombreuses méthodes d’intelligence collective les recettes d’une bonne hybridation entre l’organisation d’événements hors ligne et la restitution des contributions en ligne pour enrichir le contenu de nos plateformes. Vaccinés par la pratique contre les discours béats sur le solutionnisme technologique, nous proposons à nos clients des approches et des compétences complémentaires."
 
-### La constitution d'une équipe pluridisciplinaire
+### Une équipe pluridisciplinaire
 
-Chouette composition de leur équipe : diversifiée et importante dans leur projet (politique, gestion d'entreprise, développement). Connaissances politiques nécessaires. Compréhension de leur fonctionnement. Plus facile d'y faire naviguer des projets technologiques.
+Les co-fondateurs d'Open Source Politics ont chacun des compétences qui apportent un versant indispensable au projet.
+A eux tous, ils cumulent expérience en politique / sur le terrain, recherche et implication citoyenne, gestion d'entreprise, développement.
+
+La compréhension du fonctionnement actuel de la politique en France, qu'elle soit portée au Sénat, dans une collectivité ou sur le terrain, nous a tout de suite apparu comme une immense force de cette équipe face à la tentation d'un solutionnisme technologique.
+La compréhension fine des attentes, des contraintes et du fonctionnement des entités qui peuvent porter ces initiatives de participation citoyenne parait être un élément clé.
+
+Pour le volet technologique, la petite équipe d'OSP fonctionne avec une constellation de freelances sourcés du même endroit ([Happy Dev](https://happy-dev.fr/)) ce qui favorise une culture commune.
+
+On a parlé de structures en réseau, vitales dans ce genre de démarche.
+
+> C'est en faisant système.
+
+>-- Notes --
+Plus facile d'y faire naviguer des projets technologiques.
 On a parlé de fonctionnement en silos.
 Sa formation est plutôt Sciences Po; travail au Sénat, sur le terrain etc. Il a fait l'une des premières promos du Wagon après avoir perçu qu'il n'avait pas trouvé ce qu'il était venu chercher.
 Il a vu la technologie comme un moyen de faire le pont entre la politique et des projets d'économie sociale et solidaire.
-
-Le mode de fonctionnement d'OSP parait sain: petite équipe et constellation de freelances sourcés du même endroit (Happy dev) ce qui favorise une culture commune.
-
-La communauté Happy dev a grandi rapidement et c'est intéressant de voir la structure en réseau (voir que certains sont plusieurs à former des 'nodes' ie Nantes mais ne se structurent pas indépendamment de Happy Dev)
-Drôle de voir que les chemins se croisent car Claire Zuliani (qui fait une conférence avec Thomas à Mixit en avril) travaille avec OSP.
-
-> C'est en faisant système.
 
 ### Les générations de logiciels
 
@@ -60,31 +64,43 @@ L'approche "exportable partout" dans la conception; envisagent déjà la modular
 Ça reflète la maturité des équipes derrière.
 Intéressant de voir que chaque plateforme s'est inspirée des précédentes pour construire le système qui lui convient.
 
-### L'accompagnement
+### L'accompagnement sur un projet de participation citoyenne.
 
+Une grande partie de l'activité d'Open Source Politics repose sur la formation et l'accompagnement.
+
+Il n'est pas question de fournir un objet technologique à une collectivité pour qu'elle résolve le problème d'elle-même. Il est plutôt question de les rendre autonome et de les équiper. L'approche est différente.
+
+> "Des outils pour inviter à discuter avec nous".
+
+- L'utilisation d'un hackathon pour structurer un cahier des charges de manière participative (Nanterre)
+
+> -- Notes --
 Je me demande comment ils fonctionnent en terme d'accompagnement sur un projet. Il a mentionné une formation initiale (pour débuter un projet). Je me demande ce qu'ils font en prestation de service immatérielle.
-
-Je note une approche différente. Il n'est pas question de fournir un objet technologique à une collectivité pour qu'elle résolve le problème d'elle-même. Il est plutôt question de les rendre autonome et de les équiper. "Des outils pour inviter à discuter avec nous".
-
-- l'utilisation d'un hackathon pour structurer un cahier des charges de manière participative (Nanterre)
 
 ### Les difficultés
 
-La demande elle est plus sur un système participatif et engageant, démocratiquement parlant.
+La demande est plus sur un système participatif et engageant, démocratiquement parlant.
 
-Peu de réflexion sur les communs.
+- Le travail dans l'urgence. Les demandes par rapport à la faisabilité dans un temps défini par des échéances de calendrier (élections, événements, etc).
 
-Les difficultés ? L'urgence. Les demandes par rapport à la faisabilité dans un temps défini par des échéances de calendrier (élections, événements, etc).
+- Peu de réflexion sur les communs.
 
-Autre difficulté : trouver une personne dédiée (côté service public) pour suivre le projet d'open politics dans la collectivité qui l'a commandé et pour créer une dynamique suffisante (côté projet et côté citoyens).
+- Trouver et/ou former une personne dédiée (côté service public) pour suivre le projet dans la collectivité qui l'a commandé et pour créer une dynamique suffisante (côté projet interne et côté citoyens).
 
-Le travail en remote est difficile pour lui, Thomas se demande pourquoi et quelles étaient ses circonstances (est-ce que ça aurait pu être amélioré ?)
+- Le travail à distance reste compliqué, et plus ou moins adapté selon les métiers.
+> Note: Thomas se demande pourquoi et quelles étaient ses circonstances (est-ce que ça aurait pu être amélioré ?)
 
-### La maturité de réflexion sur les communs.
-
+### La maturité de réflexion sur les communs - les modèles d'entreprises "civic tech"
 
 Il y a pas mal de boites en France qui fonctionnent sur un modèle "classique". Donc il y a assez peu de réflexions partagées sur les modèles économiques. Certaines boites se réclament de la CivicTech mais n'intègrent pas la dimension open source et les communs.
 
+"Nous avons par ailleurs été piégés par nos propres définitions de la civic-tech, si englobantes qu’elles ne permettent pas la distinction entre plusieurs réalités techniques, économiques et finalement éminemment politiques.
+
+La civic-tech concerne l’ensemble des plateformes et applications mobiles spécifiquement conçues pour renforcer l’engagement citoyen, la participation démocratique et la transparence des gouvernements. Ces solutions accompagnent tout le cycle de vie d’une politique publique, de l’idéation à l’évaluation. Il est cependant nécessaire de creuser le sujet pour obtenir une typologie plus objective des modèles et des acteurs." https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e
+
+"Dans ces contextes, la plus-value provient de l’expertise déployée sur le terrain grâce à l’outil, et non du dangereux mirage d’un solutionnisme technologique qui prétend qu’un outil unique va tout changer."
+
+"A ce jour, la civic-tech n’est qu’un passe-temps pour la classe moyenne urbaine désabusée par le spectacle de sa représentation politique. A de très rares exceptions près, nos initiatives ne sont pas inclusives et ne touchent pas les citoyens des quartiers populaires et des périphéries qui forment les bastions d’abstentionnistes et de votes extrêmes. La tâche est immense tant le fossé à combler est profond, tant les fractures seront longues à cicatriser."
 --
 
 Mâturité. De réflexion. Dans les collectivités locales par rapport à la technologie.
@@ -97,18 +113,24 @@ Valentin dit qu'il est à la recherche de quelque chose d'apaisé mais que c'est
 J'en retiens :
 - les 4 instances de l'innovation numérique gouvernementale en France vs. 1 à l'étranger (18f puis USDS aux USA, GDS en Angleterre, CDS au Canada)
 
-Ce que ça donne envie de savoir :
+### Ce que ça nous donne envie d'aller voir :
 
-- comment et pourquoi GDS/USDS, etc se sont formées ?
-- le fonctionnement de Decidim et de Meta Decidim (gouvernance, code, rencontre)
-- aller voir DemocracyOS et Loomio
-- comment Open Source Politics adresse la question du désintérêt citoyen envers la démocratique/politique ?
-- voir l'historique des événements du Meetup Open Source Politics
-- regarder le site de l'Arc de l'Innovation et du MedNum
+- comment et pourquoi GDS/USDS et al se sont formées ?
+- le fonctionnement de Decidim et de Meta Decidim (gouvernance, code, fréquence de rencontres)
+- DemocracyOS et Loomio
+- l'historique des événements du Meetup Open Source Politics
+- l'Arc de l'Innovation et MedNum
 - le rapport de la Cour des Comptes, sur l'encouragement des innitiatives locales et du développement déconcentré (ref ?)
+- comment Open Source Politics adresse la question du désintérêt citoyen envers la démocratique/politique ?
 - Village de Pourgues (Baptiste Bernier) - abandonné puis progressivement réinvesti; maintenant environ une trentaine de familles, un projet d'école, etc...
 
-Les questions que se pose Valentin:
-- taille d'equipe
+### Les questions que se pose Valentin:
+- taille d'équipe. Est-ce que l'idéal est de rester en équipe restreinte et si oui pourquoi ?
+- curiosité envers des projets similaires
 
-Follow-up:rapport de la cour des comptes
+### Les ressources:
+Tout récemment, le [Plan Gouvernement Ouvert 2018-2020](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)
+Le rapport [Donner un sens à l'intelligence artificielle - Stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf) (dont la première section s'intitule 'Renforcer l'écosystème européen de la donnée)
+[Open Government Partnership Toolbox](https://ogptoolbox.org/en/)
+
+Follow-up:rapport de la cour des comptes?
