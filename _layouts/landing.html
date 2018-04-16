@@ -65,11 +65,18 @@
                 </a>
               </div>
               <div class="content">
-                <a href="{{ my_page.url | prepend:site.baseurl }}">
-                  <h2>{{ my_page.title }}</h2>
-                  <p>{{ my_page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>
+                <h2>{{ my_page.title }}</h2>
+                <p>{{ my_page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>
 
+                <a href="{{ my_page.url | prepend:site.baseurl }}">
+                  {% if my_page.options contains 'last-post-image' %}
+                  <span class="button">Voir la liste des articles</span>
+                <a href="{{ site.posts.first.url}}" >
+                    <span class="button">Lire le dernier</span>
+                </a>
+                  {% else %}
                   <span class="button">Lire la suite</span>
+                  {% endif %}
                 </a>
               </div>
             </section>{%
