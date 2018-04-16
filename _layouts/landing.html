@@ -74,6 +74,8 @@
                 <a href="{{ site.posts.first.url}}" >
                     <span class="button">Lire le dernier</span>
                 </a>
+                  {% elsif my_page.permalink == '/map/' %}
+                    <span class="button">Voir les étapes</span>
                   {% else %}
                   <span class="button">Lire la suite</span>
                   {% endif %}
