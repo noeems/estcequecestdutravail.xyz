@@ -1632,7 +1632,7 @@ $baseurl: '{{ site.baseurl }}/images';
 					border: 0;
 					color: inherit;
 					display: block;
-					font-size: _font(hdr-size-xsmall);
+					font-size: _font(hdr-size-xxsmall);
 					letter-spacing: _size(letter-spacing-alt);
 					outline: 0;
 					text-decoration: none;
@@ -1737,7 +1737,6 @@ $baseurl: '{{ site.baseurl }}/images';
 						font-size: _font(hdr-size-xsmall);
 						letter-spacing: _size(letter-spacing-alt);
 						padding: 0 1.5em;
-						text-transform: uppercase;
 
 						&.menuToggle {
 							outline: 0;
