@@ -7,17 +7,38 @@ author:
 - oncletom
 ---
 
-Fin mars, on a profité de notre passage éclair à Paris pour discuter avec Valentin Chaput, co-fondateur d'[Open Source Politics](http://www.opensourcepolitics.eu/).
+**Thèmes**: communs, technologie, démocratie, citoyenneté, participation, service public, design de service...
 
-Je connais Valentin depuis le lycée — ça fait un bail. C'est son article sur les modèles (économiques) dans la civic tech qui lance l'envie de se revoir pour discuter.
-On va boire un café matinal au Liberté Living Lab où ils ont leurs locaux.
+>"Notre génération aspire à créer un monde plus collaboratif. [...] Nous devons changer en profondeur le fonctionnement de notre démocratie si nous ne voulons pas qu’elle soit emportée à court terme par la défiance, la colère et le renoncement."   
+[La civic-tech française risque de se détourner de la création des biens communs numériques](https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e)
 
-"Notre génération aspire à créer un monde plus collaboratif. [...] Nous devons changer en profondeur le fonctionnement de notre démocratie si nous ne voulons pas qu’elle soit emportée à court terme par la défiance, la colère et le renoncement." [La civic-tech française risque de se détourner de la création des biens communs numériques] (https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e)
+Fin mars, on a profité d'un passage éclair à Paris pour discuter avec Valentin Chaput, co-fondateur d'[Open Source Politics](http://www.opensourcepolitics.eu/).  
+C'est leur article sur les modèles (économiques) de la civic tech qui lance l'envie de se voir pour discuter.
 
-Valentin a une formation en sciences politiques et a travaillé au Sénat et sur le terrain, se rend compte petit à petit que ses instincts se vérifient — les modèles politques actuels sont essouflés et ont antagonisé une partie de la population.
-A travers ses expériences, il se rend vite compte qu'il faut changer de modèle.
+Notre conversation va beaucoup porter sur l'open source, sur la maturité de réfléxion sur la notion de communs, sur le chapeau "Civic tech" et les modèles d'entreprises que ça englobe, et surtout l'impact du modèle économique, on y revient toujours.
 
-### L'émergence de plateformes de démocratie participative
+
+Valentin a fondé Open Source Politics en 2016 avec trois autres personnes. Ensemble, ils contribuent à développer des plateformes de démocratie participative pour des acteurs publics, privés et associatifs.
+
+Valentin a une formation initiale en sciences politiques, se fait embaucher au Sénat et accumule de l'expérience sur le terrain. Après un constat d'essouflement des modèles actuels, d'un monde politique qui a antagonisé une partie de la population, il se forme au développement logiciel dans une des premières promotions du Wagon.
+
+Valentin voit dans la technologie un moyen possible de reconstruire de nouvelles passerelles entre les citoyens et la participation démocratique.
+
+Les passerelles justement, elles sont nombreuses avec nos activités respectives :
+
+  - Le travail en collaboration avec des organismes publics est au cœur de la coopérative dtc innovation qui réunit Thomas, David et Clémentine dans l'envie de travailler des projets numériques autrement.
+
+  - Via cette même coopérative, Thomas a été très impliqué avec les équipes d'Etalab, le laboratoire d'innovation de l'état, et plus particulièrement sur la plateforme de mise à disposition des données publiques [data.gouv.fr]().
+  Par là et son expérience précédente à BBC R&D, il maîtrise bien les enjeux liés à l'open data et l'open source.
+
+  - Récemment, nous avons tous les deux exploré la production citoyenne de données pendant le projet de recherche "Mind the Gaps".
+
+(Discussion de circonstance — le modèle économique de Facebook est au cœur des discussions ces jours-ci, prise de conscience sur le profilage effectué, sur et hors de la plateforme, pour mieux "cibler" des publicités par la suite. Prise de conscience sur la régulation, le consentement des utilisateurs, les conditions d'utilisation opaques...)
+
+Il nous raconte l'histoire de plateformes qui fleurissent progressivement, d'abord en Argentine, puis aux Etats-Unis, au Mexique, en Espagne... Qui portent cet espoir et proposent de nouvelles approches.
+
+### Les conditions d'émergence de plateformes de démocratie participative
+
 
 C'est DemocracyOS, une plateforme citoyenne participative lancée en Argentine, qui lance le mouvement civic tech en 2012.
 Quelles solutions technologiques pour faciliter l'implication des citoyens dans la vie politique et locale ?
@@ -74,6 +95,14 @@ Il n'est pas question de fournir un objet technologique à une collectivité pou
 
 - L'utilisation d'un hackathon pour structurer un cahier des charges de manière participative (Nanterre)
 
+"Quel est l’intérêt d’Open Source Politics si nos clients peuvent se passer de nous dès que le transfert de compétences a eu lieu ? En réalité, ce modèle est totalement cohérent avec le modèle qui consiste à vendre de multiples prestations : héberger et maintenir un outil pour les clients qui n’ont pas les ressources internes suffisantes, développer de nouvelles fonctionnalités lorsque nos clients financent ces améliorations qui seront mutualisées, enfin accompagner l’usage de ces technologies par des formations, des supports de communication, du conseil stratégique, de la modération et de l’analyse…"
+
+<--Inclusion, proche de la démarche de Mind the Gaps-->
+"Depuis le printemps 2016, nous avons élargi notre champ de compétences à l’animation d’ateliers d’intelligence collective et au traitement automatique du langage, afin de comprendre toutes les étapes d’un processus démocratique ouvert et moderne, en ligne et hors ligne. Nous ne vendons pas un bien captif ; nous partageons un savoir-faire."
+
+<--Au delà de l'outil, accompagnement et prise en main.-->
+"La plateforme de participation n’est qu’un outil, une partie d’un processus qui se heurte encore à des barrières sociologiques et cognitives qui excluent de la participation une large partie de la population. De même que les plateformes n’évoluent pas en un claquement de doigts, la participation citoyenne ne se décrète pas en un jour."
+
 > -- Notes --
 Je me demande comment ils fonctionnent en terme d'accompagnement sur un projet. Il a mentionné une formation initiale (pour débuter un projet). Je me demande ce qu'ils font en prestation de service immatérielle.
 
@@ -90,7 +119,7 @@ La demande est plus sur un système participatif et engageant, démocratiquement
 - Le travail à distance reste compliqué, et plus ou moins adapté selon les métiers.
 > Note: Thomas se demande pourquoi et quelles étaient ses circonstances (est-ce que ça aurait pu être amélioré ?)
 
-### La maturité de réflexion sur les communs - les modèles d'entreprises "civic tech"
+### La maturité de réflexion sur les communs - les modèles d'entreprises "civic tech" -- "Notre code commun"
 
 Il y a pas mal de boites en France qui fonctionnent sur un modèle "classique". Donc il y a assez peu de réflexions partagées sur les modèles économiques. Certaines boites se réclament de la CivicTech mais n'intègrent pas la dimension open source et les communs.
 
@@ -101,6 +130,23 @@ La civic-tech concerne l’ensemble des plateformes et applications mobiles spé
 "Dans ces contextes, la plus-value provient de l’expertise déployée sur le terrain grâce à l’outil, et non du dangereux mirage d’un solutionnisme technologique qui prétend qu’un outil unique va tout changer."
 
 "A ce jour, la civic-tech n’est qu’un passe-temps pour la classe moyenne urbaine désabusée par le spectacle de sa représentation politique. A de très rares exceptions près, nos initiatives ne sont pas inclusives et ne touchent pas les citoyens des quartiers populaires et des périphéries qui forment les bastions d’abstentionnistes et de votes extrêmes. La tâche est immense tant le fossé à combler est profond, tant les fractures seront longues à cicatriser."
+
+# Article "Pourquoi et comment nous choisissons de construire un modèle économique fondé sur des biens communs numériques."
+https://medium.com/open-source-politics/pourquoi-et-comment-nous-choisissons-de-construire-un-mod%C3%A8le-%C3%A9conomique-fond%C3%A9-sur-des-biens-communs-6c4f3ec3c075
+
+"Aux États-Unis, la Knight Foundation en liste huit variantes mais, pour notre part, nous identifions à ce stade 4 grands modèles de financement de notre secteur d’activité : lever des fonds, vendre des données, vendre des licences, vendre des compétences."
+
+"Une mauvaise traduction de “free software” induit en erreur de nombreux interlocuteurs qui nous sollicitent : ce n’est pas parce qu’un logiciel est libre qu’il est gratuit."
+
+"Sans même parler du développement du logiciel, l’utiliser présente des coûts de déploiement, de configuration, d’hébergement et de maintenance.[...] Le développement ayant déjà été financé et réalisé, n’importe qui peut en bénéficier. En échange, il faut investir dans les prochaines évolutions, qui bénéficieront en retour à tous. "
+
+"Comment financer des outils numériques réellement démocratiques ? Le processus de création d’un bien commun viable est assurément plus lent, mais à terme il est considérablement plus vertueux et plus résilient."
+
+"L’Assemblée Nationale a tiré les conclusions de son utilisation et émis un cahier des charges pour des évolutions fonctionnelles souhaitables avec un horizon de plusieurs mois. Une instance démocratique — le Bureau de l’Assemblée Nationale — a validé certaines de ces évolutions et commandé leur réalisation. L’investissement de l’Assemblée nationale bénéficiera à n’importe quelle institution et n’importe quel collectif citoyen qui voudra s’en saisir, partout dans le monde.
+
+Voilà ce qu’est un bien commun numérique. Voilà ce que doit être un investissement public dans un code public."
+
+
 --
 
 Mâturité. De réflexion. Dans les collectivités locales par rapport à la technologie.
@@ -115,13 +161,16 @@ J'en retiens :
 
 ### Ce que ça nous donne envie d'aller voir :
 
+- est-ce que ces développements (ou leurs conditions d'émergence) peuvent servir à d'autres initiatives avec des besoins connexes ? (Les coopératives)
+- L'analyse de données textuelles (traitement automatique des langues).
 - comment et pourquoi GDS/USDS et al se sont formées ?
 - le fonctionnement de Decidim et de Meta Decidim (gouvernance, code, fréquence de rencontres)
 - DemocracyOS et Loomio
 - l'historique des événements du Meetup Open Source Politics
 - l'Arc de l'Innovation et MedNum
-- le rapport de la Cour des Comptes, sur l'encouragement des innitiatives locales et du développement déconcentré (ref ?)
-- comment Open Source Politics adresse la question du désintérêt citoyen envers la démocratique/politique ?
+- le rapport de la Cour des Comptes, sur l'encouragement des initiatives locales et du développement déconcentré (ref ?)
+- comment Open Source Politics adresse la question du désintérêt citoyen envers la démocratique/politique ? (à clarifier ?)
+- La Maison du Libre et des Communs vient d'ouvrir à Paris.
 - Village de Pourgues (Baptiste Bernier) - abandonné puis progressivement réinvesti; maintenant environ une trentaine de familles, un projet d'école, etc...
 
 ### Les questions que se pose Valentin:
@@ -132,5 +181,6 @@ J'en retiens :
 Tout récemment, le [Plan Gouvernement Ouvert 2018-2020](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)
 Le rapport [Donner un sens à l'intelligence artificielle - Stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf) (dont la première section s'intitule 'Renforcer l'écosystème européen de la donnée)
 [Open Government Partnership Toolbox](https://ogptoolbox.org/en/)
+Potentiellement à croiser avec les activités de La 27ème Région.
 
 Follow-up:rapport de la cour des comptes?
