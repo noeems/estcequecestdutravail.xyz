@@ -1,6 +1,6 @@
 ---
 title: Dorchester → Bristol → Paris → Bordeaux
-excerpt: Passages d'échelles, retour en France.
+excerpt: Sauts d'échelles, retour en France.
 image: /images/2018-04-09-dorchester-bristol-bordeaux/Stoke Bishop - Bristol.jpg
 author:
 - noeems

@@ -13,14 +13,21 @@ author:
 [La civic-tech française risque de se détourner de la création des biens communs numériques](https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e)
 
 Fin mars, on a profité d'un passage éclair à Paris pour discuter avec Valentin Chaput, co-fondateur d'[Open Source Politics](http://www.opensourcepolitics.eu/).  
-C'est leur article sur les modèles (économiques) de la civic tech qui lance l'envie de se voir pour discuter.
+C'est leur article sur les modèles économiques de la civic tech qui lance l'envie de se voir pour discuter.
 
-Notre conversation va beaucoup porter sur l'open source, sur la maturité de réfléxion sur la notion de communs, sur le chapeau "Civic tech" et les modèles d'entreprises que ça englobe, et surtout l'impact du modèle économique, on y revient toujours.
+Notre conversation va beaucoup porter sur les modèles politiques essouflés, l'open source, la maturité de réfléxion sur la notion de communs, sur le chapeau "Civic tech" et les modèles que ça englobe, et l'impact des modèles économiques.
 
+### Civic tech et démocratie participative
+
+Concrètement, la civic tech développe des plateformes d'engagement citoyen : votre ville ou votre région a peut être lancé un [budget participatif](http://abonnes.lemonde.fr/les-decodeurs/article/2017/10/06/outre-paris-45-villes-francaises-ont-adopte-le-budget-participatif_5197506_4355770.html), une consultation... D'autres moyens de récolter vos voix et votre avis en tant que citoyen ou résident.
+
+Ce sont des manières d'impliquer les gens dans une vie collective, en dehors des grands temps battus des élections, de sensibiliser à la participation.
+
+Un bon exemple est [l'agora permanente de Nanterre](https://participez.nanterre.fr/) qui questionne en ce moment ses habitants sur l'installation de la fibre, sur un parc, sur la reconversion de bâtiments... Chacun peut s'exprimer sur un certain nombre de sujets sans nécessairement avoir à se rendre physiquement à la Mairie. Tout ça dans l'optique d'être complémentaire avec les associations et la vie de quartier existante, de renforcer des liens, d'informer et d'impliquer.
 
 Valentin a fondé Open Source Politics en 2016 avec trois autres personnes. Ensemble, ils contribuent à développer des plateformes de démocratie participative pour des acteurs publics, privés et associatifs.
 
-Valentin a une formation initiale en sciences politiques, se fait embaucher au Sénat et accumule de l'expérience sur le terrain. Après un constat d'essouflement des modèles actuels, d'un monde politique qui a antagonisé une partie de la population, il se forme au développement logiciel dans une des premières promotions du Wagon.
+Valentin a une formation initiale en sciences politiques, a travaillé au Sénat et accumulé de l'expérience sur le terrain. Après un constat d'essouflement des modèles actuels, d'un monde politique qui a antagonisé une partie de la population, il se forme au développement logiciel dans une des premières promotions du Wagon.
 
 Valentin voit dans la technologie un moyen possible de reconstruire de nouvelles passerelles entre les citoyens et la participation démocratique.
 
@@ -38,7 +45,6 @@ Les passerelles justement, elles sont nombreuses avec nos activités respectives
 Il nous raconte l'histoire de plateformes qui fleurissent progressivement, d'abord en Argentine, puis aux Etats-Unis, au Mexique, en Espagne... Qui portent cet espoir et proposent de nouvelles approches.
 
 ### Les conditions d'émergence de plateformes de démocratie participative
-
 
 C'est DemocracyOS, une plateforme citoyenne participative lancée en Argentine, qui lance le mouvement civic tech en 2012.
 Quelles solutions technologiques pour faciliter l'implication des citoyens dans la vie politique et locale ?
