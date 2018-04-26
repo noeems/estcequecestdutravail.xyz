@@ -17,110 +17,100 @@ C'est leur article sur les modèles économiques de la civic tech qui lance l'en
 
 Notre conversation va beaucoup porter sur les modèles politiques essouflés, l'open source, la maturité de réfléxion sur la notion de communs, sur le chapeau "Civic tech" et les modèles que ça englobe, et l'impact des modèles économiques.
 
-### Civic tech et démocratie participative
-
-Concrètement, la civic tech développe des plateformes d'engagement citoyen : votre ville ou votre région a peut être lancé un [budget participatif](http://abonnes.lemonde.fr/les-decodeurs/article/2017/10/06/outre-paris-45-villes-francaises-ont-adopte-le-budget-participatif_5197506_4355770.html), une consultation... D'autres moyens de récolter vos voix et votre avis en tant que citoyen ou résident.
-
-Ce sont des manières d'impliquer les gens dans une vie collective, en dehors des grands temps battus des élections, de sensibiliser à la participation.
-
-Un bon exemple est [l'agora permanente de Nanterre](https://participez.nanterre.fr/) qui questionne en ce moment ses habitants sur l'installation de la fibre, sur un parc, sur la reconversion de bâtiments... Chacun peut s'exprimer sur un certain nombre de sujets sans nécessairement avoir à se rendre physiquement à la Mairie. Tout ça dans l'optique d'être complémentaire avec les associations et la vie de quartier existante, de renforcer des liens, d'informer et d'impliquer.
-
-Valentin a fondé Open Source Politics en 2016 avec trois autres personnes. Ensemble, ils contribuent à développer des plateformes de démocratie participative pour des acteurs publics, privés et associatifs.
-
-Valentin a une formation initiale en sciences politiques, a travaillé au Sénat et accumulé de l'expérience sur le terrain. Après un constat d'essouflement des modèles actuels, d'un monde politique qui a antagonisé une partie de la population, il se forme au développement logiciel dans une des premières promotions du Wagon.
-
-Valentin voit dans la technologie un moyen possible de reconstruire de nouvelles passerelles entre les citoyens et la participation démocratique.
-
-Les passerelles justement, elles sont nombreuses avec nos activités respectives :
-
-  - Le travail en collaboration avec des organismes publics est au cœur de la coopérative dtc innovation qui réunit Thomas, David et Clémentine dans l'envie de travailler des projets numériques autrement.
-
-  - Via cette même coopérative, Thomas a été très impliqué avec les équipes d'Etalab, le laboratoire d'innovation de l'état, et plus particulièrement sur la plateforme de mise à disposition des données publiques [data.gouv.fr]().
-  Par là et son expérience précédente à BBC R&D, il maîtrise bien les enjeux liés à l'open data et l'open source.
-
-  - Récemment, nous avons tous les deux exploré la production citoyenne de données pendant le projet de recherche "Mind the Gaps".
-
 (Discussion de circonstance — le modèle économique de Facebook est au cœur des discussions ces jours-ci, prise de conscience sur le profilage effectué, sur et hors de la plateforme, pour mieux "cibler" des publicités par la suite. Prise de conscience sur la régulation, le consentement des utilisateurs, les conditions d'utilisation opaques...)
 
-Il nous raconte l'histoire de plateformes qui fleurissent progressivement, d'abord en Argentine, puis aux Etats-Unis, au Mexique, en Espagne... Qui portent cet espoir et proposent de nouvelles approches.
+### Civic tech et démocratie participative ?
 
-### Les conditions d'émergence de plateformes de démocratie participative
+Concrètement, la civic tech développe des plateformes d'engagement citoyen : votre ville ou votre région a peut être lancé un [budget participatif](http://abonnes.lemonde.fr/les-decodeurs/article/2017/10/06/outre-paris-45-villes-francaises-ont-adopte-le-budget-participatif_5197506_4355770.html), une consultation... D'autres moyens de récolter vos voix et votre avis en tant que citoyen et résident.
 
-C'est DemocracyOS, une plateforme citoyenne participative lancée en Argentine, qui lance le mouvement civic tech en 2012.
+Ce sont des manières d'impliquer les gens dans une vie collective, une vie de quartier, et proposer de participer en dehors des grands temps battus des élections.
+
+Un bon exemple est [l'agora permanente de Nanterre](https://participez.nanterre.fr/) qui questionne en ce moment ses habitants sur l'installation de la fibre, sur un parc, sur la reconversion de bâtiments... Chacun.e peut s'exprimer sur un certain nombre de sujets. Tout ça dans l'optique d'être complémentaire avec les associations et la vie de quartier existante, de renforcer des liens, d'informer et d'impliquer.
+
+### Les débuts d'Open Source Politics
+Valentin a co-fondé Open Source Politics en 2016, avec trois autres personnes.
+A eux tous, ils cumulent expérience en politique, recherche et implication citoyenne, gestion d'entreprise et informatique.
+Ensemble, ils développent ces plateformes de démocratie participative pour des acteurs publics, privés et associatifs.
+
+Parmi les fondateurs, Valentin est celui qui a le plus d'experience directe avec la politique.
+Il a une formation initiale en sciences politiques, enchaîne avec des premiers pas au Sénat et accumule de l'expérience sur le terrain. Assez rapidement, il bute sur un constat qu'on est beaucoup à avoir fait — des modèles actuels essouflés, une perte d'intérêt (dans le meilleur des cas) et une antagonisation (allons-y franchement) pour "la classe politique".
+
+Valentin voit dans la technologie un moyen possible de construire de nouvelles passerelles entre les citoyens et la participation démocratique. Il se forme au développement logiciel dans une des premières promotions du [Wagon](https://www.lewagon.com/fr).
+
+### Des intérêts communs
+Les passerelles, justement, sont nombreuses avec nos activités récentes :
+
+  - Le travail en collaboration avec des organismes publics est au cœur de la coopérative [dtc innovation](https://dtc-innovation.org/) qui réunit Thomas, David et Clémentine dans l'envie de travailler des projets numériques autrement.
+
+  - Via cette même coopérative, Thomas a été très impliqué avec les équipes d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), le laboratoire d'innovation de l'état, et plus particulièrement sur la plateforme de mise à disposition des données publiques [data.gouv.fr](https://www.data.gouv.fr/fr/).
+  Par là et son expérience passée à la BBC R&D, il baigne depuis longtemps dans les enjeux liés à l'open data et l'open source.
+
+  - Récemment, nous avons tous les deux exploré la production citoyenne de données pendant le projet de recherche ["Mind the Gaps"](http://mind-the-gaps.org/).
+
+Valentin commence par nous raconter où et comment ces plateformes sont nées, puis ont progressivement fleuri partout dans le monde, en essayant de proposer de nouvelles approches.
+
+### Retour sur l'émergence des plateformes de démocratie participative
+
+>DemocracyOS est une plateforme web qui permet de prendre des décisions de manière transparente et collective.
+
+C'est [DemocracyOS](http://democracyos.eu/) qui ouvre le bal.
+Cette plateforme citoyenne participative est lancée en Argentine en 2012, et lance le mouvement civic tech.
 Quelles solutions technologiques pour faciliter l'implication des citoyens dans la vie politique et locale ?
 Comment redonner envie de participer ?
 
-L'idée (et l'outil) se répand. Le code est open source et reflète les principes de transparence et de collaboration. Les rencontres fusent.
-Après l'Argentine, DemocracyOS est utilisée au Mexique, aux États-Unis...
+L'idée (et l'outil) se répand. Le code est en open source, reflète les principes et les valeurs de transparence et de collaboration.
+Grâce à ça, après l'Argentine, la plateforme est déployée et adaptée au Mexique, aux États-Unis...
 Virgile Deville (un autre cofondateur d'Open Source Politics - ils sont quatre) s'en inspire pour créer une association : DemocracyOS France.
-Open Source Politics, en 2015, se constitue en collectif informel et organise des rencontres à Paris et contribue à fédérer sur ces sujets.
+Et en 2015, Open Source Politics se constitue pour la première fois sous ce nom en collectif informel qui organise des rencontres à Paris et fédére sur ces sujets.
 
- "Democracy OS a été de plus en plus fréquemment sollicitée par des institutions publiques, des mouvements politiques et des associations de toutes tailles pour créer des plateformes de consultation. Bien souvent, ces demandes allaient au-delà d’une simple installation de Democracy OS et impliquaient d’autres outils, du forum collaboratif au budget participatif. Un véritable accompagnement professionnel se révélait nécessaire pour mener à bien ces projets informatiques complexes et conseiller nos interlocuteurs. [...]
- Ces raisons ont justifié la création d’une entreprise." [Notre histoire](https://medium.com/open-source-politics/notre-histoire-c61bbec90334)
+> Democracy OS a été de plus en plus fréquemment sollicitée par des institutions publiques, des mouvements politiques et des associations de toutes tailles pour créer des plateformes de consultation. Bien souvent, ces demandes allaient au-delà d’une simple installation de Democracy OS et impliquaient d’autres outils, du forum collaboratif au budget participatif. Un véritable accompagnement professionnel se révélait nécessaire pour mener à bien ces projets informatiques complexes et conseiller nos interlocuteurs. [...]
+Ces raisons ont justifié la création d’une entreprise.  
+[Notre histoire](https://medium.com/open-source-politics/notre-histoire-c61bbec90334)
 
-Les pratiques s'affinent et se diversifient — Madrid lance sa propre plateforme ([Consul](http://consulproject.org/en/)) et en 2017, Barcelone lance Decidim.
+Les pratiques se diversifient et s'affinent.
+Après avoir servi de base, DemocracyOS ne s'adapte pas à tous les contextes. Et tout naturellement, l'idée crée des branches.
+Madrid est lance sa propre plateforme [Consul](http://consulproject.org/en/) et en 2017, c'est Barcelone qui lance [Decidim](https://decidim.org/).
 
-  "Les technologies de la citoyenneté sont pleines de promesses. Nos attentes collectives sont très élevées. Pourtant, l’impact du numérique sur la politique est, encore à ce jour, trop limité à un cercle restreint d’initiés répondant aux mêmes traits socio-économiques. [...]
-  Nous avons trouvé dans ces nombreuses méthodes d’intelligence collective les recettes d’une bonne hybridation entre l’organisation d’événements hors ligne et la restitution des contributions en ligne pour enrichir le contenu de nos plateformes. Vaccinés par la pratique contre les discours béats sur le solutionnisme technologique, nous proposons à nos clients des approches et des compétences complémentaires."
+C'est intéressant de voir que ces évolutions reflètent deux courants dans l'open source.
+L'approche libre mais ultra-adaptée à un contexte, sur mesure, plus complexe à adapter (Consul) et l'approche "exportable partout" dès la conception, qui envisage déjà la modularité (Decidim).
 
-### Une équipe pluridisciplinaire
+On voit que cette volonté de transmettre et d'essaimer dépasse les ressources purement informatiques :
 
-Les co-fondateurs d'Open Source Politics ont chacun des compétences qui apportent un versant indispensable au projet.
-A eux tous, ils cumulent expérience en politique / sur le terrain, recherche et implication citoyenne, gestion d'entreprise, développement.
+>Decidim is more than a digital platform: it’s a common's free and open project and infrastructure involving code, documentation, design, training courses, a legal framework, collaborative interfaces, user and facilitation communities, and a common vision.
 
-La compréhension du fonctionnement actuel de la politique en France, qu'elle soit portée au Sénat, dans une collectivité ou sur le terrain, nous a tout de suite apparu comme une immense force de cette équipe face à la tentation d'un solutionnisme technologique.
-La compréhension fine des attentes, des contraintes et du fonctionnement des entités qui peuvent porter ces initiatives de participation citoyenne parait être un élément clé.
+Chaque initiative a pu se nourrir des générations de systèmes et services précédentes, tirer ses conclusions, lancer ses expérimentations propres.
 
+> C'est en faisant système.
+
+<--Notes-->
 Pour le volet technologique, la petite équipe d'OSP fonctionne avec une constellation de freelances sourcés du même endroit ([Happy Dev](https://happy-dev.fr/)) ce qui favorise une culture commune.
 
 On a parlé de structures en réseau, vitales dans ce genre de démarche.
 
-> C'est en faisant système.
 
->-- Notes --
-Plus facile d'y faire naviguer des projets technologiques.
-On a parlé de fonctionnement en silos.
-Sa formation est plutôt Sciences Po; travail au Sénat, sur le terrain etc. Il a fait l'une des premières promos du Wagon après avoir perçu qu'il n'avait pas trouvé ce qu'il était venu chercher.
-Il a vu la technologie comme un moyen de faire le pont entre la politique et des projets d'économie sociale et solidaire.
-
-### Les générations de logiciels
-
-En termes logiciel (et chronologique); ils sont partis de DemocracyOS; ce qui les a menés vers Decidim. Ils ont vu les différentes générations de systèmes et services se lancer, chacun adapté à son usage (Consul dans la ville de Madrid) et peu flexible jusqu'à Decidim, malgré le code en open source.
-C'est intéressant de voir que certains designs s'adaptent moins - ne sont pas tout terrain.
-L'approche "exportable partout" dans la conception; envisagent déjà la modularité (Decidim) et l'approche ultra-adaptée à un contexte, sur mesure, plus complexe à adapter (Consul). Deux courants dans l'open source.
-Ça reflète la maturité des équipes derrière.
-Intéressant de voir que chaque plateforme s'est inspirée des précédentes pour construire le système qui lui convient.
-
-### L'accompagnement sur un projet de participation citoyenne.
+### L'accompagnement sur un projet de participation citoyenne
 
 Une grande partie de l'activité d'Open Source Politics repose sur la formation et l'accompagnement.
 
-Il n'est pas question de fournir un objet technologique à une collectivité pour qu'elle résolve le problème d'elle-même. Il est plutôt question de les rendre autonome et de les équiper. L'approche est différente.
+Il n'est pas question de fournir une solution technologique à une collectivité pour qu'elle résolve le problème d'elle-même. Il est plutôt question de les rendre autonome et de les équiper. L'approche est différente.
 
-> "Des outils pour inviter à discuter avec nous".
+> Nous avons élargi notre champ de compétences à l’animation d’ateliers d’intelligence collective et au traitement automatique du langage, afin de comprendre toutes les étapes d’un processus démocratique ouvert et moderne, en ligne et hors ligne. Nous ne vendons pas un bien captif ; nous partageons un savoir-faire.
 
 - L'utilisation d'un hackathon pour structurer un cahier des charges de manière participative (Nanterre)
 
-"Quel est l’intérêt d’Open Source Politics si nos clients peuvent se passer de nous dès que le transfert de compétences a eu lieu ? En réalité, ce modèle est totalement cohérent avec le modèle qui consiste à vendre de multiples prestations : héberger et maintenir un outil pour les clients qui n’ont pas les ressources internes suffisantes, développer de nouvelles fonctionnalités lorsque nos clients financent ces améliorations qui seront mutualisées, enfin accompagner l’usage de ces technologies par des formations, des supports de communication, du conseil stratégique, de la modération et de l’analyse…"
+"Quel est l’intérêt d’Open Source Politics si nos clients peuvent se passer de nous dès que le transfert de compétences a eu lieu ? [...] développer de nouvelles fonctionnalités lorsque nos clients financent ces améliorations qui seront mutualisées, enfin accompagner l’usage de ces technologies par des formations, des supports de communication, du conseil stratégique, de la modération et de l’analyse…"
 
-<--Inclusion, proche de la démarche de Mind the Gaps-->
-"Depuis le printemps 2016, nous avons élargi notre champ de compétences à l’animation d’ateliers d’intelligence collective et au traitement automatique du langage, afin de comprendre toutes les étapes d’un processus démocratique ouvert et moderne, en ligne et hors ligne. Nous ne vendons pas un bien captif ; nous partageons un savoir-faire."
+- Trouver et/ou former une personne dédiée (côté service public) pour suivre le projet dans la collectivité qui l'a commandé et pour créer une dynamique suffisante (côté projet interne et côté citoyens).
+
+- Le travail dans l'urgence. Les demandes par rapport à la faisabilité dans un temps défini par des échéances de calendrier (élections, événements, etc).
 
 <--Au delà de l'outil, accompagnement et prise en main.-->
 "La plateforme de participation n’est qu’un outil, une partie d’un processus qui se heurte encore à des barrières sociologiques et cognitives qui excluent de la participation une large partie de la population. De même que les plateformes n’évoluent pas en un claquement de doigts, la participation citoyenne ne se décrète pas en un jour."
 
-> -- Notes --
-Je me demande comment ils fonctionnent en terme d'accompagnement sur un projet. Il a mentionné une formation initiale (pour débuter un projet). Je me demande ce qu'ils font en prestation de service immatérielle.
-
 ### Les difficultés
 
 La demande est plus sur un système participatif et engageant, démocratiquement parlant.
-
-- Le travail dans l'urgence. Les demandes par rapport à la faisabilité dans un temps défini par des échéances de calendrier (élections, événements, etc).
-
-- Peu de réflexion sur les communs.
-
-- Trouver et/ou former une personne dédiée (côté service public) pour suivre le projet dans la collectivité qui l'a commandé et pour créer une dynamique suffisante (côté projet interne et côté citoyens).
+Peu de réflexion sur les communs.
 
 - Le travail à distance reste compliqué, et plus ou moins adapté selon les métiers.
 > Note: Thomas se demande pourquoi et quelles étaient ses circonstances (est-ce que ça aurait pu être amélioré ?)
@@ -152,6 +142,8 @@ https://medium.com/open-source-politics/pourquoi-et-comment-nous-choisissons-de-
 
 Voilà ce qu’est un bien commun numérique. Voilà ce que doit être un investissement public dans un code public."
 
+"Les technologies de la citoyenneté sont pleines de promesses. Nos attentes collectives sont très élevées. Pourtant, l’impact du numérique sur la politique est, encore à ce jour, trop limité à un cercle restreint d’initiés répondant aux mêmes traits socio-économiques. [...]
+Nous avons trouvé dans ces nombreuses méthodes d’intelligence collective les recettes d’une bonne hybridation entre l’organisation d’événements hors ligne et la restitution des contributions en ligne pour enrichir le contenu de nos plateformes. Vaccinés par la pratique contre les discours béats sur le solutionnisme technologique, nous proposons à nos clients des approches et des compétences complémentaires."
 
 --
 
