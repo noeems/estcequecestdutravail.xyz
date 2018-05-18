@@ -1,6 +1,6 @@
 ---
 title: Montpellier → Marseille
-excerpt: L'essor des supermarchés et épiceries en coopérative.
+excerpt: 
 image: /images/2018-04-16-intercoop/Intercoop forum ouvert.jpg
 author:
 - noeems

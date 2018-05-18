@@ -82,9 +82,6 @@ Chaque initiative a pu se nourrir des générations de systèmes et services pr�
 
 > C'est en faisant système.
 
-<--Notes-->
-Pour le volet technologique, la petite équipe d'OSP fonctionne avec une constellation de freelances sourcés du même endroit ([Happy Dev](https://happy-dev.fr/)) ce qui favorise une culture commune.
-
 On a parlé de structures en réseau, vitales dans ce genre de démarche.
 
 
@@ -114,6 +111,10 @@ Peu de réflexion sur les communs.
 
 - Le travail à distance reste compliqué, et plus ou moins adapté selon les métiers.
 > Note: Thomas se demande pourquoi et quelles étaient ses circonstances (est-ce que ça aurait pu être amélioré ?)
+
+<--Notes-->
+Pour le volet technologique, la petite équipe d'OSP fonctionne avec une constellation de freelances sourcés du même endroit ([Happy Dev](https://happy-dev.fr/)) ce qui favorise une culture commune.
+
 
 ### La maturité de réflexion sur les communs - les modèles d'entreprises "civic tech" -- "Notre code commun"
 
