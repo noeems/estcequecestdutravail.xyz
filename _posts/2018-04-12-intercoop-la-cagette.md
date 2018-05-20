@@ -5,6 +5,9 @@ image: /images/2018-04-12-intercoop/Cagette sac brode.jpg
 author:
 - noeems
 ---
+**Écoute recommandée**
+[Voices Of East Harlem - Take A Stand](https://www.youtube.com/watch?v=anh_huA7xls)
+
 ### Les supermarchés coopératifs, comment et pourquoi ?
 
 La première fois que j'ai entendu parler de supermarchés coopératifs, c'était pendant l'ouverture de [La Louve](https://cooplalouve.fr/), en 2016 à Paris. Ils ont suivi le modèle d'une des premières instances de ce genre d'initiative, le [Park Slope Food Coop](https://www.foodcoop.com/) de New York.
