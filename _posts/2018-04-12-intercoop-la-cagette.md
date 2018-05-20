@@ -80,7 +80,7 @@ Des **dispositifs spécifiques pour favoriser l'inclusion** existent, sous forme
 ##### Atelier développement informatique agile
 <section class="gallery" markdown="span">
 ![Co-design](/images/2018-04-12-intercoop/Co-design d'un formulaire.jpg)
-![atelier membres](/images/2018-04-12-intercoop/atelier membres intercoop.jpg)
+![Atelier membres](/images/2018-04-12-intercoop/Atelier membres intercoop.jpg)
 </section>
 
 **Mutualisation et open source.**  
