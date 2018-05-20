@@ -1,6 +1,6 @@
 ---
 title: Montpellier → Marseille
-excerpt: 
+excerpt:
 image: /images/2018-04-16-intercoop/Intercoop forum ouvert.jpg
 author:
 - noeems
@@ -63,15 +63,15 @@ C'est pareil sur les grands regrets des mourants.
 * J'aurais aimé m'accorder un peu plus de bonheur.
 
 Ca pourrait faire culcul, et pourtant.  
-Pour moi, dans cette itinérance-exploration, il y a beaucoup de ça, de la force vive, de la chance de pouvoir profiter de faire ce voyage, partir à la rencontre de personnes passionantes et trouver ce qui résonne en nous.
+Pour moi, dans cette itinérance-exploration, il y a beaucoup de ça, de la force vive, de la chance de pouvoir faire ce voyage, partir à la rencontre de personnes passionantes et trouver ce qui résonne en nous, en envoyant balader les injonctions classiques de nos âges (s'installer, "se caser", faire un/des enfants...)
 
 - Les espaces safe
-
+- Le workshop de Bénédicte
 
 ### Marseille
 - Discussions chez Sauveur sur l’urbanisme avec Emilie - si tu pouvais faire ton métier idéal tu ferais quoi ? Chocolat, tout et n’importe quoi - pain, code, etc, design textile.
 - Bière de la Plaine
-- Hyperville
+- Hyperville : extraits
 - Le bien manger en France
-- Les films NDDL et Isle of Dogs - Variétés.
+- Soirée NDDL et Isle of Dogs - Variétés.
 - Le Pas de la Demi-Lune

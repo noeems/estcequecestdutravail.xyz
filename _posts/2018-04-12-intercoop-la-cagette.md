@@ -117,7 +117,9 @@ C'est lors de discussions annexes, pendant l'apéro ou les pauses, qu'on discute
 
 Que ce soient les **manières de pratiquer l'inclusivité** (qui peut avoir un impact sur le prix, les produits proposés, la manière de constituer des équipes et de s'ouvrir activement/faire des partenariats avec des initiatives annexes), le **soutien aux (petits) producteurs indépendants**, **l'impact de l'échelle souhaitée du projet** (quelle variation dans la communauté quand elles sont à 500, 1000, 2000 membres ?), comment **faire vivre la communauté de coopérateurs** et faire ressortir les talents présents dans ce groupe, créer du lien...
 
-En aparté, Élie nous confie quelques pensées sur **le paradoxe des intermédiaires**, qu'on a tendance à fustiger, mais qui seraient pourtant utiles dans leur contexte (comme la production de petites exploitations varie trop, le rôle d'un grossiste rassemblant des producteurs indépendants pourrait participer à "réguler" ces aléas et faciliter le travail de supermarchés coopératifs, qui pourraient même s'investir par régions).
+En aparté, Élie nous confie quelques pensées sur **le paradoxe des intermédiaires**, qu'on a tendance à fustiger ("dès qu'il y a un intermédiaire, le prix gonfle"), mais on minore leur utilité sur la fonction économique de mise en relation, de sourcing, de contrôle qualité, de transport et de stockage... Un tas de fonctions utiles dans leur contexte. Il y a aussi que la production de petites exploitations peut varier d'une semaine à l'autre, et le rôle d'un grossiste qui ferait des rassemblements de producteurs indépendants pourrait participer à "réguler" ces aléas.  
+Précision apportée dans nos échanges écrits depuis :  
+>J'ai aussi envie d'insister sur les MIN (marché d'intérêt nationaux, le plus ancien étant Rungis). Il s'agit d'une invention française. Ce sont des marchés de gros, institution publiques où se rencontrent les producteurs et les fournisseurs. C'est le dernier rempart contre les 5 centrales de la grande distribution qui se partagent 95% du marché Français de l'alimentation ...
 
 ### Après l'Intercoop
 ##### Injustice alimentaire
