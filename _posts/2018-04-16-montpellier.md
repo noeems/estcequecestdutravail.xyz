@@ -118,18 +118,19 @@ La vie de château, le travail à distance, tout ça.
 
 ![Noems chillax](/images/2018-04-16-montpellier/Noems chillax dans l'amphitheatre.jpg)
 
-#### Les environnements et interactions safe
+### Les environnements et interactions safe
 
 L'expérience de Julia en [communication non-violente](https://www.placedeslibraires.fr/livre/9782889119059-la-communication-non-violente-au-quotidien-marshall-b-rosenberg/) m'intéresse à fond, et comme ça, au soleil, on se dit qu'on aimerait bien prolonger cette discussion sur les environnements et les interactions safe. Depuis, on s'appelle et on discute de formats d'ateliers / de contenus sur ce sujet. Si ça vous intéresse, [on documente nos discussions](https://github.com/Julia-barbelane/des-conf-entre-meufs).
 
-#### Rencontre fortuite
+### Rencontre fortuite
 
 En repartant, on tombe sur Jean-François, un habitant du coin qui nous demande de lui filer un coup de main pour transporter son composteur. Il nous invite chez lui et nous dit avec ses yeux malicieux comme jamais qu'il peut nous montrer "le plus beau cul de Montferrier" (qui, il se trouve, est un tronc d'arbre qui ressemble vraiment étrangement à une paire de fesses), il est trop ravi de se balader avec nous. On partage l'apéro à une terrasse de café avant de se dire au revoir. (Sans oublier de parler de la politique de Macron et de demander plusieurs fois à Julia si elle est mariée, Jean-François ne perd pas le nord).  
 Rencontre exceptionnelle.  
 
 <iframe src="https://player.vimeo.com/video/270958106" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-#### Cuisine créative et yoga intuitif
+
+### Cuisine créative et yoga intuitif
 
 J'ai la chance d'être dans le coin pour participer à un atelier de  [Bénédicte](http://www.benedictelambert.com/), une créatrice culinaire hors pair (ça rime honhon). La soirée préfigurait sa semaine de retraite [yoga et cuisine créative à St Guilhem le désert](https://mailchi.mp/yoga-intuitif-france.com/voyage-exquis-au-coeur-du-yoga-et-de-la-cuisine-intuitif-ve-s) (un des plus beaux endroits de la région paraît-il).  
 J'ai démarré l'atelier avec ce style de yoga inconnu au bataillon, centré sur la posture et les mouvements fournis avec le moins d'effort possible. Encore une fois, on désapprend des mouvements "mauvais" appris sur le tas au profit de mieux écouter son corps.  
