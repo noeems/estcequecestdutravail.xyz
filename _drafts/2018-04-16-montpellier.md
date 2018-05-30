@@ -1,26 +1,27 @@
 ---
-title: Montpellier → Marseille
-excerpt: Apprentissage, expérimentation, interactions safe et graines germées.
-image: /images/2018-04-16-montpellier-marseille/Montferrier vue.jpg
+title: Montpellier → Montferrier-sur-lez
+excerpt: Repenser son apprentissage, expérimentations et interactions safe.
+image: /images/2018-04-16-montpellier/Montferrier vue.jpg
 author:
 - noeems
 ---
 
-**Podcasts :**
-* Arte Radio - [Les flamboyantes](https://www.arteradio.com/son/61659873/un_podcast_soi_ndeg7_les_flamboyantes)  
-* France Culture - [Les migrants au coin de la rue](https://www.franceculture.fr/emissions/la-suite-dans-les-idees/les-migrants-au-coin-de-la-rue)  
-- [Le Sexe comme Objet, savoirs et sexualité](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/le-sexe-comme-objet-savoirs-et-sexualite)  
-- En séance, étapes d'une psychanalyse - ["Pourquoi s'allonger sur le divan"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-14-pourquoi-sallonger-sur-le) et ["Choisir son analyste"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-24-choisir-son-analyste)
-* Louie Media - [Entre](https://louiemedia.com/entre/) - épisodes 6 et 7  
-* [About Race with Reni Eddo-Lodge](https://audioboom.com/channel/about-race-with-reni-eddo-lodge)   
+**Podcasts écoutés 👂☕️ :**
+* Arte Radio - Un podcast à soi : [Les flamboyantes](https://www.arteradio.com/son/61659873/un_podcast_soi_ndeg7_les_flamboyantes)  
+* Louie Media - [Entre](https://louiemedia.com/entre/) : "Face à la violence des enfants" et "Comment s'installe la violence"
+* About Race with Reni Eddo-Lodge : [Things can only get better](https://audioboom.com/posts/6718938-things-can-only-get-better)  
+* France Culture - Série "[Le Sexe comme Objet, savoirs et sexualité](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/le-sexe-comme-objet-savoirs-et-sexualite)"  
 
-### Montpellier
+_Au moment où je publie cet article, on est à Crest (dans la Drôme) depuis quelques jours. Notre séjour à Montpellier a eu lieu du 31 mars au 7 avril._  
 
-**Remonter à la racine**  
+_Dans cet article je ne parle pas beaucoup de la ville, je me penche plutôt sur les rencontres et les  discussions qui y ont eu lieu. Ça se passe juste après [notre rencontre avec le monde des supermarchés coopératifs](http://estcequecestdutravail.xyz/2018/04/intercoop-la-cagette.html)_
+
+### Remonter aux racines
+
 Après avoir été absorbés par la richesse des échanges à [l'intercoopérative](http://estcequecestdutravail.xyz/2018/04/intercoop-la-cagette.html), ce n'est pas désagréable de prendre un rythme plus doux.  
 
 [Stéphane](http://scopyleft.fr/) est dans les parages.  
-On profite de sa présence : il lance quelques questions à Thomas pour l'aider à clarifier ses intentions sur l'écriture de [son livre](https://github.com/oncletom/nodebook)(Apprendre Node.js sans se prendre la tête et en français).
+On profite de sa présence : il lance quelques questions à Thomas pour l'aider à clarifier ses intentions sur l'écriture de [son livre](https://github.com/oncletom/nodebook) (Apprendre Node.js sans se prendre la tête et en français).
 A travers ça et la documentation de nos voyages qui prend pas mal de retard, je me rends compte que l'écriture est un exercice d'endurance, qu'on peut vite perdre son souffle sans quelques regards extérieurs, quelques discussions qui viennent nourrir la réflexion et qui redonnent des forces.
 
 Au détour de nos échanges avec Stéphane, on aborde pas mal de choses, dont beaucoup font écho à notre itinérance :  
@@ -38,8 +39,8 @@ Comment créer chez soi le bon équilibre entre l'anticipation et la spontanéit
 * **D'expérimentation et d'iterations**.  
 Encore une pratique courante dans l'informatique. Je pense que c'est celle que j'aime le plus.  
 Je me retrouve souvent bloquée dans des projets parce que :
-- j'ai une peur panique de l'échec, je crois que je ne suis pas seule et je me soigne  
-- je m'attaque à des trucs trop gros et ça donne le vertige.  
+  - J'ai une peur panique de l'échec, je crois que je ne suis pas seule et je me soigne  
+  - Je m'attaque à des trucs trop gros et ça donne le vertige.  
 Et alors que faire pour avancer quand même ?  
 Découper en plus petits morceaux, tester, être attentive à mes intuitions. Réajuster si besoin, et recommencer.
 
@@ -47,10 +48,10 @@ Découper en plus petits morceaux, tester, être attentive à mes intuitions. R�
 C'est la fameuse quête de sens. Ça peut sembler ambitieux, mais se reconnecter avec une intention claire peut aider à se débloquer quand on s'embourbe, et à plein de niveaux.
 
 * **Le double tranchant de la recherche d'efficacité**.  
-Ce n'est pas toujours approprié. Ça peut sembler contre-intuitif mais il faut parfois savoir se détacher de cette notion. Qu'est-ce qu'on sacrifie quand on recherche l'efficacité à tous prix ?
-["Your productivity doesn't define your worth"](https://thesadghostclub.com/collections/print/products/your-productivity-doesnt-define-your-worth-a4-giclee-print) tout ça tout ça.
+Ce n'est pas toujours approprié. Ça peut sembler contre-intuitif mais il faut parfois savoir se détacher de cette notion. Qu'est-ce qu'on sacrifie quand on recherche l'efficacité à tous prix ?  
+["Your productivity doesn't define your worth"](https://thesadghostclub.com/collections/print/products/your-productivity-doesnt-define-your-worth-a4-giclee-print) hein on n'oublie pas.
 
-**Passer à la pratique**
+### Passer à la pratique
 Stéphane développe des sessions d'apprentissage déambulatoires qu'il appelle des "Walking Dev". Vous noterez que j'évite soigneusement le mot "formation", ce n'est pas forcément l'esprit.  
 En petit groupe, les participants discutent d'un sujet, échangent leurs idées et leurs retours d'expérience, en marchant et en se déplaçant de lieu en lieu.  
 Histoire de décentraliser / dé-verticaliser le savoir, favoriser l'intelligence collective et le partage, sans être statique.  
@@ -60,16 +61,17 @@ Je me suis souvent frottée au dédain pour ce métier. Le milieu open source y 
 
 ### Montferrier-sur-lez
 
-![Vue sur Montferrier](/images/2018-04-16-montpellier-marseille/Montferrier vue.jpg)  
-<section class="gallery" markdown="span">
-![Chez Jean-François](/images/2018-04-16-montpellier-marseille/Chez Jean-Francois.jpg)
-![Thomas dans son habitat naturel](/images/2018-04-16-montpellier-marseille/Tom terrasse etat naturel.jpg)
-</section>
-
 On profite d'être dans les parages pour sortir de la ville et rendre visite à **[Julia](http://www.juliabarbelane.com/)**.  
 On l'a rencontrée l'année dernière pendant Sudweb, et depuis on avait discuté à quelques reprises.
 Julia a fabriqué plein de manières de travailler la valeur dans des projets. Elle anime des ateliers, des forums ouverts, et elle est vidéaste. Elle a rencontré les pratiques agiles par le biais de la communication non-violente une tangente par rapport à nous.  
 On a passé la soirée à cuisiner des légumes rôtis pour faire des tartines avec le pain maison de Thomas.
+
+![Vue sur Montferrier](/images/2018-04-16-montpellier/Montferrier vue.jpg)  
+<section class="gallery" markdown="span">
+![Chez Jean-François](/images/2018-04-16-montpellier/Chez Jean-Francois.jpg)
+![Thomas dans son habitat naturel](/images/2018-04-16-montpellier/Tom terrasse etat naturel.jpg)
+</section>
+_La vue depuis la terrasse, un Thomas dans son habitat naturel_
 
 On lui a raconté notre retour d'Angleterre, les différences structurelles, sociales, culturelles et quotidiennes qu'on observe entre ici et là-bas.  
 
@@ -108,9 +110,13 @@ C'est un superbe projet qui remet beaucoup de choses en question. Un voyage qu'o
 
 On se balade dans Montferrier-sur-lez, en contrebas du chateau, et on tombe devant les grilles d'un genre d'amphithéâtre. Hop, on nous ouvre, et on trouve notre espace de travail et de discussion de l'après-midi.
 
-![Discussion au soleil](/images/2018-04-16-montpellier-marseille/Noems et Ju discutent.jpg)  
-![Tom travaille](/images/2018-04-16-montpellier-marseille/Tom lieu de travail chelou.jpg)  
-![Noems chillax](/images/2018-04-16-montpellier-marseille/Noems chillax dans l'amphitheatre.jpg)
+La vie de château, le travail à distance, tout ça.
+<section class="gallery" markdown="span">
+![Discussion au soleil](/images/2018-04-16-montpellier/Noems et Ju discutent.jpg)  
+![Tom travaille](/images/2018-04-16-montpellier/Tom lieu de travail chelou.jpg)  
+</section>
+
+![Noems chillax](/images/2018-04-16-montpellier/Noems chillax dans l'amphitheatre.jpg)
 
 #### Les environnements et interactions safe
 
@@ -130,28 +136,17 @@ J'ai démarré l'atelier avec ce style de yoga inconnu au bataillon, centré sur
 Ensuite, j'ai expérimenté jusqu'à plus soif avec tous les ingrédients fournis pour créer des bouchées : il y avait des cuirs de fruit de folie, des cristaux de verveine citronnée, de la pâte de pistache... Même si j'essayais maintenant de dresser la liste, ça ne rendrait pas justice à la pléthore d'ingrédients sous nos mains.  
 Je n'avais jamais essayé ça avant et j'ai adoré tâtonner et trouver un tas de combinaisons possibles (pour mieux les goûter après of course).
 
+<section class="gallery" markdown="span">
+![Crêpe au festival de la BAF](/images/2018-04-16-montpellier/Crepe chantilly a Figuerolles.jpg)
+![Enfin du street art que j'aime](/images/2018-04-16-montpellier/Ramasse ta merde.jpg)
+![Tom déconcentré à la Panacée](/images/2018-04-16-montpellier/Tom deconcentre a la Panacee.jpg)
+</section>
+_Aperçu de grosse faim de crêpe chantilly au festival de la BAF, du street art que j'aime, et de la déconcentration dont je suis responsable._
+
 #### Montpellier, we're not done
 Pour ponctuer ce séjour Montpellierain, rien de tel que le festival de la [Bière Artisanale de Figuerolles](http://www.la-baf.org/nos-bieres/) (dont nous avait parlé une coopératrice de la Cagette) qui nous fait découvrir un autre quartier.
 
 Grâce aux connexions avec la Cagette et avec Julia, on poursuit les échanges à distance.
 
-
-### Marseille
-- Discussions chez Sauveur sur l’urbanisme avec Emilie - si tu pouvais faire ton métier idéal tu ferais quoi ? Chocolat, tout et n’importe quoi - pain, code, etc, design textile.
-- Bière de la Plaine
-- Hyperville : extraits. Le Coin des femmes. Action, posture, collectifs, ancrage local, participation.
-
-"Un réel processus de métropolisation que nous sommes seuls à même de construire pour qu'il nous ressemble. Cette 'globalisation par le bas' n'a rien de péjoratif, elle est notre seul avenir possible."
-
-"Saprophytes met en œuvre sa 'Fabrique d'architectures bricolées' au sein de la Condition Publique, avec des missions courtes, diffuses dans le temps, mais régulières. Tous ont en commun, depuis une dizaine d'années, de s'intéresser davantage aux processus qu'aux formes, de se soucier surtout des méthodes et moins des finalités."
-
-"Voici pêle-mêle quelques questions inspirantes qu'ils se posent à travers leurs pratiques respectives : comment appuyer un sentiment de communauté par des chantiers ouverts de bricolage en plein air ? Comment imaginer une autogestion collective d'un petit parc public ? Comment initier une rénovation des logements par l'auto-construction, dont la majorité est habitée par des propriétaires-occupants sans ressources ? Quels liens tisser entre un important équipement culturel comme la Condition Publique et ses voisins des quartiers populaires cloisonnés ?"
-
-"Certains pensent, comme le souligne le rapport Bacqué-Mechmache, qu'il est crucial de construire avec les habitants des quartiers délaissés, plutôt que de seulement transformer leurs espaces. Daté de 2013, il propose une poignée d'actions concrètes autour de la participation, à savoir la nécessité d'offrir aux individus plus de 'pouvoir d'agir'."
-
-"Il n'y a pas d'espaces pauvres, il n'y a que des espaces pauvrement regardés."
-
-![Hyperville](/images/2018-04-16-montpellier-marseille/Marseille/La valeur d'une ville.jpg)
-
-- Soirée NDDL, Longo Maï et Isle of Dogs - Variétés.
-- Le Pas de la Demi-Lune : presque mourir dans les calanques
+<iframe src="https://player.vimeo.com/video/270958268" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+_D'un naturel sans égal avec mes bugnes à La Panacée_
