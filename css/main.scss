@@ -32,10 +32,15 @@ $baseurl: '{{ site.baseurl }}/images';
 	@include skel-breakpoints((
 		xlarge: '(max-width: 1680px)',
 		large: '(max-width: 1280px)',
+		from-large: '(min-width: 1280px)',
 		medium: '(max-width: 980px)',
+		from-medium: '(min-width: 980px)',
 		small: '(max-width: 736px)',
+		from-small: '(min-width: 736px)',
 		xsmall: '(max-width: 480px)',
-		dinky: '(max-width: 260px)'
+		from-xsmall: '(min-width: 480px)',
+		dinky: '(max-width: 260px)',
+		from-dinky: '(min-width: 260px)'
 	));
 
 	@include skel-layout((
@@ -205,9 +210,12 @@ $baseurl: '{{ site.baseurl }}/images';
     .actions * {
       font-family: _font(ctrl-family);
     }
+		ul {
+			padding-left: 0;
+		}
     li {
-      margin-left: 0.2em;
-      padding-left: 0.4em;
+      margin-left: 0;
+      padding-left: 0;
     }
   }
 
@@ -1501,26 +1509,31 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	.wrapper {
-		@include padding(3em, 0); //6
+		@include padding(1em, 0);
+
+		@include breakpoint(from-medium) {
+			@include padding(3em, 0);
+		}
 
 		> .inner {
-			max-width: 60em;
 			margin: 0 auto;
-
 
 			&.fullwidth {
 				width: 100%;
 				padding: 0 16px 0 16px;
 			}
 
-			@include breakpoint(large) {
+			@include breakpoint (medium) {
+				padding: 0 10px;
+
+				ul {
+					list-style-position: inside;
+				}
+			}
+
+			@include breakpoint(from-medium) {
 				max-width: 75%;
 			}
-
-			@include breakpoint(medium) {
-				width: 95%;
-			}
-
 		}
 
 		&.alt {
@@ -1545,14 +1558,6 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style5 {
 			@include wrapper(accent7);
-		}
-
-		@include breakpoint(medium) {
-			@include padding(4em, 3em);//4
-		}
-
-		@include breakpoint(small) {
-			@include padding(3em, 2em);//3
 		}
 	}
 
@@ -1701,6 +1706,10 @@ $baseurl: '{{ site.baseurl }}/images';
 			top: 0;
 			text-transform: none;
 
+			@include breakpoint (small) {
+				display: none;
+			}
+
 			a {
 				border: 0;
 				display: block;
@@ -1734,7 +1743,6 @@ $baseurl: '{{ site.baseurl }}/images';
 						border: 0;
 						color: _palette(fg-bold);
 						display: block;
-						font-size: _font(hdr-size-xsmall);
 						letter-spacing: _size(letter-spacing-alt);
 						padding: 0 1.5em;
 
@@ -1749,7 +1757,7 @@ $baseurl: '{{ site.baseurl }}/images';
 								content: '';
 								display: inline-block;
 								height: _font(hdr-size-xsmall);
-								vertical-align: top;
+								vertical-align: middle;
 								width: 1.5em;
 							}
 
@@ -2032,6 +2040,17 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	#main {
+
+		iframe {
+			max-width: 100%;
+		}
+
+		p {
+			img {
+				max-width: 100%;
+			}
+		}
+
 		> header {
 			@include padding(12em, 0);
 			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0.3))', 'url("#{$baseurl}/Norfolk.jpeg")'));
@@ -2057,10 +2076,6 @@ $baseurl: '{{ site.baseurl }}/images';
 				}
 			}
 
-			@include breakpoint(xlarge) {
-				@include padding(8em, 0);
-			}
-
 			@include breakpoint(large) {
 				@include padding(8em, 3em);
 			}
@@ -2070,10 +2085,10 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 
 			@include breakpoint(small) {
-				@include padding(3em, 3em);
+				@include padding(3em, 1em);
 
 				h2 {
-					font-size: _font(hdr-size-mlarge);
+					font-size: _font(hdr-size-xxxsmall);
 					margin: 0 0 (_size(element-margin) * 0.5) 0;
 				}
 			}
