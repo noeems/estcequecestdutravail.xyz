@@ -9,6 +9,13 @@ and sync with your remote site.
 ## With thanks to
 Loïc Sander at Velvetyne foundry for the [Fengardo Neue font](http://velvetyne.fr/fonts/fengardo-neue/).
 
+## Under [Creative Commons license CC BY-NC](https://creativecommons.org/licenses)
+**English**  
+This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.
+
+**French**  
+Cette licence permet aux autres de remixer, arranger, et adapter votre œuvre à des fins non commerciales et, bien que les nouvelles œuvres doivent vous créditer en citant votre nom et ne pas constituer une utilisation commerciale, elles n’ont pas à être diffusées selon les mêmes conditions.
+
 ### If you clone or fork this repo to use it:
 
 0. Install [Jekyll](https://jekyllrb.com/) (version 3.1.2 or higher).
