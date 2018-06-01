@@ -1,7 +1,7 @@
 ---
 title: Marseille
 excerpt: Graines de Longo Maï et recentrer ses besoins.
-image: /images/2018-04-16-intercoop/Intercoop forum ouvert.jpg
+image: /images/2018-04-20-marseille/Cafe mims.jpg
 author:
 - noeems
 ---
@@ -12,9 +12,35 @@ author:
   - [Les migrants au coin de la rue](https://www.franceculture.fr/emissions/la-suite-dans-les-idees/les-migrants-au-coin-de-la-rue)
   - En séance, étapes d'une psychanalyse - ["Pourquoi s'allonger sur le divan"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-14-pourquoi-sallonger-sur-le) et ["Choisir son analyste"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-24-choisir-son-analyste) + épisode 3
 
-### Marseille
+### Notre Dame du Mont
+
+![Vue de la terrasse de l'appartement](/images/2018-04-20-marseille/Terrasse.jpg)
+Grâce à Maïlys, Nico et Leïla, on profite de leur appartement pendant leurs vacances en Bretagne (merci !)
+
+
+
 - Discussions chez Sauveur sur l’urbanisme avec Emilie - si tu pouvais faire ton métier idéal tu ferais quoi ? Chocolat, tout et n’importe quoi - pain, code, etc, design textile.
+
 - Bière de la Plaine
+Houblonnée à cru, frapper aux portes, Médaille d’Or au Brussels Beer Challenge 2017
+![Award-winning](/images/2018-04-20-marseille/Biere de la Plaine.jpg)
+![Bière de la Plaine](/images/2018-04-20-marseille/Carton de biere de la Plaine.jpg)
+![Brasserie de la Plaine](/images/2018-04-20-marseille/Brasserie de la Plaine.jpg)
+
+- Friche la Belle de Mai et fablab http://www.lfofablab.org/
+![LFO](/images/2018-04-20-marseille/Fablab.jpg)
+![Eurk les toilettes](/images/2018-04-20-marseille/Toilettes bien gore.jpg)
+
+
+- Soirée NDDL, Longo Maï et Isle of Dogs - Variétés.
+
+LES CALANQUES
+- Le Pas de la Demi-Lune : presque mourir dans les calanques
+![Tellement blanche qu'on m'aperçoit à peine](/images/2018-04-20-marseille/Aussi blanche que la rocaille.jpg)
+![Vue de la terrasse de l'appartement](/images/2018-04-20-marseille/Terrasse.jpg)
+
+
+
 - Hyperville : extraits. Le Coin des femmes. Action, posture, collectifs, ancrage local, participation.
 
 "Un réel processus de métropolisation que nous sommes seuls à même de construire pour qu'il nous ressemble. Cette 'globalisation par le bas' n'a rien de péjoratif, elle est notre seul avenir possible."
@@ -28,6 +54,3 @@ author:
 "Il n'y a pas d'espaces pauvres, il n'y a que des espaces pauvrement regardés."
 
 ![Hyperville](/images/2018-04-16-montpellier/Marseille/La valeur d'une ville.jpg)
-
-- Soirée NDDL, Longo Maï et Isle of Dogs - Variétés.
-- Le Pas de la Demi-Lune : presque mourir dans les calanques
