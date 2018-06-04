@@ -7,7 +7,7 @@ author:
 - oncletom
 ---
 
-**Thèmes**: communs, technologie, démocratie, citoyenneté, participation, service public, design de service...
+**Thèmes** : communs, technologie, démocratie, citoyenneté, participation, service public, design de service...
 
 >"Notre génération aspire à créer un monde plus collaboratif. [...] Nous devons changer en profondeur le fonctionnement de notre démocratie si nous ne voulons pas qu’elle soit emportée à court terme par la défiance, la colère et le renoncement."
 [La civic-tech française risque de se détourner de la création des biens communs numériques](https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e)
@@ -19,7 +19,7 @@ Première rencontre sur la route, on l'a vu deux jours après être rentrés en 
 
 Notre conversation a beaucoup porté sur un essouflement politique d'un côté, un renouveau citoyen de l'autre (dans quelles sphères ?), la maturité de réflexion sur la notion de biens communs, l'open source, sur le chapeau "Civic tech" et les modèles d'innovation sociale que ça englobe.
 
-On lui confie notre impression qu'il se passe quelque chose en France, un effervescence citoyenne qu'on n'a pas eu l'impression de trouver en Angleterre. Que ce soit à travers les tiers-lieux, les associations, les coopératives ([la France est le pays européen le plus dynamique sur ce format](https://www.entreprises.coop/coop-fr/actualites/1013-la-france-leader-cooperatif-en-europe-chiffres-2015.html)), il se trame quelque chose qui nous plait, quelque chose qui indique des volontés de bâtir et de faire ensemble.
+On lui confie notre impression qu'il se passe quelque chose en France, une effervescence citoyenne qu'on n'a pas eu l'impression de trouver en Angleterre. Que ce soit à travers les tiers-lieux, les associations, les coopératives ([la France est le pays européen le plus dynamique sur ce format](https://www.entreprises.coop/coop-fr/actualites/1013-la-france-leader-cooperatif-en-europe-chiffres-2015.html)), il se trame quelque chose qui nous plait, quelque chose qui indique des volontés de bâtir et de faire ensemble.
 
 ### Des intérêts communs
 Les passerelles sont nombreuses avec nos activités récentes :
@@ -35,11 +35,11 @@ C'est rafraîchissant de voir ici et là des expérimentations dans la citoyenne
 
 ### Civic tech et démocratie participative
 
-Votre ville ou votre région a peut être récemment lancé un [budget participatif](http://abonnes.lemonde.fr/les-decodeurs/article/2017/10/06/outre-paris-45-villes-francaises-ont-adopte-le-budget-participatif_5197506_4355770.html), une consultation publique... Les entreprises de la civic tech développent des plateformes d'engagement citoyen. Des moyens de récolter votre avis en tant que citoyen•ne que autrement que par le vote et les échéances du calendrier politique.
+Votre ville ou votre région a peut-être récemment lancé un [budget participatif](http://abonnes.lemonde.fr/les-decodeurs/article/2017/10/06/outre-paris-45-villes-francaises-ont-adopte-le-budget-participatif_5197506_4355770.html), une consultation publique... Les entreprises de la civic tech développent des plateformes d'engagement citoyen. Des moyens de récolter votre avis en tant que citoyen•ne autrement que par le vote et les échéances du calendrier politique.
 
 Quelles solutions technologiques pour faciliter l'implication des citoyens dans la vie politique et locale ? Comment redonner envie de participer ? Comment aider à revivifier les échelles locales ?
 
-Pour voir à quoi ça ressemble, vous pouvez allez voir [l'agora permanente de Nanterre](https://participez.nanterre.fr/) qui questionne en ce moment ses habitants sur l'installation de la fibre, la transformation d'un parc, la reconversion de bâtiments fermés au public...
+Pour voir à quoi ça ressemble, vous pouvez aller voir [l'agora permanente de Nanterre](https://participez.nanterre.fr/) qui questionne en ce moment ses habitants sur l'installation de la fibre, la transformation d'un parc, la reconversion de bâtiments fermés au public...
 Autre exemple, la Ville de Paris propose via son [budget participatif](https://budgetparticipatif.paris.fr/bp/) de décider de l'utilisation de 5% du budget d'investissement entre 2014 et 2020.
 
 La France est un pays qui connait depuis longtemps une vie associative ultra dynamique, comment travailler conjointement, renforcer les liens, informer et impliquer à l'aide de nouveaux outils ?
@@ -74,7 +74,7 @@ On voit que la volonté de transmettre et d'essaimer dépasse les ressources pur
 >Decidim est plus qu'une plateforme : c'est un projet et une infrastructure des communs, ouverte et gratuite, qui inclut du code, de la documentation, du design, des ressources d'apprentissage, un cadre juridique, des interfaces collaboratives, des communautés d'usage et de facilitation, et une vision commune.
 
 Depuis son lancement, Decidim est devenue une des plateformes les plus reprises dans des projets de civic tech, et rien qu'à Barcelone elle fédère toute une communauté de profils impliqués : citoyen.ne, développeur.se, chercheur.se en sciences sociales...
-C'est grâce à cette structure (appelée [MetaDecidim](https://meta.decidim.org/processes/welcome?locale=en)) que le projet continue d'évoluer et de s'enrichir.
+C'est d'ailleurs grâce aux outils que Decidim a développés (de forum, de concertation, de prise de décision collective) que Decidim continue de s'enrichir : [MetaDecidim](https://meta.decidim.org/processes/welcome?locale=en) est l'infrastructure qui débat de l'avenir du projet et en organise l'évolution. 
 
 ### Au-delà de l'outil
 **L'accompagnement et la formation**
@@ -124,7 +124,7 @@ Pourquoi ?
 >"L’investissement bénéficiera à n’importe quelle institution et n’importe quel collectif citoyen qui voudra s’en saisir, partout dans le monde.
 Voilà ce qu’est un bien commun numérique. Voilà ce que doit être un investissement public dans un code public."
 
-**Et vous**
+**Et vous**  
 Est-ce que ça vous plairait d'interagir avec votre mairie sur des enjeux locaux via une plateforme ?
 
 ### Pour prolonger la réflexion
@@ -139,7 +139,8 @@ There is opportunity to explore what kinds of tools could be useful at a local l
 It’s commonly understood that the intricacies of communities are typically understood best by individuals. Individuals who understand their communities through a combination of listening, talking and observing — gathering new information often.
 It’s interesting to think about what brands can do in reference to the list above that takes convenience beyond consumerism — how they can make it convenient to participate in your community and convenient to co-operate around local activity.
 
-On s'interroge beaucoup en ce moment sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer l'impact).
+J'ai la sensation que pas mal de gens s'interrogent sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer l'impact).  
+L'histoire de faciliter la prise en main en s'insérant dans des usages existants est une question pas évidente non plus, mais j'aime l'idée de nous interroger sur la cartographie d'intérêts qu'auraient les gens à utiliser des services. Mieux comprendre les motivations.
 
 Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogique :
 
@@ -166,7 +167,7 @@ Comment et pourquoi GDS/USDS etc se sont-ils formés ?
 - Curiosité envers des projets similaires
 
 ### Les ressources
-**À lire :**
+**À lire**
 * Les [articles d'Open Source Politics sur Medium](https://medium.com/open-source-politics), dont je tire la plupart de mes citations.
 * [Le travail du commun](http://www.editionsducommun.org/le-travail-du-commun-pascal-nicolas-le-strat/)
 * Le [Plan Gouvernement Ouvert 2018-2020](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)
@@ -178,7 +179,7 @@ Consolidation économique et augmentation de la capacité d’action des acteurs
 Modèles de gouvernance et stratégies locales inspirantes
 * Le rapport [Donner un sens à l'intelligence artificielle - Stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf) (dont la première section s'intitule 'Renforcer l'écosystème européen de la donnée)
 
-**À prendre en main:**
+**À prendre en main**
 * [Open Government Partnership Toolbox](https://ogptoolbox.org/en/)
 
 **À écouter**
@@ -186,4 +187,3 @@ Modèles de gouvernance et stratégies locales inspirantes
 
 ### Qui d'autre dans la Civic Tech ?
 * [Regards Citoyens](https://www.regardscitoyens.org/#&panel1-1)
-Potentiellement à croiser avec les activités de La 27ème Région.
