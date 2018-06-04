@@ -9,10 +9,10 @@ author:
 
 **Thèmes**: communs, technologie, démocratie, citoyenneté, participation, service public, design de service...
 
->"Notre génération aspire à créer un monde plus collaboratif. [...] Nous devons changer en profondeur le fonctionnement de notre démocratie si nous ne voulons pas qu’elle soit emportée à court terme par la défiance, la colère et le renoncement."   
+>"Notre génération aspire à créer un monde plus collaboratif. [...] Nous devons changer en profondeur le fonctionnement de notre démocratie si nous ne voulons pas qu’elle soit emportée à court terme par la défiance, la colère et le renoncement."
 [La civic-tech française risque de se détourner de la création des biens communs numériques](https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e)
 
-Fin mars, on a profité d'un passage éclair à Paris pour discuter avec Valentin Chaput, cofondateur d'[Open Source Politics](http://www.opensourcepolitics.eu/).  
+Fin mars, on a profité d'un passage éclair à Paris pour discuter avec Valentin Chaput, cofondateur d'[Open Source Politics](http://www.opensourcepolitics.eu/).
 Au départ, c'était leur article sur [la diversité des modèles économiques dans la civic tech](https://medium.com/open-source-politics/pourquoi-et-comment-nous-choisissons-de-construire-un-mod%C3%A8le-%C3%A9conomique-fond%C3%A9-sur-des-biens-communs-6c4f3ec3c075) qui avait lancé l'envie de se voir pour discuter.
 
 Première rencontre sur la route, on l'a vu deux jours après être rentrés en France.
@@ -40,7 +40,7 @@ Votre ville ou votre région a peut être récemment lancé un [budget participa
 Quelles solutions technologiques pour faciliter l'implication des citoyens dans la vie politique et locale ? Comment redonner envie de participer ? Comment aider à revivifier les échelles locales ?
 
 Pour voir à quoi ça ressemble, vous pouvez allez voir [l'agora permanente de Nanterre](https://participez.nanterre.fr/) qui questionne en ce moment ses habitants sur l'installation de la fibre, la transformation d'un parc, la reconversion de bâtiments fermés au public...
-Autre exemple, la Ville de Paris propose via son [budget participatif](https://budgetparticipatif.paris.fr/bp/) de décider de l'utilisation de 5% du budget d'investissement entre 2014 et 2020.  
+Autre exemple, la Ville de Paris propose via son [budget participatif](https://budgetparticipatif.paris.fr/bp/) de décider de l'utilisation de 5% du budget d'investissement entre 2014 et 2020.
 
 La France est un pays qui connait depuis longtemps une vie associative ultra dynamique, comment travailler conjointement, renforcer les liens, informer et impliquer à l'aide de nouveaux outils ?
 
@@ -50,12 +50,12 @@ C'est [DemocracyOS](http://democracyos.eu/) qui ouvre le bal.
 Lancée en Argentine en 2012, cette plateforme citoyenne participative signe le début du mouvement civic tech. Le code est en open source, reflète les valeurs de transparence et de collaboration.
 
 L'idée (et l'outil) se répand. Après l'Argentine, la plateforme est déployée et adaptée au Mexique, aux États-Unis...
-[Virgile Deville](http://virgile.pro/) (un autre cofondateur d'Open Source Politics - ils sont quatre) s'en inspire et crée l'association [DemocracyOS France](democracyos.eu).  
-En 2015, Open Source Politics se constitue pour la première fois en collectif informel pour organiser des rencontres à Paris et fédérer une communauté sur ces sujets ([voir leurs Meetups](https://www.meetup.com/fr-FR/Open-Source-Politics/)). Au fur et à mesure des évènements, la parole se répend et les demandes se multiplient.  
+[Virgile Deville](http://virgile.pro/) (un autre cofondateur d'Open Source Politics - ils sont quatre) s'en inspire et crée l'association [DemocracyOS France](democracyos.eu).
+En 2015, Open Source Politics se constitue pour la première fois en collectif informel pour organiser des rencontres à Paris et fédérer une communauté sur ces sujets ([voir leurs Meetups](https://www.meetup.com/fr-FR/Open-Source-Politics/)). Au fur et à mesure des évènements, la parole se répend et les demandes se multiplient.
 Open Source Politics se lance en tant qu'entreprise :
 
 > Democracy OS a été de plus en plus fréquemment sollicitée par des institutions publiques, des mouvements politiques et des associations de toutes tailles pour créer des plateformes de consultation. Bien souvent, ces demandes allaient au-delà d’une simple installation de Democracy OS et impliquaient d’autres outils, du forum collaboratif au budget participatif. Un véritable accompagnement professionnel se révélait nécessaire pour mener à bien ces projets informatiques complexes et conseiller nos interlocuteurs. [...]
-Ces raisons ont justifié la création d’une entreprise.  
+Ces raisons ont justifié la création d’une entreprise.
 [Notre histoire](https://medium.com/open-source-politics/notre-histoire-c61bbec90334)
 
 Les pratiques se diversifient et s'affinent.
@@ -73,7 +73,7 @@ On voit que la volonté de transmettre et d'essaimer dépasse les ressources pur
 
 >Decidim est plus qu'une plateforme : c'est un projet et une infrastructure des communs, ouverte et gratuite, qui inclut du code, de la documentation, du design, des ressources d'apprentissage, un cadre juridique, des interfaces collaboratives, des communautés d'usage et de facilitation, et une vision commune.
 
-Depuis son lancement, Decidim est devenue une des plateformes les plus reprises dans des projets de civic tech, et rien qu'à Barcelone elle fédère toute une communauté de profils impliqués : citoyen.ne, développeur.se, chercheur.se en sciences sociales...  
+Depuis son lancement, Decidim est devenue une des plateformes les plus reprises dans des projets de civic tech, et rien qu'à Barcelone elle fédère toute une communauté de profils impliqués : citoyen.ne, développeur.se, chercheur.se en sciences sociales...
 C'est grâce à cette structure (appelée [MetaDecidim](https://meta.decidim.org/processes/welcome?locale=en)) que le projet continue d'évoluer et de s'enrichir.
 
 ### Au-delà de l'outil
@@ -94,7 +94,7 @@ Une fois les objectifs de la plateforme définis, le projet nécessite un accomp
 Pour les associations ou collectivités qui se lancent dans ce genre d'expérimentation participative, il est parfois difficile de fournir et rassembler les ressources internes (en investissement, en disponibilité, en compétences) pour créer une vraie dynamique.
 
 ### Les difficultés
-**La demande des collectivités**  
+**La demande des collectivités**
 La demande se situe plus sur un système participatif et engageant, démocratiquement parlant.
 La réflexion sur la contribution aux communs est encore très peu répandue et arrive au second plan dans la plupart des cas.
 
@@ -102,20 +102,20 @@ La réflexion sur la contribution aux communs est encore très peu répandue et 
 Les demandes qui arrivent chez Open Source Politics sont souvent associées à un évènement ou une échéance en particulier, ce qui peut pénaliser certains projets si le temps de déploiement est insuffisant. Dans l'urgence et les budgets serrés, la contribution aux communs a du mal à passer.
 
 Le travail à distance reste compliqué, et plus ou moins adapté selon les métiers.
-Pour le volet technologique, la petite équipe d'Open Source Politics fonctionne avec une constellation de freelances sourcés du même endroit ([Happy Dev](https://happy-dev.fr/)) ce qui favorise une culture commune.
+Pour le volet technologique, la petite équipe d'Open Source Politics fonctionne avec la constellation de freelances sourcés du réseau [Happy Dev](https://happy-dev.fr/) — ce qui favorise une culture commune.
 
-**Toucher tout le monde**  
+**Toucher tout le monde**
 >Les technologies de la citoyenneté sont pleines de promesses. Nos attentes collectives sont très élevées. Pourtant, l’impact du numérique sur la politique est, encore à ce jour, trop limité à un cercle restreint d’initiés répondant aux mêmes traits socio-économiques.
 
 >De même que les plateformes n’évoluent pas en un claquement de doigts, la participation citoyenne ne se décrète pas en un jour.
 
 ### La maturité de réflexion sur les communs
-**"Notre code commun"**  
+**"Notre code commun"**
 Il y a pas mal de boîtes en France qui fonctionnent sur un modèle "classique".
 Certaines entreprises se réclament de la Civic tech mais n'intègrent pas la dimension open source et communs.
 
-**Libre ne veut pas dire gratuit**  
-Pourquoi ?  
+**Libre ne veut pas dire gratuit**
+Pourquoi ?
 
 >"Une mauvaise traduction de “free software” induit en erreur de nombreux interlocuteurs qui nous sollicitent : ce n’est pas parce qu’un logiciel est libre qu’il est gratuit."
 
@@ -124,24 +124,24 @@ Pourquoi ?
 >"L’investissement bénéficiera à n’importe quelle institution et n’importe quel collectif citoyen qui voudra s’en saisir, partout dans le monde.
 Voilà ce qu’est un bien commun numérique. Voilà ce que doit être un investissement public dans un code public."
 
-**Et vous**  
+**Et vous**
 Est-ce que ça vous plairait d'interagir avec votre mairie sur des enjeux locaux via une plateforme ?
 
 ### Pour prolonger la réflexion
 
 Une de mes références en termes de citoyenneté et de culture tech responsable est [Doteveryone](https://doteveryone.org.uk/) (un think tank basé à Londres).
 
-Voilà ce qu'écrit Cassie Robinson dans son article [Platforms as networks of assets](https://medium.com/@cassierobinson/platforms-as-networks-of-assets-2666914a3ca7) :  
+Voilà ce qu'écrit Cassie Robinson dans son article [Platforms as networks of assets](https://medium.com/@cassierobinson/platforms-as-networks-of-assets-2666914a3ca7) :
 > I’m interested in social infrastructure and co-operation — what it means for people to be in relationship, as a community, a neighbourhood, a town, a City. And if those relationships are nurtured, how they continually aide the prevention of things like social isolation but how they might also usefully be activated when change is necessary, or just drawn on in an everyday way as engines of a community.
 
-> Funding opportunities often put pressure on organisations to come up with new things that bias towards quick wins that create a good story to tell.  
-There is opportunity to explore what kinds of tools could be useful at a local level too, in neighbourhood stores. For example, tools to help manage how local information gets published in a community, tools that enable citizens to take part in collective decision-making, or a platform that helps distribute resources to where they’re most needed in a community.  
-It’s commonly understood that the intricacies of communities are typically understood best by individuals. Individuals who understand their communities through a combination of listening, talking and observing — gathering new information often.  
-It’s interesting to think about what brands can do in reference to the list above that takes convenience beyond consumerism — how they can make it convenient to participate in your community and convenient to co-operate around local activity.  
+> Funding opportunities often put pressure on organisations to come up with new things that bias towards quick wins that create a good story to tell.
+There is opportunity to explore what kinds of tools could be useful at a local level too, in neighbourhood stores. For example, tools to help manage how local information gets published in a community, tools that enable citizens to take part in collective decision-making, or a platform that helps distribute resources to where they’re most needed in a community.
+It’s commonly understood that the intricacies of communities are typically understood best by individuals. Individuals who understand their communities through a combination of listening, talking and observing — gathering new information often.
+It’s interesting to think about what brands can do in reference to the list above that takes convenience beyond consumerism — how they can make it convenient to participate in your community and convenient to co-operate around local activity.
 
 On s'interroge beaucoup en ce moment sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer l'impact).
 
-Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogue :
+Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogique :
 
 ![Annonces de village - covoiturage](/images/2018-03-26-entretien-valentin/Saillans covoiturage.jpg)
 
@@ -166,22 +166,22 @@ Comment et pourquoi GDS/USDS etc se sont-ils formés ?
 - Curiosité envers des projets similaires
 
 ### Les ressources
-**À lire :**  
+**À lire :**
 * Les [articles d'Open Source Politics sur Medium](https://medium.com/open-source-politics), dont je tire la plupart de mes citations.
 * [Le travail du commun](http://www.editionsducommun.org/le-travail-du-commun-pascal-nicolas-le-strat/)
-* Le [Plan Gouvernement Ouvert 2018-2020](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)  
+* Le [Plan Gouvernement Ouvert 2018-2020](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)
 * [Politique de contribution aux logiciels libres de l’État](https://disic.github.io/politique-de-contribution-open-source/)
-* [Stratégie nationale pour un numérique inclusif](https://rapport-inclusion.societenumerique.gouv.fr/)  
-Dont les chapitres clé sont : Atteindre et orienter les publics,  
-Structurer l'offre de médiation et de formation au numérique,  
-Consolidation économique et augmentation de la capacité d’action des acteurs,  
+* [Stratégie nationale pour un numérique inclusif](https://rapport-inclusion.societenumerique.gouv.fr/)
+Dont les chapitres clé sont : Atteindre et orienter les publics,
+Structurer l'offre de médiation et de formation au numérique,
+Consolidation économique et augmentation de la capacité d’action des acteurs,
 Modèles de gouvernance et stratégies locales inspirantes
-* Le rapport [Donner un sens à l'intelligence artificielle - Stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf) (dont la première section s'intitule 'Renforcer l'écosystème européen de la donnée)  
+* Le rapport [Donner un sens à l'intelligence artificielle - Stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf) (dont la première section s'intitule 'Renforcer l'écosystème européen de la donnée)
 
-**À prendre en main:**  
-* [Open Government Partnership Toolbox](https://ogptoolbox.org/en/)  
+**À prendre en main:**
+* [Open Government Partnership Toolbox](https://ogptoolbox.org/en/)
 
-**À écouter**  
+**À écouter**
 * [Les Civic Tech sont-elles de vraies avancées ou des "illusions disruptives" ?](https://soundcloud.com/european-lab/4-civic-tech-hacker-la?in=european-lab/sets/forum-european-lab-2018)
 
 ### Qui d'autre dans la Civic Tech ?
