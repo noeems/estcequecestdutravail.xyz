@@ -74,7 +74,7 @@ On voit que la volonté de transmettre et d'essaimer dépasse les ressources pur
 >Decidim est plus qu'une plateforme : c'est un projet et une infrastructure des communs, ouverte et gratuite, qui inclut du code, de la documentation, du design, des ressources d'apprentissage, un cadre juridique, des interfaces collaboratives, des communautés d'usage et de facilitation, et une vision commune.
 
 Depuis son lancement, Decidim est devenue une des plateformes les plus reprises dans des projets de civic tech, et rien qu'à Barcelone elle fédère toute une communauté de profils impliqués : citoyen.ne, développeur.se, chercheur.se en sciences sociales...
-C'est d'ailleurs grâce aux outils que Decidim a développés (de forum, de concertation, de prise de décision collective) que Decidim continue de s'enrichir : [MetaDecidim](https://meta.decidim.org/processes/welcome?locale=en) est l'infrastructure qui débat de l'avenir du projet et en organise l'évolution. 
+C'est d'ailleurs grâce aux outils que Decidim a développés (de forum, de concertation, de prise de décision collective) que Decidim continue de s'enrichir : [MetaDecidim](https://meta.decidim.org/processes/welcome?locale=en) est l'infrastructure qui débat de l'avenir du projet et en organise l'évolution.
 
 ### Au-delà de l'outil
 **L'accompagnement et la formation**
@@ -89,7 +89,7 @@ Pour son travail avec la ville de Nanterre, l'équipe a organisé au début du p
 
 >Accompagner l’usage de ces technologies par des formations, des supports de communication, du conseil stratégique, de la modération et de l’analyse…
 
-Une fois les objectifs de la plateforme définis, le projet nécessite un accompagnement soigné sur la manière de communiquer l'information auprès des citoyen.ne.s, non seulement au lancement mais aussi sur la durée - il faut trouver des manières de faire vivre cet engagement, puis communiquer ce qu'il a permis, mà où il a échoué... Et faire circuler l'apprentissage.
+Une fois les objectifs de la plateforme définis, le projet nécessite un accompagnement soigné sur la manière de communiquer l'information auprès des citoyen.ne.s, non seulement au lancement mais aussi sur la durée - il faut trouver des manières de faire vivre cet engagement, puis communiquer ce qu'il a permis, là où il a échoué... Et faire circuler l'apprentissage.
 
 Pour les associations ou collectivités qui se lancent dans ce genre d'expérimentation participative, il est parfois difficile de fournir et rassembler les ressources internes (en investissement, en disponibilité, en compétences) pour créer une vraie dynamique.
 
@@ -159,7 +159,7 @@ Comment et pourquoi GDS/USDS etc se sont-ils formés ?
 - Le fonctionnement de Meta Decidim (gouvernance, code, fréquence de rencontres)
 - DemocracyOS et Loomio
 - la [MedNum](https://lamednum.coop/) - La coopérative des acteurs de la médiation numérique
-- le rapport de la Cour des Comptes, sur l'encouragement des initiatives locales et du développement déconcentré (// référence à retrouver //)
+- Le rapport de la Cour des Comptes ["Amplifier la modernisation numérique de l’État"](https://www.ccomptes.fr/sites/default/files/2018-01/04-Amplifier-modernisation-numerique-Etat-Tome-1.pdf) qui parle d'embarquer la puissance publique dans le financement et la production de biens communs.
 - La Maison du Libre et des Communs en lancement à Paris.
 
 ### Les questions que se pose Valentin
