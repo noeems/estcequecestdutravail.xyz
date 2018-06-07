@@ -95,27 +95,27 @@ Une fois les objectifs de la plateforme définis, le projet nécessite un accomp
 Pour les associations ou collectivités qui se lancent dans ce genre d'expérimentation participative, il est parfois difficile de fournir et rassembler les ressources internes (en investissement, en disponibilité, en compétences) pour créer une vraie dynamique.
 
 ### Les difficultés
-**La demande des collectivités**
+**La demande des collectivités**  
 La demande se situe plus sur un système participatif et engageant, démocratiquement parlant.
 La réflexion sur la contribution aux communs est encore très peu répandue et arrive au second plan dans la plupart des cas.
 
-**Le travail dans l'urgence, le travail à distance**
+**Le travail dans l'urgence, le travail à distance**  
 Les demandes qui arrivent chez Open Source Politics sont souvent associées à un évènement ou une échéance en particulier, ce qui peut pénaliser certains projets si le temps de déploiement est insuffisant. Dans l'urgence et les budgets serrés, la contribution aux communs a du mal à passer.
 
 Le travail à distance reste compliqué, et plus ou moins adapté selon les métiers.
 Pour le volet technologique, la petite équipe d'Open Source Politics fonctionne avec la constellation de freelances sourcés du réseau [Happy Dev](https://happy-dev.fr/) — ce qui favorise une culture commune.
 
-**Toucher tout le monde**
+**Toucher tout le monde**  
 >Les technologies de la citoyenneté sont pleines de promesses. Nos attentes collectives sont très élevées. Pourtant, l’impact du numérique sur la politique est, encore à ce jour, trop limité à un cercle restreint d’initiés répondant aux mêmes traits socio-économiques.
 
 >De même que les plateformes n’évoluent pas en un claquement de doigts, la participation citoyenne ne se décrète pas en un jour.
 
 ### La maturité de réflexion sur les communs
-**"Notre code commun"**
+**"Notre code commun"**  
 Il y a pas mal de boîtes en France qui fonctionnent sur un modèle "classique".
 Certaines entreprises se réclament de la Civic tech mais n'intègrent pas la dimension open source et communs.
 
-**Libre ne veut pas dire gratuit**
+**Libre ne veut pas dire gratuit**  
 Pourquoi ?
 
 >"Une mauvaise traduction de “free software” induit en erreur de nombreux interlocuteurs qui nous sollicitent : ce n’est pas parce qu’un logiciel est libre qu’il est gratuit."
@@ -140,10 +140,10 @@ There is opportunity to explore what kinds of tools could be useful at a local l
 It’s commonly understood that the intricacies of communities are typically understood best by individuals. Individuals who understand their communities through a combination of listening, talking and observing — gathering new information often.
 It’s interesting to think about what brands can do in reference to the list above that takes convenience beyond consumerism — how they can make it convenient to participate in your community and convenient to co-operate around local activity.
 
-J'ai la sensation que pas mal de gens s'interrogent sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer l'impact).  
-L'histoire de faciliter la prise en main en s'insérant dans des usages existants est une question pas évidente non plus, mais j'aime l'idée de nous interroger sur la cartographie d'intérêts qu'auraient les gens à utiliser des services. Mieux comprendre les motivations.
+J'ai la sensation que pas mal de gens s'interrogent sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices (humains, sociaux) sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer les impacts ces jours-ci).  
+Faciliter la prise en main en s'insérant dans des usages existants est une question pas évidente non plus, mais j'aime l'idée de nous interroger sur la cartographie d'intérêts qu'auraient les gens à utiliser des services. Mieux comprendre les motivations.
 
-Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogique :
+Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogique&nbsp:
 
 ![Annonces de village - covoiturage](/images/2018-03-26-entretien-valentin/Saillans covoiturage.jpg)
 
@@ -153,15 +153,15 @@ On a parlé de structures en réseau, vitales dans ce genre de démarche.
 
 ### Ce que ça donne envie d'aller voir
 
-- Est-ce que ces développements (ou leurs conditions d'émergence) peuvent servir à d'autres initiatives avec des besoins connexes ? (Outils de décision collective pour les coopératives - et plus particulièrement les supermarchés coopératifs ? Beaucoup d'entre eux utilisent Odoo pour le moment).
-- L'analyse de données textuelles (traitement automatique des langues).
-- Cartographier les structures d'innovation publique et leurs périmètres en France et à l'étranger, quelles différences culturelles ? ([18f](https://18f.gsa.gov/) et [USDS](https://www.usds.gov/) aux Etats-Unis, [GDS](https://gds.blog.gov.uk/) en Angleterre...)
+- **Est-ce que ces développements (ou leurs conditions d'émergence) peuvent servir à d'autres initiatives avec des besoins connexes ?** (Outils de décision collective pour les coopératives - et plus particulièrement les supermarchés coopératifs ? Beaucoup d'entre eux utilisent Odoo pour le moment).
+- **L'analyse de données textuelles (traitement automatique des langues)**.
+- **Cartographier les structures d'innovation publique et leurs périmètres en France et à l'étranger, quelles différences culturelles ?** ([18f](https://18f.gsa.gov/) et [USDS](https://www.usds.gov/) aux Etats-Unis, [GDS](https://gds.blog.gov.uk/) en Angleterre...)
 Comment et pourquoi GDS/USDS etc se sont-ils formés ?
-- Le fonctionnement de Meta Decidim (gouvernance, code, fréquence de rencontres)
+- **Le fonctionnement de Meta Decidim** (gouvernance, code, fréquence de rencontres)
 - DemocracyOS et Loomio
-- la [MedNum](https://lamednum.coop/) - La coopérative des acteurs de la médiation numérique
-- Le rapport de la Cour des Comptes ["Amplifier la modernisation numérique de l’État"](https://www.ccomptes.fr/sites/default/files/2018-01/04-Amplifier-modernisation-numerique-Etat-Tome-1.pdf) qui parle d'embarquer la puissance publique dans le financement et la production de biens communs.
-- La Maison du Libre et des Communs en lancement à Paris.
+- **la [MedNum](https://lamednum.coop/)** - La coopérative des acteurs de la médiation numérique
+- **Le rapport de la Cour des Comptes ["Amplifier la modernisation numérique de l’État"](https://www.ccomptes.fr/sites/default/files/2018-01/04-Amplifier-modernisation-numerique-Etat-Tome-1.pdf)** qui parle d'embarquer la puissance publique dans le financement et la production de biens communs.
+- **La Maison du Libre et des Communs** en lancement à Paris.
 
 ### Les questions que se pose Valentin
 - La taille de l'équipe. Est-ce que l'idéal est de rester en équipe restreinte et si oui pourquoi ?
@@ -185,6 +185,3 @@ Modèles de gouvernance et stratégies locales inspirantes
 
 **À écouter**
 * [Les Civic Tech sont-elles de vraies avancées ou des "illusions disruptives" ?](https://soundcloud.com/european-lab/4-civic-tech-hacker-la?in=european-lab/sets/forum-european-lab-2018)
-
-### Qui d'autre dans la Civic Tech ?
-* [Regards Citoyens](https://www.regardscitoyens.org/#&panel1-1)
