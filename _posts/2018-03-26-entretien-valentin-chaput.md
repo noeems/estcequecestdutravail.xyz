@@ -143,7 +143,7 @@ It’s interesting to think about what brands can do in reference to the list ab
 J'ai la sensation que pas mal de gens s'interrogent sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices (humains, sociaux) sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer les impacts ces jours-ci).  
 Faciliter la prise en main en s'insérant dans des usages existants est une question pas évidente non plus, mais j'aime l'idée de nous interroger sur la cartographie d'intérêts qu'auraient les gens à utiliser des services. Mieux comprendre les motivations.
 
-Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogique&nbsp:
+Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogique&nbsp;:
 
 ![Annonces de village - covoiturage](/images/2018-03-26-entretien-valentin/Saillans covoiturage.jpg)
 
