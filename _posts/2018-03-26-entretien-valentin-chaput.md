@@ -1,6 +1,7 @@
 ---
 title: Entretien avec Valentin Chaput d'Open Source Politics
-excerpt: "Pour que la démocratie continue entre les élections"
+excerpt: "Pour que la démocratie continue entre les élections."
+date: 2018-06-05
 image: /images/2018-03-26-entretien-valentin/liberte-living-lab.jpg
 author:
 - noeems
