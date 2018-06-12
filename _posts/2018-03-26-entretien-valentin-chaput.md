@@ -170,7 +170,8 @@ Comment et pourquoi GDS/USDS etc se sont-ils formés ?
 ### Les ressources
 **À lire**
 * Les [articles d'Open Source Politics sur Medium](https://medium.com/open-source-politics), dont je tire la plupart de mes citations.
-* [Le travail du commun](http://www.editionsducommun.org/le-travail-du-commun-pascal-nicolas-le-strat/)
+* [Le travail du commun](http://www.editionsducommun.org/le-travail-du-commun-pascal-nicolas-le-strat/), un bouquin de Pascal Nicolas-Le Strat.
+* [Lettre à ma collectivité](http://marges.clairezuliani.com/binary_transition/2018/06/10/lettre-a-ma-collectivite.html), un billet de blog de [Claire Zuliani](https://www.clairezuliani.com/)
 * Le [Plan Gouvernement Ouvert 2018-2020](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)
 * [Politique de contribution aux logiciels libres de l’État](https://disic.github.io/politique-de-contribution-open-source/)
 * [Stratégie nationale pour un numérique inclusif](https://rapport-inclusion.societenumerique.gouv.fr/)
