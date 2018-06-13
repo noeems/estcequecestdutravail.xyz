@@ -717,9 +717,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		.gallery img {
 			border-radius: 3px;
-			height: 100%;
 			object-fit: cover;
-		  width: 100% !important;
+		  	width: 100% !important;
 		}
 
 		.gallery img.cols-2 {
