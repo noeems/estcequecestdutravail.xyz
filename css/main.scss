@@ -12,11 +12,13 @@ $baseurl: '{{ site.baseurl }}/images';
 	src:url('../fonts/fengardoneue_regular-webfont.woff') format('woff');
 	font-weight:normal;
 	font-style:normal;
+	font-display: fallback;
 }
 @font-face{font-family:'Fengardo Neue';
 	src:url('../fonts/fengardoneue_black-webfont.woff') format('woff');
 	font-weight:bold;
 	font-style:normal;
+	font-display: fallback;
 }
 @import 'syntax-highlighting.css';
 @import 'vendor/disqus.css';
@@ -1186,8 +1188,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	.spotlight {
 
-   	@include vendor('align-items', 'center');
  		@include vendor('display', 'flex');
+ 		@include vendor('align-items', 'strech');
 
 		a {
 			padding:0;
@@ -1206,16 +1208,10 @@ $baseurl: '{{ site.baseurl }}/images';
 			@include vendor('order', '1');
 			border-radius: 0;
 			width: 40%;
-			img {
-				border-radius: 0;
-				object-fit: cover;
-				max-height: 25vw;
-				width: 100%;
-			}
 		}
 
 		.content {
-			@include padding(2em, 4em);
+			padding: 3em;
 			@include vendor('order', '2');
 			max-width: 48em;
 			width: 60%;
@@ -1250,7 +1246,7 @@ $baseurl: '{{ site.baseurl }}/images';
 				width: 100%;
 			}
 			.content {
-				@include padding(4em, 3em);
+				padding: 4em, 3em;
 				max-width: none;
 				text-align: center;
 				width: 100%;
@@ -1259,7 +1255,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		@include breakpoint(small) {
 			.content {
-				@include padding(3em, 2em);
+				padding: 3em 2em;
 			}
 		}
 

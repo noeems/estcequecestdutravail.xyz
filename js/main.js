@@ -44,9 +44,6 @@
 						$body.addClass('is-mobile');
 					});
 
-		// Fix: Placeholder polyfill.
-			$('form').placeholder();
-
 		// Prioritize "important" elements on medium.
 			skel.on('+medium -medium', function() {
 				$.prioritize(
@@ -54,6 +51,17 @@
 					skel.breakpoint('medium').active
 				);
 			});
+
+		$window.on('load', function(){
+			$('div[data-background-src]').each(function(i, el){
+				$(el).css({
+					'background-image': 'url(' + encodeURI($(el).data('background-src')) + ')',
+					'background-repeat': 'no-repeat',
+					'background-size': 'cover',
+					'background-position': 'center'
+				})
+			});
+		});
 
 		// Menu.
 			$('#menu')
