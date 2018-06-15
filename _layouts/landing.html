@@ -55,14 +55,10 @@
                 unless my_page.options contains 'nolanding' %}
 
             <section class="spotlight">
-              <div class="image">
-                <a href="{{ my_page.url | prepend:site.baseurl }}">
-                {% if my_page.options contains 'last-post-image' %}
-                <img src="{{ site.posts.first.image }}" alt="" />
-                {% else %}
-                <img src="{{ my_page.image | default: 'Norfolk.jpeg' |prepend: site.baseurl }}" alt="" />
-                {% endif %}
-                </a>
+              {% assign image_url = my_page.image | default: 'Norfolk.jpeg' |prepend: site.baseurl %}
+              {% if my_page.options contains 'last-post-image' %}{% assign image_url = site.posts.first.image %}{% endif %}
+              <div class="image" data-background-src="{{ image_url }}">
+                <a href="{{ my_page.url | prepend:site.baseurl }}"></a>
               </div>
               <div class="content">
                 <h2>{{ my_page.title }}</h2>
