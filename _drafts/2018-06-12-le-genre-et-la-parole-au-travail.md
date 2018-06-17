@@ -89,52 +89,65 @@ Beaucoup d'ateliers à cette édition de Sudweb questionnent la prise de parole,
 > It's always women who have to do all the god damn work"
 ↓
 
-C'est une citation de Rebecca Solnit dans une vidéo que j'aie vue d'elle récemment et qui m'a bien fait ricaner.  
+C'est une citation de Rebecca Solnit dans [une vidéo que j'ai vue d'elle récemment](https://www.youtube.com/watch?v=D-Zcw5LNs_U) et qui m'a bien fait ricaner.  
 Pendant la rétrospective de cet atelier, j'ai appuyé plusieurs fois combien j'ai apprécié qu'un  homme prenne l'initiative/la responsabilité d'aborder ces sujets.
 
 **Pourquoi ?**
+- Les hommes ont leur part à jouer dans la déconstruction des rapports inégalitaires.
 - Si ça avait été deux femmes, le climat n'aurait pas été le même.  
-- Grâce à ce cadre et une distribution de parole, l'atmosphère était bienveillante. Même si de par sa construction l'atelier suscite l'inconfort, je pense qu'il a été très bien géré.
-- Aussi parce que je connaissais Raphaël et Julia avant cet atelier, je leur faisais confiance pour gérer la situation si dérapage il y avait.
+- Grâce à ce cadre et une distribution de parole, l'atmosphère était bienveillante. Même si de par sa construction l'atelier suscite l'inconfort, je pense que ça a été très bien géré.
+- Parce que je connaissais Raphaël et Julia avant cet atelier, je leur faisais confiance pour gérer la situation si dérapage il y avait.
 
 #### Emotional labour
 En français, ça donnerait le travail émotionnel, le travail affectif ?
 Je maîtrise mal les contours de ces expressions (étudiées depuis longtemps en sociologie paraît-il).
 
-Après la vague de la charge mentale, concept qui a été popularisé en France par une BD de la dessinatrice Emma, maintenant on parle aussi de labeur émotionnelle : qui fait le travail de déconstruction des émotions dans un couple hétérosexuel ?
+[Emotional labor](https://en.wikipedia.org/wiki/Emotional_labor) a une fiche Wikipedia qui n'a pas (encore) d'équivalent français. Sur Wikipédia, Emotional labor se distingue de [Emotion Work](https://en.wikipedia.org/wiki/Emotion_work). En français, on trouve la définition du [travail affectif](https://fr.wikipedia.org/wiki/Travail_affectif) et celle du [travail émotionnel](https://fr.wikipedia.org/wiki/Arlie_Russell_Hochschild#Travail_%C3%A9motionnel).
+Intéressant de voir les nuances dans ces concepts et les différences culturelles.
 
-Et donc, par extension : qui fait le travail de déconstruction des relations et des discriminations genrées, au travail, en dehors du travail ?
+Après la vague de la charge mentale, concept qui a été popularisé en France entre autres par [une BD de la dessinatrice Emma](https://emmaclit.com/2017/05/09/repartition-des-taches-hommes-femmes/), maintenant on parle aussi de labeur émotionnelle : qui fait le travail de déconstruction des émotions dans un couple hétérosexuel ?
 
-Julia rebondit en disant que pour elle, le travail émotionnel voulait dire l'investissement plus ou moins conséquent qu'on met dans la compréhension de nos propres émotions et besoins.
-C'est la responsabilité de chacun.e, et pourtant, les femmes sont plus invitées / incitées à faire ce travail. Pourquoi cette disparité ?
+>It’s about who does the domestic labour, the emotional labour, the work of healing the walking wounded.
 
-Cf tweet invoice.
+>We take care of people, soothe hurt feelings, organise chaotic lives and care for men who never learned to care for themselves, regardless of whether or not we’re constitutionally suited for such work.
+([source](https://www.newstatesman.com/politics/feminism/2016/02/maybe-you-should-just-be-single))
+
+Qui fait le travail de déconstruction des relations et des discriminations genrées, au travail ? En dehors du travail ?
+
+Julia rebondit en disant que pour elle, le travail émotionnel voudrait dire l'investissement qu'on met dans la compréhension de nos propres émotions et besoins.
+C'est la responsabilité de chacun.e, et pourtant, les femmes sont plus invitées / incitées à faire ce travail.
+
+Ce tweet résume un peu ma compréhension du "emotional labour" avant de faire mes recherches :
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Best. Invoice. Ever. 💯👀✔ <a href="https://twitter.com/hashtag/emotionallabor?src=hash&amp;ref_src=twsrc%5Etfw">#emotionallabor</a> <a href="https://twitter.com/hashtag/payments?src=hash&amp;ref_src=twsrc%5Etfw">#payments</a> <a href="https://twitter.com/hashtag/activists?src=hash&amp;ref_src=twsrc%5Etfw">#activists</a> <a href="https://t.co/spcofVV5Ec">pic.twitter.com/spcofVV5Ec</a></p>&mdash; Alicia G (Oshun) (@LadyOshun1) <a href="https://twitter.com/LadyOshun1/status/1007823848392228864?ref_src=twsrc%5Etfw">16 juin 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 #### Rétrospective
-- **"Ça me donne des mots"**
-Pluralité des rapports de pouvoir, représentations du pouvoir.
-Masculinité hégémonique.
-Charge mentale
-  virilisme.
+- **"Ça me donne des mots"**  
+J'ai entendu ça de la part d'un homme dans la salle, qui a trouvé utile de trouver des concepts, des expressions et des mots pour pouvoir mieux décrire et analyser des situations. Ça m'a fait vraiment plaisir, parce que pour moi, c'est hyper important. Ces rapports sont complexes, et les mots justes peuvent donner de la force, peuvent aider à comprendre.  
+On a parlé de pluralité des rapports de pouvoir, représentations (du pouvoir), de masculinité hégémonique.
 
-- **"Je n'ai pas l'impression d'être sexiste"**
-_"Et pourtant, tu es sexiste, tu es machiste, et moi aussi !"_
-Claire s'exclame après cette intervention. Qu'on en soit conscient ou non, on reproduit des logiques dominantes, et on entretient des dynamiques d'oppression.
+On a ricané quand on n'a pas trouvé le mot virilisme dans un dictionnaire en ligne.
+Un mot pour critiquer un comportement izarrement, pas dans un dictionnaire écrit par des hommes, hmhm.
+
+- **"Je n'ai pas l'impression d'être sexiste"**  
+_"Et pourtant, tu es sexiste, tu es machiste, et moi aussi !"_  
+Claire s'exclame après cette intervention. Qu'on en soit conscient.e ou non, on reproduit des logiques dominantes, et on entretient des dynamiques d'oppression.  
 Elle précise qu'elle a l'habitude d'apporter cette précision habituellement dans le cadre du racisme.
 
-On a intégré des reflèxes toxiques, on en a hérité parce qu'on vit dans des contextes, on vit dans des sociétés qui ont déjà des histoires, des structures de pouvoir, des inconscients collectifs.
-Une femme peut avoir plein de préjugés sur les femmes.
+On a intégré des reflèxes toxiques, on en a hérité parce qu'on vit dans des contextes, dans des sociétés qui ont déjà des histoires, des structures de pouvoir, des inconscients collectifs.  
+Une femme peut avoir plein de préjugés sur les femmes, j'en ai moi-même, et j'essaie de les voir, de les comprendre, de les combattre.
 
-Sur la question du racisme structurel, c'est une question hyper importante, surtout en France où on nous a encouragé à être aveugles. Il se dit plein de choses intéressantes :
- - Dans le film "Ouvrir la voix" d'Amandine Gay (il sort en dvd bientôt),  
- - Dans le bouquin "Noire n'est pas mon métier",
- - Dans le livre que je lis en ce moment : "Le racisme est un problème de blancs" / "Why I'm no Longer Talking to White People about Race" de Reni Eddo-Lodge.
- - Suivez : le collectif Mwasi, le collectif Lallab pour diversifier vos feeds et apprendre d'elles !
+Sur la question du racisme structurel, c'est une question hyper importante, surtout en France où on nous a encouragé à ne pas voir la couleur. Il se dit plein de choses intéressantes :
+ - Dans le film ["Ouvrir la voix"](https://ouvrirlavoixlefilm.fr/) d'Amandine Gay (il sort en dvd bientôt),  
+ - La traduction française du livre que je lis en ce moment : ["Why I'm no Longer Talking to White People about Race"](https://www.theguardian.com/books/2017/jun/03/why-no-long-talking-white-people-review-race-reni-eddo-lodge-racism) de Reni Eddo-Lodge sort à l'automne aux éditions Autrement sous le titre "Le racisme est un problème de blancs".
+ - Suivez : le [collectif Mwasi](https://mwasicollectif.com/), le [collectif Lallab](http://www.lallab.org/) pour diversifier vos feeds et apprendre d'elles !
+ - Dans le bouquin ["Noire n'est pas mon  métier"](https://abonnes.lemonde.fr/cinema/article/2018/05/04/noire-n-est-pas-mon-metier-des-actric s-denoncent-un-racisme-latent-du-cinema-francais_5294572_3476.html) sur l'industrie du cinéma en  particulier,
 
-Je ne me suis pas sentie assez équipée pour déconstruire ce qu'est le racisme structurel et pourtant je sens que je vais en avoir besoin. Voilà un morceau pour contextualiser :
+Je ne me suis pas sentie assez équipée pour parler de racisme structurel pendant la session. Je n'en ai pas eu l'énergie, c'est important aussi, et peut être que ça aurait détourné un peu la discussion de la question du genre, même si c'est connexe bien sûr.
 
 - **"Qu'est-ce que je peux faire ?"**  
-Volonté forte de traduire nos discussions en actions concrètes. Quelques propositions :  
+J'ai vu une volonté forte de traduire nos discussions en actions concrètes. Quelques propositions :  
   • ÉCOUTER sans remettre en question.  
   • Se renseigner, faire le travail soi-même d'aller trouver des ressources ou des personnes prêtes à partager leurs expériences (tou.te.s ne le seront pas). Prendre conscience des biais cognitifs (coucou le Codex).  
   • Amplifier (au travail par exemple). Une de vos collègues a soulevé une idée qui vous paraît intéressante mais elle a été balayée. Revenez dessus et invitez-la à approfondir. Redistribuez la parole.    
@@ -167,14 +180,28 @@ Venons-en au fait : cette session a été un ENORME BOL D'AIR pour moi.
 -
 
 #### Conclusion et quelques propositions
-Chimamanda et écoutes recommandées :
-- Un podcast à soi
-- Les masculinités
 
-#### Mon conseil
-Repenser à la conclusion de la conférence d'Armony : il va falloir essayer, on va se tromper, on va se vautrer, c'est inévitable, mais on apprendra petit à petit.
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">I feel like this is the most important part of the Chimamanda interview.I&#39;ve not seen this part of the interview making the rounds on here. I would be remiss if I didn&#39;t post this. <a href="https://t.co/NYhCZ42fqn">pic.twitter.com/NYhCZ42fqn</a></p>&mdash; Efe (@EfeTobiM) <a href="https://twitter.com/EfeTobiM/status/1005224533954105345?ref_src=twsrc%5Etfw">8 juin 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Trevor Noah : From reading your work, a lot of the work has to be done by men, men need to participate, why is that so important ?
+Chimamanda Ngozi Adichie :
+"Because men have to be on board, I think you can change women all you want, if you don't change men, nothing changes because we share the wall, right ? It's men _and_ women. And I also think sadly that we live in a world where men are more likely to listen to men."
+Trevor Noah : "Oh. Wow"
+Chimamanda Ngozi Adichie : "You don't think so?"
+Trevor Noah : "And how do you convince the first man?"
+Chimamanda Ngozi Adichie : "I think some men have already been convinced. I think people like Barack Obama, for example, is a very good role model, because he's feminist, and he's cool. We need more men like that to speak up, I think men need to speak up, men need to be on board, men need to not think of feminism as something to sort of, something that's attacking them, because I think some men think that, they need to understand that feminism is something that's good for everyone because really when all of us are released from gender roles, we're all better off, right? And in the end it's about justice, don't we want to live in a just world? So there's some men who've been convinced, more men need to be, Trevor you should get cracking."
+
+#### Mes conseils
+Repenser à [la conclusion de la conférence d'Armony](https://vimeo.com/272260252) : il va falloir essayer, on va se tromper, on va se vautrer, c'est inévitable, mais on apprendra petit à petit.
+
+Ecoutez la série [Un podcast à soi](https://www.arteradio.com/serie/un_podcast_soi), sur Arte Radio.
+Ou ces séries sur France Culture :
+- [Women's Power, les nouveaux féminismes](https://www.franceculture.fr/emissions/grande-traversee-womens-power-les-nouveaux-feminismes)
+- [Masculins, est-ce ainsi que les hommes se vivent ?](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/masculins-est-ce-ainsi-que-les-hommes-se-vivent)
 
 #### Mon invitation
 Si vous êtes curieu.x.se d'un aspect ou d'un autre, que vous voulez approfondir mais que vous ne savez pas par où commencer, écrivez-moi. La porte est ouverte, prenez prendre le thé : j'ai des films, des podcasts, des livres, des magazines, des collectifs, des évènements à conseiller.
 
-Merci mille fois à tou.te.s les participant.e.s de l'atelier, à Raphaël de s'être lancé et de [refaire l'atelier à Agile France](https://joind.in/event/confrence-agile-france-2018/la-parole-au-travail--un-espace-de-privilges-masculins-), à Julia de l'avoir rejoint, pour [son article](https://julia-barbelane.github.io/reflexions/chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-un-atelier-sur-la-parole-et-le-genre.html), et d'avoir ravivé l'élan d'écrire sur cet atelier, à Julien pour son article aussi !
+Merci mille fois à tou.te.s les participant.e.s de l'atelier, à Raphaël de s'être lancé et de [refaire l'atelier à Agile France](https://joind.in/event/confrence-agile-france-2018/la-parole-au-travail--un-espace-de-privilges-masculins-), à Julia de l'avoir rejoint, pour [son article](https://julia-barbelane.github.io/reflexions/chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-un-atelier-sur-la-parole-et-le-genre.html), et d'avoir ravivé l'élan d'écrire sur cet atelier, à [Julien pour son article aussi](https://www.julienpradet.fr/reactions/la-parole-et-le-genre/) !  
+PS : Si vous étiez là aussi et que ça vous fait envie de partager vos ressentis, faites signe :)
