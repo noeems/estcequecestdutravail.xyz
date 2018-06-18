@@ -207,7 +207,7 @@ Si ça vous dit d'approfondir les questions abordées par des écoutes, j'adore 
 Ou ces séries sur France Culture : [Women's Power, les nouveaux féminismes](https://www.franceculture.fr/emissions/grande-traversee-womens-power-les-nouveaux-feminismes) et [Masculins, est-ce ainsi que les hommes se vivent ?](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/masculins-est-ce-ainsi-que-les-hommes-se-vivent)
 
 #### Mon invitation
-✉️ **Si vous êtes curieu.x.se d'un aspect ou d'un autre, que vous voulez approfondir mais que vous ne savez pas par où commencer, écrivez-moi. La porte est ouverte, prenez prendre le thé : j'ai des films, des podcasts, des livres, des magazines, des collectifs, des évènements à conseiller.** 🤜
+✉️ **Si vous êtes curieu.x.se d'un aspect ou d'un autre, que vous voulez approfondir mais que vous ne savez pas par où commencer, écrivez-moi. La porte est ouverte, venez prendre le thé : j'ai des films, des podcasts, des livres, des magazines, des collectifs, des évènements à conseiller.** 🤜
 
 <hr>
 
