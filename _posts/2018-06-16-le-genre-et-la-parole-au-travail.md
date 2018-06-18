@@ -52,7 +52,7 @@ Alors je suis allée creuser la ressource qu'elle avait mentionnée, le texte de
 
 >L’absence de structure cache le pouvoir et, dans le mouvement féministe, l’idée séduit en particulier les personnes les mieux placées pour en profiter (qu’elles en soient conscientes ou non).
 
-C'est un peu comme quand on vous dit que c'est super dans une boîte, c'est comme une famille. WARNING ! WARNING ! (Répétez après moi : les familles non-dysfonctionnelle n'existent pas, les familles non-dysfonctionnelles...)
+C'est un peu comme quand on vous dit que c'est super dans une boîte, c'est comme une famille. WARNING ! WARNING ! (Répétez après moi : les familles non-dysfonctionnelles n'existent pas, les familles non-dysfonctionnelles...)
 
 #### Voix féminines plurielles
 Bien que j'aie raté une bonne partie de l'atelier, je suis heureuse de voir qu'à quatre, puis à cinq, à six, on témoigne de vécus et d'expériences différentes. Toutes avec nos spécificités, nos degrés de privilège, nos personnalités, nos orientations sexuelles, nos questionnements.
