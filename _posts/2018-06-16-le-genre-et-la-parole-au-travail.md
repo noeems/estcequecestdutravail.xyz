@@ -169,7 +169,7 @@ En général, ce que permet la non-mixité, ou la mixité choisie, c'est de lib�
 
 #### Mes ressentis
 - Je parle bien plus que d'habitude... Et ça fait un bien fou ! (A tel point que je me demande si je parle un peu trop ?) Tant pis, c'est rare, et j'ai la sensation d'apporter des choses.  
-- Julia partage ses ressentis en début de rétro et dit qu'elle ne peut pas s'empêcher de faire la louve : "AH, TU VOIS ! TU VOIS CE QUE ÇA FAIT !"  
+- Julia partage ses ressentis en début de rétro et dit qu'elle ne peut pas s'empêcher de faire l'Amazone : "AH, TU VOIS ! TU VOIS CE QUE ÇA FAIT !"  
 Je partage le même bouillonnement au fond de ma poitrine.   
 - Dieu sait que parfois je fatigue d'avoir ces conversations infinies sur le féminisme, ses clichés et ses complexités. Parfois, je n'ai pas/plus l'énergie d'expliquer (et de justifier, on me demande des faits) qu'on vit dans une société structurellement raciste, sexiste, classiste, validiste...   
 
