@@ -24,7 +24,7 @@ J'ai respecté les appels de mon estomac et j'ai été récompensée par des las
 #### Qu'est-ce qu'un brave space ?
 
 C'est une notion nouvelle pour moi, c'est Raphaël qui a poursuivi ses lectures sur les environnements safe et qui est tombé sur cette extension.
-De ce que j'en ai compris, les "safe spaces" sont des cadres sécurisants et protecteurs qui ont pour pour permettre l'expression de tou.te.s.
+De ce que j'en ai compris, les "safe spaces" sont des cadres sécurisants et protecteurs qui ont pour but de permettre l'expression de tou.te.s.
 En contraste avec les safe spaces, les brave spaces proposent non pas de contourner l'inconfort que peuvent générer certains discours, certaines paroles, mais de l'accueillir et de l'utiliser. Pour apprendre sur les autres et sur soi.
 
 Pour aller plus loin dans la compréhension de ces formats, il y a cet essai de Brian Arao et Kristi Clemens : [From Safe Spaces to Brave Spaces : A New Way to Frame Dialogue around Diversity and Social Justice](https://ssw.umich.edu/sites/default/files/documents/events/colc/from-safe-spaces-to-brave-spaces.pdf).
@@ -35,7 +35,7 @@ J'arrive donc à l'atelier à plus de la mi-parcours.
 Les participant.e.s sont assis.e.s en cercle, je remarque que quelques sièges sont disponibles près de la porte : je ne sais pas si c'est fait exprès, mais j'apprécie de pouvoir me faufiler. C'est le genre de petit geste qui me fait penser à des discussions sur les signes de convivialité dans des évènements qui, mis bout à bout, disent quelque chose de fort sur la culture qui y est entretenue. Je me rends compte que je suis sensible à l'attention portée à ces choses. Savoir qu'on peut arriver en cours de route et suivre ses envies, ça désinhibe de nos habitudes "du monde réel" : s'excuser d'arriver en retard, voire de ne pas rentrer dans la salle si ça risque de perturber le cours de la discussion. (#dontglorifydisruption).
 
 Julia, qui co-facilite l'atelier avec Raphaël, se rapproche de moi discrétos et propose de m'expliquer le cadre de l'atelier rapidement.  
-Il a format particulier :  
+Il a un format particulier :  
 **Les hommes sont invités à écouter**. Les femmes sont encouragées à partager leurs expériences de sexisme au travail.  
 Les hommes peuvent partager des ressentis ou demander des clarifications, mais pas argumenter sur les expériences partagées.  
 (Julia, qui a participé à créer le cadre, en a transcrit l'expérience [ici](https://julia-barbelane.github.io/reflexions/chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-un-atelier-sur-la-parole-et-le-genre.html) - je vous encourage à aller lire ça pour obtenir pour de détails sur le cadre proposé).
@@ -55,7 +55,7 @@ Alors je suis allée creuser la ressource qu'elle avait mentionnée, le texte de
 C'est un peu comme quand on vous dit que c'est super dans une boîte, c'est comme une famille. WARNING ! WARNING ! (Répétez après moi : les familles non-dysfonctionnelle n'existent pas, les familles non-dysfonctionnelles...)
 
 #### Voix féminines plurielles
-Bien que j'aie raté une bonne partie de l'atelier, je suis heureuse de voir qu'à quatre, puis à cinq, on témoigne de vécus et d'expériences différentes. Toutes avec nos spécificités, nos degrés de privilège, nos personnalités, nos orientations sexuelles, nos questionnements.
+Bien que j'aie raté une bonne partie de l'atelier, je suis heureuse de voir qu'à quatre, puis à cinq, à six, on témoigne de vécus et d'expériences différentes. Toutes avec nos spécificités, nos degrés de privilège, nos personnalités, nos orientations sexuelles, nos questionnements.
 Chacune notre individualité, quoi.
 
 Bien souvent, c'est la première chose à voler en éclats quand je parle de féminisme.
