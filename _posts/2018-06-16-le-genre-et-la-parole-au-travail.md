@@ -213,3 +213,7 @@ Ou ces séries sur France Culture : [Women's Power, les nouveaux féminismes](ht
 
 Merci mille fois à tou.te.s les participant.e.s de l'atelier, à Raphaël de s'être lancé et de [refaire l'atelier à Agile France](https://joind.in/event/confrence-agile-france-2018/la-parole-au-travail--un-espace-de-privilges-masculins-), à Julia de l'avoir rejoint, pour [son article](https://julia-barbelane.github.io/reflexions/chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-un-atelier-sur-la-parole-et-le-genre.html), et d'avoir ravivé l'élan d'écrire sur cet atelier, à [Julien pour son article aussi](https://www.julienpradet.fr/reactions/la-parole-et-le-genre/) !  
 PS : Si vous étiez là aussi et que ça vous fait envie de partager vos ressentis, faites signe :)
+Pareil si vous figurez sur la photo et que vous aimeriez que j'en change.
+
+**Temps d'écriture** : 1h de notes / premier jet 3h / deuxième jet 2h / peaufinage 3h  
+Entre 9 et 10 heures.
