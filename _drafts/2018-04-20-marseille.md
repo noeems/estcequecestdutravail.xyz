@@ -5,98 +5,163 @@ image: /images/2018-04-20-marseille/Cafe mims.jpg
 author:
 - noeems
 ---
-### Podcasts :
-- Entre épisodes 8 et 9
-- Reni Eddo-Lodge
+**Podcasts écoutés** 🎙 :
+- Louie Media - [Entre](https://louiemedia.com/entre/) : "Comment téléphoner à un garçon qu'on aime?" et
+- [About Race with Reni Eddo-Lodge](https://audioboom.com/channel/about-race-with-reni-eddo-lodge) : White Season Parts 1 & 2, Political Blackness.
 - France culture :
   - [Les migrants au coin de la rue](https://www.franceculture.fr/emissions/la-suite-dans-les-idees/les-migrants-au-coin-de-la-rue)
-  - En séance, étapes d'une psychanalyse - ["Pourquoi s'allonger sur le divan"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-14-pourquoi-sallonger-sur-le) et ["Choisir son analyste"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-24-choisir-son-analyste) + épisode 3
+  - En séance, étapes d'une psychanalyse :
+  ["Pourquoi s'allonger sur le divan"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-14-pourquoi-sallonger-sur-le)  
+  ["Choisir son analyste"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-24-choisir-son-analyste)  
+  ["L’analyse est une grande traversée"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-34-lanalyse-est-une-grande)
 
-_Notes_ : Ajout des leçons tirées de quelques mois d'itinérance.
+_J'écris cet article fin juin à Burret dans l'Ariège, où on rend visite à Paola, une très bonne amie. On rayonne entre Foix, Mirepoix et Burret en stop. Ici, pas de véhicule, tout pousse dans le jardin, c'est la débrouillardise et ça invite à regarder un peu où on avait posé les contours de nos préjugés et de nos petits conforts.  
+On a séjourné à Marseille du 8 au 16 avril._
 
-_J'écris cet article fin juin à Burret dans l'Ariège. Après la fête de la musique à Foix (qui nous a rappelé Crest). On a séjourné à Marseille du 8 au 16 avril._
+### Notre Dame du Mont et le chez-soi élastique
 
-### Notre Dame du Mont
+![Vue de la terrasse de l'appartement](/images/2018-04-20-marseille/Terrasse.jpg)  
+Vue depuis la terrasse.  
+Ma cousine Maïlys avait annoncé qu'elle partait en vacances et laissait son appartement à qui voudrait venir visiter Marseille. Grâce à elle (et Nico et Leïla, merci !) on profite d'une semaine calme dans cette ville polarisante.
 
-![Vue de la terrasse de l'appartement](/images/2018-04-20-marseille/Terrasse.jpg)
-Grâce à Maïlys, Nico et Leïla, on profite d'un appartement de rêve pendant leurs vacances en Bretagne (merci !)
+Lorsqu'on arrive en train, il fait nuit, on se dit qu'on prend le chemin le plus court pour pour arriver à destination... Erreur. On remonte le Cours Lieutaud qui n'est autre qu'une autoroute dans la ville. Première rencontre avec cet afflux incessant de voitures qui habite le centre-ville marseillais. Il y en a partout. Sur les trottoirs, je contourne, je me faufile, je rentre le ventre pour passer entre mur et portière. La priorité aux piétons est une vaste blague. Si on tient un peu à son intégrité physique, il vaut mieux regarder où on va.
 
-On arrive tard en train, on prend le Cours Lieutaud pour arriver le plus rapidement possible à destination... Erreur. On découvre cet afflux incessant de voitures. Première rencontre avec la culture de la voiture marseillaise. Il y en a partout. Sur les trottoirs, on doit se faufiler, rentrer le ventre pour passer. La priorité aux piétons est une vaste blague pour eux, un principe complètement mis de côté.
+À notre arrivée, le temps n'est pas au rendez-vous mais cette vue dégagée, avec les grandes roches blanches qui encadrent la ville et contrastent avec les ciels sombres et orageux, ça a son charme.
 
-Le beau temps n'est pas au rendez-vous, mais les grandes roches blanches contrastent avec les ciels orageux qui nous accueillent et on sent déjà la particularité de Marseille.
+### Premières leçons d'itinérance
+Ici, c'est notre première étape seuls avec un appartement juste pour nous depuis un peu plus d'un mois. C'est aussi une des premières fois où on reste pendant plus d'une semaine. Ça nous change d'un rythme d'itinérance jusqu'ici très élevé et plutôt collectif.    
+On commence à remarquer la fatigue accumulée de voyager tous les quelques jours, l'énergie mise dans le rituel "faire-défaire son sac" (même si on voyage léger !), le temps que prend chaque voyage vers une nouvelle destination.
+Sans en avoir vraiment pris conscience, la plupart de nos premières étapes duraient une semaine ou moins (parfois juste 3 ou 4 jours). Ce qui n'est pas suffisant pour nous permettre de profiter de l'endroit et des personnes présentes, continuer nos projets en parallèle, et nous reposer.  
+Ça fait partie des premières prises de marque entre nous :
+- accueillir et accepter le besoin de repos
+- adapter le rythme en fonction
 
-Ici, on sera seuls pendant un peu plus d'une semaine : ça nous change d'un rythme d'itinérance jusqu'ici très collectif. Ça ne nous déplait pas, de pouvoir avoir un espace calme pour trouver la concentration.
+On se dit que pour nos prochaines étapes, on essaiera de préserver une semaine et demie sur place minimum. On essaie de se dire qu'on ne se laissera pas "avoir par notre enthousiasme", et que même si on a envie de voir mille trucs, il faut aussi qu'on prête attention à nos niveaux d'énergie et de fatique.
 
-![Le pain de Thomas sur la terrasse](/images/2018-04-20-marseille/Fresh bread batch.jpg)
+Retrouver le confort d'un endroit à soi, c'est aussi : pouvoir faire du pain, trouver des bulles de concentration. Dîner sur le balcon.
+
+<section class="gallery" markdown="span">
+![Le pain de Thomas sur la terrasse](/images/2018-04-20-marseille/Fresh bread batch.jpg){:class="cols-2"}
 ![Thomas rocking chair](/images/2018-04-20-marseille/Tom boulot salon.jpg)
 ![Noémie cosy boulot](/images/2018-04-20-marseille/Noems boulot salon.jpg)
 ![Dîner sur la terrasse](/images/2018-04-20-marseille/Diner terrasse.jpg)
+</section>
 
+### Retrouvailles
+Un des premiers soirs de notre séjour, on va dîner avec Émilie, une amie de longue date. Elle s'est installée ici avec son copain Charlie. Elle nous emmène dîner chez Sauveur, institution marseillaise paraît-il. Autour de pizzas de mega haut niveau, on papote... Émilie est urbaniste et nous raconte son expérience dans ce cadre institutionnel, les limites qu'elle rencontre, ce qui la motive, les échos qu'elle trouve dans notre démarche...
 
-Un des premiers soirs de notre séjour, on va dîner avec Émilie, une amie de longue date. Elle s'est installée ici avec son copain Charlie. Elle nous emmène dîner chez Sauveur, institution marseillaise paraît-il. Autour de pizzas de haut niveau, on papote, on rattrape le temps perdu.
-Elle nous demande :
-**Si tu pouvais faire ton métier idéal, n'importe quoi, sans contrainte d'argent, tu ferais quoi ?**
-Je réfléchis un peu... Je me dis surtout que J'ADORE cette question. Je ne rêve que d'un moment où on n'aura plus la contrainte du travail. Juste le goût des activités.
-Je réponds que j'essaierai probablement de devenir designer "maille". J'ai repris le tricot récemment et je me rappelle ces moments d'errance sur les pages d'universités américaines, des cursus de design textile... Je me plais bien à me dire que dans une autre vie, j'aurais pu faire ça.
+Vers la fin du repas, elle nous demande :  
+**Si tu pouvais faire ton métier idéal, n'importe quoi, sans contrainte financière, tu ferais quoi ?**  
+Je réfléchis un peu... Je me dis surtout que J'ADORE cette question. Je ne rêve que d'un moment où je n'aurai plus la contrainte du travail rémunéré.  
+Je réponds que j'aurais probablement essayé de devenir designer "maille". J'ai repris le [tricot](https://www.ravelry.com/people/noemieg) récemment et je me rappelle ces moments d'errance sur les pages des cursus de design textile d'universités américaines... Ça me plait bien de me dire que dans une autre vie, j'aurais pu faire ça.
 
-Thomas répond hors des cases qu'on lui propose (pas de surprise là-dessus :)) - il dit qu'il ferait certainement un tas de choses. Du pain, du code... Un mélange d'activités.
+Thomas répond hors des cases (pas de surprise là-dessus 🙈) - il dit qu'il ferait certainement un tas de choses différentes. Du pain, du code... Un mélange d'activités. Ça me fait sourire, ça ne m'étonne pas de lui, et je me dis que ça ressemble quand même fortement à la vie qu'il a actuellement. Quelle chance.
 
-Et Émilie, elle, serait devenue chocolatière. Depuis toute petite, elle aime le chocolat. Elle aurait voulu aller plus loin dans sa connaissance de la matière et dans l'inventivité des saveurs.
+Émilie serait devenue chocolatière. Depuis toute petite, elle aime la créativité de ce métier. Elle aurait voulu aller plus loin dans sa connaissance de la matière.
 
-#### Bière de la Plaine
-On frappe un peu au hasard à la porte d'une brasserie. On repart contents comme tout de l'avoir fait, après avoir discuté avec quelqu'un de la Brasserie de la Plaine, qui nous dit qu'on n'a pas de bol sur le temps. On lui parle des associations de brasseries montpelliéraines et on repart avec un carton de leur blonde houblonnée à cru, Médaille d’Or au Brussels Beer Challenge 2017, rien que ça.
+Plus j'y repense et plus j'aime cette question. Ça permet d'en savoir plus sur les gens. Au-delà des sempiternels "Tu viens d'où ? Et tu fais quoi ?"
+(D'ailleurs les gens refusent qu'on leur dise qu'on est itinérants en ce moment. Ils veulent savoir "oui, mais d'où à la base ?" C'est un repère plus important que je ne pensais...)
+
+#### Les hasards de l'errance
+On frappe un peu au hasard à la porte d'une brasserie pas loin de chez nous. Quelqu'un sort de la pénombre et nous ouvre. On discute des associations de brasseries montpelliéraines (la BAF), des matières premières, du fait qu'on n'a pas de bol sur le temps ("les seuls jours de l'année où il pleut à Marseille !"). On repart avec un carton de leur blonde houblonnée à cru, récompensée au Brussels Beer Challenge 2017.
+
+<section class="gallery" markdown="span">
 ![Award-winning](/images/2018-04-20-marseille/Biere de la Plaine.jpg)
 ![Bière de la Plaine](/images/2018-04-20-marseille/Carton de biere de la Plaine.jpg)
-![Brasserie de la Plaine](/images/2018-04-20-marseille/Brasserie de la Plaine.jpg)
+![Brasserie de la Plaine](/images/2018-04-20-marseille/Brasserie de la Plaine.jpg){:class="cols-2"}
+</section>
 
+Les brasseurs de bière, c'est comme les gens qui s'occupent des nouveaux circuits de bouffe : ça fleurit partout, ils/elles ont le goût des bons produits, reprennent en main des productions locales... Ça a l'air d'être un milieu vraiment dynamique et bon vivant auquel j'aimerais m'intéresser de plus près une fois posée. (Je n'ai pas encore essayé de brasser ma propre bière, mais j'ai des amis qui ont du super nivax là-dessus.)
 
-#### Friche la Belle de Mai et fablab http://www.lfofablab.org/
+Un petit tour sur le site de la [Brasserie du Vieux Singe](https://www.vieuxsinge.com/manifeste.html) confirme mes intuitions, voilà un extrait de leur manifeste :
+
+**COOPÉRATION & PARTAGE**  
+
+Nous ne sommes pas seuls et pensons que **la coopération et le partage sont plus forts que la compétition et le culte du secret.**
+Nous souhaitons nous allier à nos collègues brasseurs indépendants pour mettre à mal l'industrialisation de la bière !  
+**En pratique ?**
+
+  - _Nos recettes sont publiées en ligne_, pour être facilement reproduites par qui le souhaite. Nous en parlons d'ailleurs avec plaisir !  
+  - Nous publions aussi souvent que possible les résultats de nos expérimentations.
+  - _Les plans de nos projets sont mis à disposition pour un partage, une diffusion et une réutilisation, selon le principe des logiciels libres._
+  - Nous sommes investis dans des projets collectifs qui ont pour but le développement de la brasserie artisanale et de sa filière.
+  - Nous continuons notre parcours de brasseurs amateurs, au vu de la richesse des discussions avec cette communauté.
+  - Nous sommes adhérents au Syndicat National des Brasseurs Indépendants.
+
+Un peu la classe. 💪
+
+#### Friche la Belle de Mai et LFO fablab
+
+<section class="gallery" markdown="span">
 ![Panneau d'entrée de la Friche la Belle de Mai](/images/2018-04-20-marseille/Affiche friche.jpg)
-![Couloirs vides de la Friche](/images/2018-04-20-marseille/Friche couloirs.jpg)
-![LFO](/images/2018-04-20-marseille/Fablab.jpg)
+![Couloirs vides de la Friche](/images/2018-04-20-marseille/Friche couloirs.jpg){:class="cols-2"}
+</section>
 
-À la friche, on trouve le plaisir de l'espace libre.
+À la friche, on trouve le plaisir de l'espace, de la déambulation libre.
 On trouve un marché où acheter des légumes frais (et du fromage du coin).
+
+C'est drôle de tomber sur une expo de Gérard Paris Clavel qui a pour thème le travail. Non mais ça nous poursuit ou quoi ?! (Oui.)
 
 >Le travail, au centre de nos vies bien souvent (à bien distinguer de l'emploi) est un moteur humain et social, de lien et d'épanouissement, de rencontre comme parfois d'oppression. Il est également au centre de la démarche de Gérard Paris Clavel, graphiste social, membre fondateur de Grapus et Ne Pas Plier.
 
-![Thomas à la terrasse de la friche](/images/2018-04-20-marseille/Tom friche.jpg)
 ![Expo métier - Gérard Paris-Clavel](/images/2018-04-20-marseille/Les mots des metiers - GPC.jpg)
+
+[Claire](https://www.clairezuliani.com/) nous avait parlé du Zinc, un endroit qui croise aussi arts et cultures du numérique. Ils sont associés au [LFO](http://www.lfofablab.org/), le fablab installé dans la friche. On finit par passer l'après-midi à parler des joies et des contraintes d'un fablab, de la bidouille, des ambitions de tisser un réseau local, d'abaisser la culture des silos, de la reconnaissance de compétences, de la MedNum (à nouveau)... Et du modèle économique de ce genre d'endroit.
+
+![LFO](/images/2018-04-20-marseille/Fablab.jpg)
+
+Je retrouve plein d'échos aux années que j'avais passées à la Gaîté lyrique : ils ont collaboré avec Brut Pop pour faire des [BrutBox](http://reso-nance.org/brutbox/) (un contrôleur midi modulaire conçu pour des ateliers de création sonore et musicale avec des publics en situation de handicap (sensoriel, psychique ou moteur), et du jeune public)
+
+Et pour finir, une petite bière en terrasse :
+<section class="gallery" markdown="span">  
+![Thomas à la terrasse de la friche](/images/2018-04-20-marseille/Tom friche.jpg)
 ![Eurk les toilettes](/images/2018-04-20-marseille/Toilettes bien gore.jpg)
+</section>
 
-#### Soirées Notre Dame Des Landes et Longo Maï
-On va voir un film sur la ZAD au moment où les interventions policières deviennent complètement démesurées. Le film en lui-même n'était pas terrible-terrible, mais je vous recommande à fond de voir "Demain s'entête" qu'on peut voir gratuitement ici.
-C'est un film qui suit les différents mouvements dans la ZAD, laisse d'exprimer la polyphonie des gens qui la font vivre, assume la pluralité, suit la quête des gens qui y viennent, ce qu'ils.elles cherchent à y (dé)construire.
+Je fais cette tête parce que les toilettes des femmes sont fermées et dans celles des hommes, j'ai vu des trucs que je ne pourrai plus jamais effacer de ma mémoire.
 
-Un moment qui m'a particulièrement marquée, c'est une femme qui dit qu'ici, ils.elles cherchent à faire autrement que le modèle de société qu'on connait. Qu'ils.elles ne prétendent pas avoir raison, avoir les bonnes réponses, ils.elles essaient simplement de faire autrement.
-Que peut être qu'une construction de société autre prendra bien plus de temps, puisqu'on arrive tou.te.s avec nos reliquats, nos préjugés non-interrogés... Notre "bagage" de l'ancien monde.
+#### Semences libres et zone à défendre
+On va aux Variétés (cinéma indé du coin) voir un film sur la ZAD au moment où les interventions policières deviennent complètement démesurées. Le film en lui-même n'était pas terrible, mais je vous recommande **vraiment** de voir ["Demain s'entête"](https://www.youtube.com/watch?v=kUPIuDonz_g).
+C'est un film qui suit les mouvements au sein de la ZAD, montre la polyphonie des gens qui la font vivre, assume la pluralité, dépeint ce qu'on cherche à y (dé)construire.
 
-Que la police s'acharne sur ce genre d'initiative me dépasse complètement. La démonstration de force me fait la sensation d'un État autoritaire et masculiniste.
+A **Longo Maï** aussi on essaie d'inventer autre chose.
+J'ai découvert ces lieux de vie à travers [un podcast] (encore un).
 
---
+>Coopérative agricole autogérée qui connaît un immense afflux et essaime en France et en Europe : maraîchage, apiculture, élevage de moutons ou bûcheronnage accompagnent désormais les actions politiques et les campagnes de soutien que le collectif continue de mener. Ni règles écrites, ni salariat, ni propriété privée. Une radio libre, à laquelle participent largement des habitants de la région. Depuis quatre décennies, l’accueil de réfugiés.
 
-A Longo Maï aussi on essaie d'inventer autre chose.
-Ces lieux de vie
-_Notes_: semis, empowerment, semences libres
+À cette soirée je découvre le mouvement des semences libres et paysannes. J'avais entendu parler de [Kokopelli](https://kokopelli-semences.fr/?lang=fr-fr) mais je ne savais pas qu'il était actuellement interdit de vendre des semences qui ne sont pas sur les catalogues officiels (histoire de conserver monopole et dépendance).
+Longo Maï fait partie des gens qui collaborent avec Kokopelli pour échanger et partager des graines de leur propre production.
+Heureusement, l'Union européenne a depuis pris des dispositions pour [déverrouiller le marché des semences](http://www.liberation.fr/planete/2018/05/09/l-union-europeenne-deverrouille-le-marche-des-semences_1648881).
+
+Ce qui m'a touchée dans cette soirée, c'est que la personne venue de Longo Maï partager quelques-unes de ses expériences sur la façon d'auto-gérer sa production est une femme, et qu'elle insiste beaucoup sur le fait que ce genre d'activité nous renforce lorsqu'on s'aperçoit qu'on peut faire plein de choses. Elle fait référence à l'empowerment, la puissance d'agir. Elle me regarde droit dans les yeux quand elle parle de ça.
 
 #### Le Pas de la Demi-Lune : presque mourir dans les calanques
-Quand le beau temps revient, c'est parfait, on est murs pour une balade dans les calanques.
+Quand le beau temps arrive, c'est parfait, on est mûrs pour une balade dans les calanques.
 On est dimanche, on saute dans deux bus consécutifs.
 
-On sent bien qu'aujourd'hui, tout le monde va avoir la même idée que nous - on est déjà beaucoup à nous y rendre. Pour éviter la grosse foule, on décide de prendre un chemin alternatif. Après tout, on a notre picnic, nos chaussures de rando, on est tout équipés.
+On sent bien qu'aujourd'hui, tout le monde va avoir la même idée que nous. Pour éviter la foule, on décide de prendre un chemin alternatif. Après tout, on a notre picnic, nos chaussures de rando, on est tout équipés.
 
 Au départ, le panneau indiquant les chemins a subi les effets du temps et de la pluie, quelques informations sont effacées, quelques chemins ne sont plus accessibles.
 
 ![Tellement blanche qu'on m'aperçoit à peine](/images/2018-04-20-marseille/Aussi blanche que la rocaille.jpg)
 
-Le Pas de la Demi-Lune paraît idéal : on prend un peu de hauteur et on pourra s'arrêter à l'ombre pour déjeuner. MALHEUR MAIS SI J'AVAIS SU.
+Le Pas de la Demi-Lune paraît idéal : on prend un peu de hauteur et on pourra s'arrêter à l'ombre pour déjeuner.
+
+MALHEUR. SI J'AVAIS SU.
 
 ![Calanques](/images/2018-04-20-marseille/Calanques cirque.jpg)
-![Fleur d'altitude](/images/2018-04-20-marseille/Fleur d'altitude.jpg)
 
+C'est un endroit vertigineux (non mais [regardez-moi ça](http://www.tourisme-marseille.com/fiche/pas-de-la-demi-lune-calanques-de-marseille/)). À peine de quoi poser son pied, il faut se plaquer contre la paroi pour "marcher en crabe" et oser espérer pouvoir s'en sortir vivant.   
+J'ai les jambes qui flageolent et je pense que je suis encore plus blanche que tout à l'heure, si c'était possible. J'ai rarement eu aussi peur de ma vie. Pourtant je vois des Marseillais passer à toute allure en disant 'qu'ils avaient un petit coup dans le nez mais qu'ils avaient encore beaucoup de chemin'...   
+Failli tourner de l'œil.
 
+<section class="gallery" markdown="span">
 ![Sève](/images/2018-04-20-marseille/F you sap.jpg)
 ![Réconfort au pied des Calanques](/images/2018-04-20-marseille/Le reconfort not pregnant.jpg)
+![Calanques calmes](/images/2018-04-20-marseille/Calanques bas.jpg)
+</section>
+
+J'ai rarement été aussi heureuse d'être en vie en un seul morceau qu'après ce moment épique.
 
 <iframe src="https://player.vimeo.com/video/270959706" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -130,16 +195,16 @@ Le pouvoir d'agir, traduction du terme "empowerment",
 
 <iframe src="https://player.vimeo.com/video/270959407" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-+ links vers leur boulot, Lieux Infinis
+**Conseils de lecture - pour aller plus loin**  
+Vous aimeriez lire quelque chose sur le chez-soi ?  
+N'allez pas plus loin, attrapez : [Chez soi, une odyssée de l'espace domestique](http://www.editions-zones.fr/spip.php?article197) de Mona Chollet.
 
-https://abonnes.lemonde.fr/m-actu/article/2018/05/26/a-la-biennale-de-venise-on-reflechit-plus-a-des-sujets-de-societe-qu-a-l-architecture-pure_5305193_4497186.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1527495123
+Pour en lire plus sur les urbanistes et architectes qui font des trucs bien, allez voir le catalogue de [Lieux Infinis](https://editions-b42.com/produit/lieux-infinis/) (toutes les personnes associées ont l'air chouette).
 
 **Les adresses à Marseille :**
 - [Chez Sauveur](http://chezsauveur.fr/presentation/) - Pizzeria
-- [Café x café](https://www.facebook.com/cafexcafexmarseille/)
+- [Café x café](https://www.facebook.com/cafexcafexmarseille/) - Café de qualité
 - [L'Histoire de l'œil](http://www.histoiredeloeil.com/) - Librairie
 - [Le Bar à Pain](https://www.facebook.com/PageLeBaraPain/) - Boulangerie
 
-**Est-ce que c'est du travail ?!**
-
-<iframe src="https://player.vimeo.com/video/270959736" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![Coucher de soleil](/images/2018-04-20-marseille/Massilia sunset.jpg)
