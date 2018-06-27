@@ -1,22 +1,22 @@
 ---
 title: Marseille
-excerpt: Graines de Longo Maï et recentrer ses besoins.
+excerpt: Semences paysannes, architecture temporaire, recentrer ses besoins.
 image: /images/2018-04-20-marseille/Cafe mims.jpg
 author:
 - noeems
 ---
+_J'écris cet article fin juin à Burret dans l'Ariège, où on rend visite à Paola, une très bonne amie. On rayonne entre Foix, Mirepoix et Burret en stop. Ici, pas de véhicule, tout pousse dans le jardin, c'est la débrouillardise et ça invite à regarder un peu où on avait posé les contours de nos préjugés et de nos petits conforts.  
+On a séjourné à Marseille du 8 au 16 avril._
+
 **Podcasts écoutés** 🎙 :
 - Louie Media - [Entre](https://louiemedia.com/entre/) : "Comment téléphoner à un garçon qu'on aime?" et
 - [About Race with Reni Eddo-Lodge](https://audioboom.com/channel/about-race-with-reni-eddo-lodge) : White Season Parts 1 & 2, Political Blackness.
 - France culture :
   - [Les migrants au coin de la rue](https://www.franceculture.fr/emissions/la-suite-dans-les-idees/les-migrants-au-coin-de-la-rue)
-  - En séance, étapes d'une psychanalyse :
+  - En séance, étapes d'une psychanalyse :  
   ["Pourquoi s'allonger sur le divan"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-14-pourquoi-sallonger-sur-le)  
   ["Choisir son analyste"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-24-choisir-son-analyste)  
   ["L’analyse est une grande traversée"](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/en-seance-etapes-dune-psychanalyse-34-lanalyse-est-une-grande)
-
-_J'écris cet article fin juin à Burret dans l'Ariège, où on rend visite à Paola, une très bonne amie. On rayonne entre Foix, Mirepoix et Burret en stop. Ici, pas de véhicule, tout pousse dans le jardin, c'est la débrouillardise et ça invite à regarder un peu où on avait posé les contours de nos préjugés et de nos petits conforts.  
-On a séjourné à Marseille du 8 au 16 avril._
 
 ### Notre Dame du Mont et le chez-soi élastique
 
@@ -24,7 +24,7 @@ On a séjourné à Marseille du 8 au 16 avril._
 Vue depuis la terrasse.  
 Ma cousine Maïlys avait annoncé qu'elle partait en vacances et laissait son appartement à qui voudrait venir visiter Marseille. Grâce à elle (et Nico et Leïla, merci !) on profite d'une semaine calme dans cette ville polarisante.
 
-Lorsqu'on arrive en train, il fait nuit, on se dit qu'on prend le chemin le plus court pour pour arriver à destination... Erreur. On remonte le Cours Lieutaud qui n'est autre qu'une autoroute dans la ville. Première rencontre avec cet afflux incessant de voitures qui habite le centre-ville marseillais. Il y en a partout. Sur les trottoirs, je contourne, je me faufile, je rentre le ventre pour passer entre mur et portière. La priorité aux piétons est une vaste blague. Si on tient un peu à son intégrité physique, il vaut mieux regarder où on va.
+Lorsqu'on arrive en train, il fait nuit, on se dit qu'on prend le chemin le plus court pour arriver à destination... Erreur. On remonte le Cours Lieutaud qui n'est autre qu'une autoroute dans la ville. Première rencontre avec cet afflux incessant de voitures qui habite le centre-ville marseillais. Il y en a partout. Sur les trottoirs, je contourne, je me faufile, je rentre le ventre pour passer entre mur et portière. La priorité aux piétons est une vaste blague. Si on tient un peu à son intégrité physique, il vaut mieux regarder où on va.
 
 À notre arrivée, le temps n'est pas au rendez-vous mais cette vue dégagée, avec les grandes roches blanches qui encadrent la ville et contrastent avec les ciels sombres et orageux, ça a son charme.
 
@@ -36,7 +36,7 @@ Sans en avoir vraiment pris conscience, la plupart de nos premières étapes dur
 - accueillir et accepter le besoin de repos
 - adapter le rythme en fonction
 
-On se dit que pour nos prochaines étapes, on essaiera de préserver une semaine et demie sur place minimum. On essaie de se dire qu'on ne se laissera pas "avoir par notre enthousiasme", et que même si on a envie de voir mille trucs, il faut aussi qu'on prête attention à nos niveaux d'énergie et de fatique.
+On se dit que pour nos prochaines étapes, on essaiera de préserver une semaine et demie sur place minimum. On essaie de se dire qu'on ne se laissera pas "avoir par notre enthousiasme", et que même si on a envie de voir mille trucs, il faut aussi qu'on prête attention à nos niveaux d'énergie et de fatigue.
 
 Retrouver le confort d'un endroit à soi, c'est aussi : pouvoir faire du pain, trouver des bulles de concentration. Dîner sur le balcon.
 
@@ -113,7 +113,9 @@ C'est drôle de tomber sur une expo de Gérard Paris Clavel qui a pour thème le
 Je retrouve plein d'échos aux années que j'avais passées à la Gaîté lyrique : ils ont collaboré avec Brut Pop pour faire des [BrutBox](http://reso-nance.org/brutbox/) (un contrôleur midi modulaire conçu pour des ateliers de création sonore et musicale avec des publics en situation de handicap (sensoriel, psychique ou moteur), et du jeune public)
 
 Et pour finir, une petite bière en terrasse :
-<section class="gallery" markdown="span">  
+
+<section class="gallery" markdown="span">
+![Marché et légumes frais](/images/2018-04-20-marseille/Marche friche.jpg)
 ![Thomas à la terrasse de la friche](/images/2018-04-20-marseille/Tom friche.jpg)
 ![Eurk les toilettes](/images/2018-04-20-marseille/Toilettes bien gore.jpg)
 </section>
@@ -149,7 +151,10 @@ Le Pas de la Demi-Lune paraît idéal : on prend un peu de hauteur et on pourra 
 
 MALHEUR. SI J'AVAIS SU.
 
+<section class="gallery" markdown="span">
+![Calanques](/images/2018-04-20-marseille/Calanques vue haut.jpg){:class="cols-2"}
 ![Calanques](/images/2018-04-20-marseille/Calanques cirque.jpg)
+</section>
 
 C'est un endroit vertigineux (non mais [regardez-moi ça](http://www.tourisme-marseille.com/fiche/pas-de-la-demi-lune-calanques-de-marseille/)). À peine de quoi poser son pied, il faut se plaquer contre la paroi pour "marcher en crabe" et oser espérer pouvoir s'en sortir vivant.   
 J'ai les jambes qui flageolent et je pense que je suis encore plus blanche que tout à l'heure, si c'était possible. J'ai rarement eu aussi peur de ma vie. Pourtant je vois des Marseillais passer à toute allure en disant 'qu'ils avaient un petit coup dans le nez mais qu'ils avaient encore beaucoup de chemin'...   
@@ -161,12 +166,12 @@ Failli tourner de l'œil.
 ![Calanques calmes](/images/2018-04-20-marseille/Calanques bas.jpg)
 </section>
 
-J'ai rarement été aussi heureuse d'être en vie en un seul morceau qu'après ce moment épique.
+J'ai rarement été aussi heureuse d'être en vie et en un seul morceau qu'après ce moment. Épique.
 
 <iframe src="https://player.vimeo.com/video/270959706" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
 
 #### Hyperville - faire lieu
-_Notes_ : Le Coin des femmes. Action, posture, collectifs, ancrage local, participation.
 
 ![La valeur d'une ville](/images/2018-04-20-marseille/La valeur d'une ville.jpg)
 
@@ -175,33 +180,50 @@ Par hasard, sur Twitter, je tombe sur ce collectif d'urbanistes implanté à Par
 J'arrive à trouver le dernier exemplaire à la Friche la Belle de Mai.
 Et en fait, croiser ces questions de lieux, de quartiers, de vie et d'espace public me marque, ça va m'accompagner pas mal de temps.
 
-Voilà quelques citations qui m'ont parues intéressantes :
+Voilà quelques citations :
 >Un réel processus de métropolisation que nous sommes seuls à même de construire pour qu'il nous ressemble. Cette 'globalisation par le bas' n'a rien de péjoratif, elle est notre seul avenir possible.
 
-À qui confie-t-on la responsabilité de nous fournir des espaces de vie ?
-À travers le collectif Genre et Ville, j'avais déjà un peu abordé la question de femmes et de l'espace public... Mais cette entrée dans les intentions des tiers-lieux m'amène à m'interroger davantage sur les dynamiques collectives, "from the ground up", indépendantes, qui questionnent la vie collective et la mixité.
+À qui confie-t-on la responsabilité des espaces de vie ?
+À travers le collectif [Genre et Ville](http://www.genre-et-ville.org/) j'avais déjà un peu abordé la question de femmes et de l'espace public... Mais cette entrée dans les intentions des tiers-lieux m'amène à m'interroger davantage sur les dynamiques collectives, "from the ground up", indépendantes, qui questionnent la vie collective et la mixité.  
+
+Dans cet exemplaire, le collectif raconte son expérience vis-à-vis des femmes du quartier de la Belle de Mai. D'abord en organisant un cercle de parole, pour partager les vécus du quartier, les gênes et les endroits de convivialité... Comme souvent, certaines évitent des endroits comme des parcs abandonnés, des places uniquement fréquentées par des hommes, etc. Alors, l'idée leur vient de reprendre possession de l'espace en organisant 'le Coin des Femmes'. Venir en groupe, organiser une activité et un moment de partage dans un endroit aux connotations d'interdit, ça participe à changer subtilement, le temps d'une journée, les rapports de pouvoir, les peurs, et de ré-écrire autre chose à la place.
 
 >Saprophytes met en œuvre sa 'Fabrique d'architectures bricolées' au sein de la Condition Publique, avec des missions courtes, diffuses dans le temps, mais régulières. Tous ont en commun, depuis une dizaine d'années, de s'intéresser davantage aux processus qu'aux formes, de se soucier surtout des méthodes et moins des finalités.
 
-C'est une des premières fois que j'entends parler d'architecture temporaire, bricolée, où les moyens prennent le pas sur la fin. Ces architectures-là ont bien davantage l'ambition de créer du lien et favoriser des rencontres que de devenir un "produit fini" au sens classique de l'architecture. C'est une dynamique que je rencontre aussi ailleurs, dans des projets de recherche-action, cette question du processus, de l'expérimentation, de l'improvisation.
+C'est une des premières fois que j'entends parler d'architecture temporaire, bricolée, où les moyens prennent le pas sur la fin. Ces architectures-là ont l'ambition de créer du lien et de favoriser des rencontres plutôt que l'obsession du "produit fini". C'est une dynamique que je rencontre aussi ailleurs, dans des projets de recherche-action et d'innovation sociale, cette question du processus, de l'expérimentation, de l'improvisation.
 
 >Voici pêle-mêle quelques questions inspirantes qu'ils se posent à travers leurs pratiques respectives : comment appuyer un sentiment de communauté par des chantiers ouverts de bricolage en plein air ? Comment imaginer une autogestion collective d'un petit parc public ? Comment initier une rénovation des logements par l'auto-construction, dont la majorité est habitée par des propriétaires-occupants sans ressources ? Quels liens tisser entre un important équipement culturel comme la Condition Publique et ses voisins des quartiers populaires cloisonnés ?
 
 >Certains pensent, comme le souligne le rapport Bacqué-Mechmache, qu'il est crucial de construire avec les habitants des quartiers délaissés, plutôt que de seulement transformer leurs espaces. Daté de 2013, il propose une poignée d'actions concrètes autour de la participation, à savoir la nécessité d'offrir aux individus plus de 'pouvoir d'agir'.
 
-Le pouvoir d'agir, traduction du terme "empowerment",
+Je retrouve cette notion de pouvoir d'agir, "empowerment" par le faire, par la satisfaction d'apprendre à faire des choses de ses mains, de se sentir capable, de participer à un projet, d'apprendre des autres et de pouvoir transmettre à son tour... Ça peut paraître anodin mais je trouve qu'il y a beaucoup de ressource dans ce fait de décentraliser et dé-hiérarchiser les savoirs.  
+Une fois passée la première impression de "je n'ose pas !", si l'environnement est accueillant, on se prend au jeu. Peut-être même qu'on fait des rencontres qui n'auraient pas eu lieu autrement.  
+Ça me plait bien cette idée.
 
 >Il n'y a pas d'espaces pauvres, il n'y a que des espaces pauvrement regardés.
 
 <iframe src="https://player.vimeo.com/video/270959407" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
 
-**Conseils de lecture - pour aller plus loin**  
+### Et pour finir
+Parce qu'on a eu la chance de vivre dans un quartier vraiment agréable (avec plein de commerces de bouche, un super marché au Cours Julien, un emplacement central et proche d'une zone piétonne...), j'ai beaucoup aimé Marseille. Plus que je ne m'y attendais.
+
+J'ai aimé que la ville se montre sans détour, qu'elle ne cache pas ses inégalités. Ville franche. Ça bouge de partout. On nous dit qu'en plusieurs années, Marseille s'est déjà beaucoup transformée, et que ça va continuer (elle bénéficie d'un des plus gros plans de rénovation urbaine, [Euroméditerranée](http://www.euromediterranee.fr/quartiers/presentation/le-projet-urbain.html)).
+
+Je suis contente de partir en préservant un bon souvenir, sans m'éterniser, sans sentir l'usure de la présence de voitures partout-tout-le-temps. Je serais vraiment contente de trouver une occasion d'y retourner avec mes repères acquis.
+
+<section class="gallery" markdown="span">
+![Longchamp](/images/2018-04-20-marseille/Longchamp.jpg)
+![Fontaine contrejour](/images/2018-04-20-marseille/Longchamp en contrejour.jpg)
+</section>
+
+**Conseils de lecture** 📚  
 Vous aimeriez lire quelque chose sur le chez-soi ?  
-N'allez pas plus loin, attrapez : [Chez soi, une odyssée de l'espace domestique](http://www.editions-zones.fr/spip.php?article197) de Mona Chollet.
+Attrapez : [Chez soi, une odyssée de l'espace domestique](http://www.editions-zones.fr/spip.php?article197) de Mona Chollet.
 
-Pour en lire plus sur les urbanistes et architectes qui font des trucs bien, allez voir le catalogue de [Lieux Infinis](https://editions-b42.com/produit/lieux-infinis/) (toutes les personnes associées ont l'air chouette).
+Pour en lire plus sur les urbanistes et architectes qui font des trucs vraiment intéressants, allez voir le catalogue de [Lieux Infinis](https://editions-b42.com/produit/lieux-infinis/) (toutes les personnes associées ont l'air chouette).
 
-**Les adresses à Marseille :**
+**Les adresses à Marseille** 🍽  
 - [Chez Sauveur](http://chezsauveur.fr/presentation/) - Pizzeria
 - [Café x café](https://www.facebook.com/cafexcafexmarseille/) - Café de qualité
 - [L'Histoire de l'œil](http://www.histoiredeloeil.com/) - Librairie
