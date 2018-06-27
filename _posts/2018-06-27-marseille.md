@@ -67,7 +67,7 @@ On frappe un peu au hasard à la porte d'une brasserie pas loin de chez nous. Qu
 
 <section class="gallery" markdown="span">
 ![Award-winning](/images/2018-04-20-marseille/Biere de la Plaine.jpg)
-![Bière de la Plaine](/images/2018-04-20-marseille/Carton de biere de la Plaine.jpg)
+![Bière de la Plaine](/images/2018-04-20-marseille/Carton de biere de la plaine.jpg)
 ![Brasserie de la Plaine](/images/2018-04-20-marseille/Brasserie de la Plaine.jpg){:class="cols-2"}
 </section>
 
