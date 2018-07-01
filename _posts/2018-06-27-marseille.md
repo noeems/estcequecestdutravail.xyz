@@ -127,7 +127,7 @@ On va aux Variétés (cinéma indé du coin) voir un film sur la ZAD au moment o
 C'est un film qui suit les mouvements au sein de la ZAD, montre la polyphonie des gens qui la font vivre, assume la pluralité, dépeint ce qu'on cherche à y (dé)construire.
 
 A **Longo Maï** aussi on essaie d'inventer autre chose.
-J'ai découvert ces lieux de vie à travers [un podcast] (encore un).
+J'ai découvert ces lieux de vie à travers [un podcast](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/longo-mai-lutopie-dure-longtemps) (encore un).
 
 >Coopérative agricole autogérée qui connaît un immense afflux et essaime en France et en Europe : maraîchage, apiculture, élevage de moutons ou bûcheronnage accompagnent désormais les actions politiques et les campagnes de soutien que le collectif continue de mener. Ni règles écrites, ni salariat, ni propriété privée. Une radio libre, à laquelle participent largement des habitants de la région. Depuis quatre décennies, l’accueil de réfugiés.
 
