@@ -1,7 +1,7 @@
 ---
 title: Why she's no longer talking to white people about race
 excerpt: Notes de lecture - première partie
-image: /images/2018-07-02-reni/It's not feminism unless it's intersectional lowres.jpg
+image: /images/2018-07-02-reni/Its not feminism unless its intersectional lowres.jpg
 author:
 - noeems
 ---
