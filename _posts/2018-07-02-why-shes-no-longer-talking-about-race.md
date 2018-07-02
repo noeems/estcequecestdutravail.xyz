@@ -31,7 +31,7 @@ What history had I inherited that left me an alien in my place of birth?
 
 Est-ce qu'on donne assez de contexte pour comprendre nos histoires coloniales et esclavagistes ?
 Réponse : non.  
-En France aussi, on commence à peine à exposer nos passés. Bordeaux et Nantes commencent à intégrer leurs histoires de traite d'esclaves dans les discours et les signes officiels au delà de l'anecdotique. Avec, oh, simplement deux décennies de retard par rapport aux pays anglo-saxons.  
+En France aussi, on commence à peine à exposer nos passés. Bordeaux et Nantes commencent à intégrer leurs histoires de traite d'esclaves dans les discours et les signes officiels au delà de l'anecdotique. Avec, oh, simplement deux cent ans de retard.  
 J'ai grandi en partie aux États-Unis et en Angleterre, je vois les conversations sur le racisme se multiplier, s'activer partout dans la culture pop / mainstream, dans les podcasts que j'écoute...
 En France, la conversation peine à s'imposer dans des sphères médiatiques larges. Un héritage culturel bien spécifique à la France qui peine à dépasser les tabous et qui se plait à croire qu'il vaudrait mieux "ne pas voir les couleurs" (plus sur ça un peu plus bas).
 
