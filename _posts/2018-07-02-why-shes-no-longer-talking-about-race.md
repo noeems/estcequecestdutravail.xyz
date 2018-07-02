@@ -105,6 +105,11 @@ Si vous voulez écouter une seule chose : [L'entretien d'Amandine Gay chez Media
 - [Ouvrir la voix](https://ouvrirlavoixlefilm.fr/) d'Amandine Gay
 - [I Am Not Your Negro](https://www.youtube.com/watch?v=ggC6h7Cllwg) de Raoul Peck
 
+##### Suivre ↓
+
+- Le collectif [Mwasi](https://mwasicollectif.com/)
+- Le collectif [Lallab](http://www.lallab.org/)
+
 <section class="gallery" markdown="span">
 ![Reni posing in front of a Shoreditch billboard](/images/2018-07-02-reni/reni billboard sideways.jpg)
 ![Reni with Chimamanda](/images/2018-07-02-reni/Reni and Chimamanda WOW festival test © Ellie Kurtz.jpg){:class="cols-2"}
