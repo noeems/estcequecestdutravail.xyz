@@ -1,7 +1,7 @@
 ---
 title: Why she's no longer talking to white people about race
 excerpt: Notes de lecture - première partie
-image: /images/2018-07-03-reni/It's not feminism unless it's intersectional lowres.jpg
+image: /images/2018-07-02-reni/It's not feminism unless it's intersectional lowres.jpg
 author:
 - noeems
 ---
@@ -20,7 +20,7 @@ L'envie m'est venue surtout depuis l'atelier ["le genre et la parole au travail"
 _Les citations sont en anglais, je préfère trouver les correspondances dans la traduction française du livre à l'automne plutôt que de les traduire maladroitement._
 
 <section class="gallery" markdown="span">
-![Reni book cover](/images/2018-07-03-reni/Reni cover lowres.jpg){:class="cols-2"}
+![Reni book cover](/images/2018-07-02-reni/Reni cover lowres.jpg){:class="cols-2"}
 </section>
 
 #### The history of blackness
@@ -106,8 +106,8 @@ Si vous voulez écouter une seule chose : [L'entretien d'Amandine Gay chez Media
 - [I Am Not Your Negro](https://www.youtube.com/watch?v=ggC6h7Cllwg) de Raoul Peck
 
 <section class="gallery" markdown="span">
-![Reni posing in front of a Shoreditch billboard](/images/2018-07-03-reni/reni billboard sideways.jpg)
-![Reni with Chimamanda](/images/2018-07-03-reni/Reni and Chimamanda WOW festival test © Ellie Kurtz.jpg){:class="cols-2"}
+![Reni posing in front of a Shoreditch billboard](/images/2018-07-02-reni/reni billboard sideways.jpg)
+![Reni with Chimamanda](/images/2018-07-02-reni/Reni and Chimamanda WOW festival test © Ellie Kurtz.jpg){:class="cols-2"}
 </section>
 
 _Reni devant un grand panneau à Shoreditch et en conversation avec Chimamanda Ngozi Adichie au festival Women of the World au Southbank Centre (image de Ellie Kurtz)._
