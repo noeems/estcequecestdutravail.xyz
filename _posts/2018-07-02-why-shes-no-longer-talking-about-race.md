@@ -13,7 +13,7 @@ De la même manière que j'essaie activement de mieux comprendre les expérience
 
 Juste avant de partir d'Angleterre, le bouquin de cette journaliste de Tottenham (initialement un article de blog, [repris par le Guardian](https://www.theguardian.com/world/2017/may/30/why-im-no-longer-talking-to-white-people-about-race)) a été republié au format de bouquin de poche.
 
-J'ai envie de partager quelques citations du livre pour amplifier son travail (brillant) et pour participer à créer des conversations sur ce sujet, développer nos compréhensions de la complexité du racisme et des manières infinies dont il opère quotidiennement, ce que veut dire le racisme structurel et comment le combattre chacun.e grâce à nos propres outils et dans nos propres cercles.
+J'ai envie de partager quelques citations du livre p our amplifier son travail (brillant) et pour participer à créer des conversations sur ce sujet, développer nos compréhensions de la complexité du racisme et des manières infinies dont il opère quotidiennement, ce que veut dire le racisme structurel et comment le combattre chacun.e grâce à nos propres outils et dans nos propres cercles.
 
 L'envie m'est venue surtout depuis l'atelier ["le genre et la parole au travail"](https://estcequecestdutravail.xyz/2018-06-16-le-genre-et-la-parole-au-travail.md) où je me suis retrouvée impacable de décrire les dynamiques du racisme structurel de manière précise. Il me manquait les bons mots.
 
