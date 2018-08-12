@@ -15,7 +15,7 @@ Juste avant de partir d'Angleterre, le bouquin de cette journaliste de Tottenham
 
 J'ai envie de partager quelques citations du livre p our amplifier son travail (brillant) et pour participer à créer des conversations sur ce sujet, développer nos compréhensions de la complexité du racisme et des manières infinies dont il opère quotidiennement, ce que veut dire le racisme structurel et comment le combattre chacun.e grâce à nos propres outils et dans nos propres cercles.
 
-L'envie m'est venue surtout depuis l'atelier ["le genre et la parole au travail"](https://estcequecestdutravail.xyz/2018-06-16-le-genre-et-la-parole-au-travail.md) où je me suis retrouvée impacable de décrire les dynamiques du racisme structurel de manière précise. Il me manquait les bons mots.
+L'envie m'est venue surtout depuis l'atelier ["le genre et la parole au travail"](https://estcequecestdutravail.xyz/2018-06-16-le-genre-et-la-parole-au-travail.md) où je me suis retrouvée incapable de décrire les dynamiques du racisme structurel de manière précise. Il me manquait les bons mots.
 
 _Les citations sont en anglais, je préfère trouver les correspondances dans la traduction française du livre à l'automne plutôt que de les traduire maladroitement._
 
@@ -31,7 +31,7 @@ What history had I inherited that left me an alien in my place of birth?
 
 Est-ce qu'on donne assez de contexte pour comprendre nos histoires coloniales et esclavagistes ?
 Réponse : non.  
-En France aussi, on commence à peine à exposer nos passés. Bordeaux et Nantes commencent à intégrer leurs histoires de traite d'esclaves dans les discours et les signes officiels au delà de l'anecdotique. Avec, oh, simplement deux décennies de retard.  
+En France aussi, on commence à peine à exposer nos passés. Bordeaux et Nantes commencent à intégrer leurs histoires de traite d'esclaves dans les discours et les signes officiels au delà de l'anecdotique. Avec, oh, simplement deux cent ans de retard.  
 J'ai grandi en partie aux États-Unis et en Angleterre, je vois les conversations sur le racisme se multiplier, s'activer partout dans la culture pop / mainstream, dans les podcasts que j'écoute...
 En France, la conversation peine à s'imposer dans des sphères médiatiques larges. Un héritage culturel bien spécifique à la France qui peine à dépasser les tabous et qui se plait à croire qu'il vaudrait mieux "ne pas voir les couleurs" (plus sur ça un peu plus bas).
 
@@ -49,7 +49,8 @@ I choose to use the word structural rather than institutional because I think it
 Thinking of the big picture helps you see the structures. Structural racism is dozens, or hundreds, or thousands of people with the same biases joining together to make one organisation, and acting accordingly.  
 Structural racism is an impenetrably white workspace culture set by those people where anyone who falls outside of the culture must conform or face failure. Structural is often the only way to capture what goes unnoticed — the silently raised eyebrows, the implicit biases, snap judgements made on perceptions of competency.
 
-Il suffit de se poser les questions : comment est organisée notre société ? Qui est au pouvoir ? Qui loue des appartements ? Qui donne du travail ?  
+Il suffit de se poser les questions : comment est organisée notre société ? Qui est au pouvoir ? Qui possède les appartements mis en location ? Qui prend les décisions ? Qui donne du travail ?
+
 C'est bon vous l'avez ?
 
 #### Color blindness and the infection of equal opportunity
@@ -84,7 +85,7 @@ Parler de ces choses-là implique encore de choisir ses interlocuteurs et des co
 #### Demanding a collective redefinition
 >Research from a number of different sources shows how racism is weaved into the fabric of our world. This demands a collective redefinition of what it means to be racist, how racism manifests, and what we must do to end it.
 
-Puisque le racisme s'est immiscé de plein de manières subtiles et toxiques dans nos sociétés, mute, évolue, il faut retravailler collectivement à le comprendre et à le définir.
+Puisque le racisme s'immisce, mute et évolue de plein de manières subtiles et toxiques dans nos sociétés, il faut travailler collectivement à le comprendre et à le définir.
 
 ### La suite bientôt, et pour continuer à comprendre :
 
@@ -100,7 +101,7 @@ Si vous voulez écouter une seule chose : [L'entretien d'Amandine Gay chez Media
 **En un épisode** : La Poudre - [Entretien Amandine Gay](https://soundcloud.com/nouvelles-ecoutes/la-poudre-episode-6-amandine-gay)  
 **Série** : Arte radio - [Le Tchip](https://www.arteradio.com/emission/le_tchip)
 
-##### Voir 👁
+##### Regarder 👁
 
 - [Ouvrir la voix](https://ouvrirlavoixlefilm.fr/) d'Amandine Gay
 - [I Am Not Your Negro](https://www.youtube.com/watch?v=ggC6h7Cllwg) de Raoul Peck
@@ -115,4 +116,4 @@ Si vous voulez écouter une seule chose : [L'entretien d'Amandine Gay chez Media
 ![Reni with Chimamanda](/images/2018-07-02-reni/Reni and Chimamanda WOW festival test © Ellie Kurtz.jpg){:class="cols-2"}
 </section>
 
-_Reni devant un grand panneau à Shoreditch et en conversation avec Chimamanda Ngozi Adichie au festival Women of the World au Southbank Centre (image de Ellie Kurtz)._
+_Reni devant un grand panneau à Shoreditch et en conversation avec Chimamanda Ngozi Adichie au festival Women of the World au [Southbank Centre](https://www.southbankcentre.co.uk/) à Londres (image de Ellie Kurtz)._
