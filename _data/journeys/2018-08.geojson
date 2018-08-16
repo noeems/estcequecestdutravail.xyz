@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#007e76",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "people": "Noémie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.061798095703125,
+          51.582403269982585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#007a7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "people": "Noémie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30987548828125,
+          48.85432452980058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5712246894836426,
+          44.83420428991012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1528053283691406,
+          48.952211938210326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "people": "Thomas, Noémie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5244684219360352,
+          49.825304128464346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "campsite",
+        "people": "Noémie, Thomas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18927001953125,
+          45.09679146394738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.06591796875,
+            51.536085601784755
+          ],
+          [
+            2.373046875,
+            48.83579746243093
+          ],
+          [
+            -0.54931640625,
+            44.84029065139799
+          ],
+          [
+            -1.1865234375,
+            45.166547157856016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.373046875,
+            48.83579746243093
+          ],
+          [
+            2.1588134765625,
+            48.95858066440977
+          ],
+          [
+            0.5218505859375,
+            49.816720843571765
+          ]
+        ]
+      }
+    }
+  ]
+}
