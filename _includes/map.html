@@ -1,0 +1,3 @@
+{% assign id = include.journey %}
+
+<div class="geojson-map" style="height: 480px; width: 100%" data-geojson="{{ site.data.journeys[id] | jsonify | xml_escape }}"></div>
