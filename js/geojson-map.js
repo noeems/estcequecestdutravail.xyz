@@ -10,11 +10,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }).addTo(map);
 
     const jsonData = JSON.parse(decodeURI(el.dataset.geojson));
+    const boundaries = L.latLngBounds([]);
 
-    L.geoJson(jsonData, {
+    const layer = L.geoJson(jsonData, {
       pointToLayer: (point, latlng) => {
         const classes = [];
         const {people} = point.properties;
+        boundaries.extend(latlng);
 
         if (!people || (people.match(/noémie/i) && people.match(/thomas/i))){
           classes.push('with--both');
@@ -35,7 +37,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         return L.marker(latlng, { icon });
       },
-    }).addTo(map);
+    });
+
+    layer.once('add', (evt) => {
+      map.fitBounds(boundaries, {
+        padding: [10, 10]
+      });
+    });
+
+    layer.addTo(map);
   });
 
 });
