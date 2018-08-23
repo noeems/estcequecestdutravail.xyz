@@ -1516,6 +1516,12 @@ $baseurl: '{{ site.baseurl }}/images';
 			max-width: 55%;
 		}
 
+		.inner h1,
+		.inner h2 {
+			@extend h6;
+			text-transform: none;
+		}
+
 		@include breakpoint(large) {
 			> p, > ol, > ul, > blockquote {
 				max-width: 75%;
