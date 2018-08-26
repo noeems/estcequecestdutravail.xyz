@@ -2334,6 +2334,12 @@ $baseurl: '{{ site.baseurl }}/images';
   	margin-bottom:16px;
   }
 
+	.geojson-map {
+		&:empty {
+			display: none;
+		}
+	}
+
 	.geo-marker {
 		color: #009BE8;
 		height: 100%;
