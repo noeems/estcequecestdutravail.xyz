@@ -15,20 +15,24 @@ options: map
     <iframe src="https://www.google.com/maps/d/embed?mid=1OdvXqdhKG5KCGQ8RIovbxoYRZYyVvU6p" width="640" height="480"></iframe>
     <p>Vous pensez à quelqu'un / un endroit qui n'est pas sur la carte&nbsp;? <a href=mailto:hello@estcequecestdutravail.xyz>Dites-le nous !</a></p>
 
-    {% assign upcoming_itineraries = site.itineraries | where_exp: 'i', 'i.month >= NOW' %}
+    {% assign upcoming_itineraries = site.itineraries | where_exp: 'i', 'i.slug >= NOW' %}
 
     {% for itinerary in upcoming_itineraries %}
       {% include itinerary.html post=itinerary %}
     {% endfor %}
 
-    <!-- <h5>Et ensuite ?</h5>
-    <p>Après ça on est encore débordants d’envies dans tous les sens.<br>
-    Aller rendre visite à Roland Feuillas à Cucugnan, à Paola dans l’Ariège, en profiter pour voir de nos propres yeux ce qui se passe à Crest et à Saillans, dans la Drôme.</p>-->
+    <h5>Et ensuite ?</h5>
+
+    <p>
+      Après ça, on est encore débordants d'envies.
+      <a href=mailto:hello@estcequecestdutravail.xyz>Fais signe</a> si notre parcours
+      fait sens avec les communautés dans lesquelles tu t'impliques.
+    </p>
 
     <hr width="300">
 
     <h4>Retour sur le début du périple</h4>
-    {% assign previous_itineraries = site.itineraries | where_exp: 'i', 'i.month < NOW' | sort: 'month' %}
+    {% assign previous_itineraries = site.itineraries | where_exp: 'i', 'i.slug < NOW' %}
     {% for itinerary in previous_itineraries %}
       {% include itinerary.html post=itinerary %}
     {% endfor %}

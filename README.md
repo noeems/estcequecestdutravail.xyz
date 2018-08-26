@@ -29,7 +29,6 @@ Une feuille de route est un fichier Markdown placé dans le répertoire `_itiner
 
 ```markdown
 ---
-month: 2018-08
 map: https://umap.openstreetmap.fr/en/...
 ---
 ```
