@@ -111,7 +111,8 @@ Technique, intention, déterminisme et liberté d’action. À quel point est-ce
 >Beaucoup de dispositifs fonctionnent de manière “discrète”, faisant de cette invisibilité la source de leur pouvoir. Le temps de ces “industries culturelles” (celui du temps réel de “l’information”), bien que des résistances soient possibles, joue sur des instincts et réflexes d’ordre animal. La généralisation du calcul à des champs propres à l’humain (c’est-à-dire à ce qui ne peut se prévoir) entraîne une “désubjectivation”, une crise de la conscience.
 Autrement dit, il est vain de chercher à soumettre l’ensemble des objets techniques à une intention préalable (un projet) puisque ces derniers, dès lors qu’ils existent, génèrent de nouveaux cadres de pensée aux finalités diverses. Dès lors, comment penser des objets qui ménageraient une liberté d’action dans des existences humaines indissociables des environnements techniques ? Comment penser des relations à la technique qui ne soient pas immédiatement inscrites sous l’ordre d’une intention, d’une visée, d’une mise à disposition ?
 
-Communs p. 106
+Communs :
+>En s'inscrivant dans le sillage du "Manifeste des Digital Humanities" de 2010 et des problématiques liées à l'ouverture des connaissances scientifiques (_open access_), l'approche des "communs" va cependant au-delà d'un partage des ressources. La notion de libération va ici de pair avec une réflexion sur le "design du partage" portant sur les conditions d'accès, de redistribution et de gestion des objets (au sens large), et ce afin de ne pas les réduire à des "biens" ou à des "produits".
 
 **Chapitre 6 - De la “raison graphique” à la “raison computationnelle”**
 Oralité et raison computationnelle.
