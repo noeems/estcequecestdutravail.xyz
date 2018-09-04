@@ -46,7 +46,7 @@ closing-para:
 social:
   twitter: https://twitter.com/noeems
   github: https://github.com/noeems/estcequecestdutravail.xyz
-  email: /contact/
+  email: mailto:hello@estcequecestdutravail.xyz 
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
