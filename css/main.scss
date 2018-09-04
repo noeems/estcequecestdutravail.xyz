@@ -247,11 +247,22 @@ $baseurl: '{{ site.baseurl }}/images';
 		&:before {
 			content: "“";
 			color: _palette(border2-bg);
-			font-size: 7rem;
+			font-size: 2rem;
 			line-height: 1;
-			left: -.2em;
+			left: 0.4em;
 			position: absolute;
-			top: -0.1em;
+			top: 0.2em;
+			z-index: 0;
+		}
+
+		&:after {
+			content: "”";
+			color: _palette(border2-bg);
+			font-size: 2rem;
+			line-height: 1;
+			right: 0.4em;
+			position: absolute;
+			bottom: 0.2em;
 			z-index: 0;
 		}
 
