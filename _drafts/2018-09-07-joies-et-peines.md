@@ -47,6 +47,7 @@ Tentation d'aller découvrir et s'imprégner grignote sur le temps de concentrat
 
 Amplification des peurs
 Le changement régulier peut amplifier des peurs plus ou moins conscientisées. Par exemple sortir explorer seule ; ça me prend du temps à me faire à un endroit.
+Quand le boulot n'avance pas ou se passe mal, les choses s'effondrent. Difficile d'évacuer ou de trouver un sas de décompression sans en faire profiter l'autre personne. 
 
 Apprivoiser ses peurs
 Mieux savoir petit à petit composer aux peurs auxquelles on se confronte, plus j'apprends ce dont j'ai besoin et plus j'arrive ensuite à trouver un fonctionnement qui me convient. Essayer d'évacuer la culpabilité ("je ne suis pas assez aventurière/courageuse", etc.), comprendre ma manière à moi d'apprivoiser un endroit (elle ne vaut pas moins — s'il me faut plus de temps que d'autres), être un peu plus indulgente avec mes propres peurs.
@@ -73,3 +74,36 @@ Accéder à une cuisine sans avoir à se faire discret (expérience Bournemouth)
 > On l'a appris à la dure à Bournemouth, à manger du houmous sur des craquottes (parce que pas de "pain") 6j d'affilée avant de craquer pour un bon fish 'n chips bien gras.
 
 Découvrir que c'est un fondement. J'ai un rapport de plaisir, de convivialité, d'émerveillement, de partage, de curiosité avec la nourriture. J'ai besoin de bonne bouffe pour m'approprier l'endroit où je suis.
+
+____
+
+JOIE Retrouver les ami.e.s et les voir plus souvent.
+Le fait d'être en mouvement est moins exceptionnel, ça occasionne plus facilement des rencontres avec des gens qu'on aime et qui n'habitent pas notre ville.
+Peut être parce que c'est comme ça que mon réseau d'amitié s'est développé - j'ai des amis dispersés un peu partout. Ça renforce les liens à chaque fois qu'on passe du temps ensemble, et ça peut aller jusqu'à louer un endroit ensemble. Ça a peu d'impact négatif en termes d'organisation(/demande peu de choses), on fait comme d'habitude pour chercher un endroit, on augmente juste le nombre d'hôtes et c'est fait.
+
+JOIE ET PEINE Révéler les points de friction.
+Différent d'un voyage seul. Avoir des cycles courts surligne et révèle petit à petit des choses qui peuvent paraîtres triviales et peuvent devenir difficiles. Allier des habitudes de vie, des attentes, ne va pas toujours de soi.
+Un exemple : sur le partage de l'humeur, il y a des moments où je peux être un peu à plat et je ne le partage pas - l'autre personne ne s'en rend pas compte.
+S'isoler devient un acte explicite et n'est pas fourni par un cadre de type "aller au travail."
+Par défaut, je n'avais pas l'habitude de communiquer ce genre de besoin.
+
+JOIE ET OPPORTUNITE Se connecter aux tissus vivants des endroits où on va.
+Pouvoir proposer des actions/animations de choses qui me tiennent à cœur, apprendre à connaître un lieu par son activité culturelle et associative, découvrir des liens et des connexions.
+
+JOIE Mieux comprendre ce dont j'ai besoin pour vivre.
+Expérimenter de vivre un simili-quotidien dans des endroits de densité différente, d'échelle différente, permet d'affiner par le vécu les choses avec lesquelles je suis à l'aise.
+Par exemple la taille d'une agglomération n'a pas nécessairement de conséquence directe sur ce qu'elle a à offrir. On a vu des endroits tout petits qui étaient aussi agréables et avaient autant à offrir. J'y trouve mon compte, et je trouve ça chouette.
+Comme on va dans des endroits assez hétérogènes, ça étend notre champ de vision, des possibilités de mode de vie.
+On en apprend à chaque fois (quand on passe dans une oasis, une minotterie). Prendre le temps de révéler ces choses-là permet d'apprendre au fur et à mesure.
+
+PEINE Rester trop peu longtemps.
+Peu d'occasions d'approfondir les relations. Elle mettra plus longtemps à se développer.
+Mais avec le temps, ça révèle les endroits où on a envie de revenir - un révélateur assez cool.
+
+JOIE ET OPPORTUNITE Vivre pour moins cher.
+Avec un SMIC ou moins, on vit bien. Logement et transports inclus. Les dépenses varient énormément selon nos étapes.
+
+FRUSTRATION Être dans un endroit nouveau et du travail à temps plein.
+Tension entre ses propres envies et des contraintes extérieures, des attentes extérieures. Conflit interne ("je profite du beau temps" et "il faut que j'avance"). Comment faire comprendre à des personnes extérieures que je privilégie parfois mon bien-être dans ma relation de travail avec eux. J'ai besoin de prendre du temps pour moi pour revenir rafraîchi et dispos.
+
+>En fait on pourrait être en vacances permanentes mais c'est pas le cas. Derrière, il y a l'enjeu de travailler et d'être autonome financièrement.
