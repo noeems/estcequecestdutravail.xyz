@@ -47,7 +47,7 @@ Tentation d'aller découvrir et s'imprégner grignote sur le temps de concentrat
 
 Amplification des peurs
 Le changement régulier peut amplifier des peurs plus ou moins conscientisées. Par exemple sortir explorer seule ; ça me prend du temps à me faire à un endroit.
-Quand le boulot n'avance pas ou se passe mal, les choses s'effondrent. Difficile d'évacuer ou de trouver un sas de décompression sans en faire profiter l'autre personne. 
+Quand le boulot n'avance pas ou se passe mal, les choses s'effondrent. Difficile d'évacuer ou de trouver un sas de décompression sans en faire profiter l'autre personne.
 
 Apprivoiser ses peurs
 Mieux savoir petit à petit composer aux peurs auxquelles on se confronte, plus j'apprends ce dont j'ai besoin et plus j'arrive ensuite à trouver un fonctionnement qui me convient. Essayer d'évacuer la culpabilité ("je ne suis pas assez aventurière/courageuse", etc.), comprendre ma manière à moi d'apprivoiser un endroit (elle ne vaut pas moins — s'il me faut plus de temps que d'autres), être un peu plus indulgente avec mes propres peurs.
@@ -107,3 +107,16 @@ FRUSTRATION Être dans un endroit nouveau et du travail à temps plein.
 Tension entre ses propres envies et des contraintes extérieures, des attentes extérieures. Conflit interne ("je profite du beau temps" et "il faut que j'avance"). Comment faire comprendre à des personnes extérieures que je privilégie parfois mon bien-être dans ma relation de travail avec eux. J'ai besoin de prendre du temps pour moi pour revenir rafraîchi et dispos.
 
 >En fait on pourrait être en vacances permanentes mais c'est pas le cas. Derrière, il y a l'enjeu de travailler et d'être autonome financièrement.
+
+JOIE Le plaisir de découvrir la richesse des marchés fermiers français
+Nous avons été décontenancés par la disparition du marché d'Exmouth, en Angleterre et nous avons à nouveau respiré après avoir franchi la Manche pour rester sur le sol français. Le marché d'une petite ville/village en France est plus grand que le marché fermier de quartier de plusieurs quartiers de Londres (Angel Chapel Market, Stoke Newington, Walthamstow Central).
+Retrouver le marché, c'est faire le tri entre les revendeurs et les maraîchers/producteurs/productrices, le plaisir de découvrir des produits de qualité en agriculture raisonnée, soutenir directement les productions locales, cuisiner avec plaisir des goûts foufous.
+
+Parmi nos favoris : Crest (à même les rues et ruelles), Saint Brieuc (part belle aux maraîchers et producteurs), Mirepoix, Foix (et ses deux halles couvertes), Sète (et la halle, malgré le peu de producteurs), Marseille (cours Julien, friche de la Belle de Mai), Lyon (Croix Rousse).
+
+JOIE Développer notre vie
+On se dit déjà que ce moment de vie, l'itinérance, sera une fierté à raconter à nos enfants.
+Est-ce que c'est ce que vivent des personnes qui se (re)trouvent à la retraite, à se fréquenter à la maison toute la journée ?
+
+PEINE Des incompréhensions, parfois, dans le cercle familial
+Certaines personnes de notre cercle familial peinent à comprendre la démarche, ce qu'on y trouve et ce que ça nous procure. Elles s'arrêtent peut-être à leurs propres peurs, à leurs attentes et au rejet d'un mode de vie moins conventionnel, moins socialement normé.
