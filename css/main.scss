@@ -1533,6 +1533,14 @@ $baseurl: '{{ site.baseurl }}/images';
 			text-transform: none;
 		}
 
+		h3 small,
+		h4 small,
+		h5 small {
+			color: #999;
+			font-size: 0.7em;
+			margin-right: 0.8em;
+		}
+
 		@include breakpoint(large) {
 			> p, > ol, > ul, > blockquote {
 				max-width: 75%;
