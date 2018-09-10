@@ -1,8 +1,7 @@
 ---
-title: Les joies et les peines de l'itinérance
+title: Leçons tirées de 6 mois d'itinérance
 date: 2018-09-09
-excerpt: |
-  Leçons tirées de 6 mois d'itinérance.
+excerpt: Les joies et les peines.
 image: /images/2018-09-07-joies-et-peines/IMG_20180703_082717.jpg
 author:
 - noeems
