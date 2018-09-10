@@ -1,7 +1,7 @@
 ---
 title: Leçons tirées de 6 mois d'itinérance
 date: 2018-09-09
-excerpt: Les joies et les peines.
+excerpt: Les joies et les peines
 image: /images/2018-09-07-joies-et-peines/carte relief.jpg
 author:
 - noeems
@@ -41,14 +41,35 @@ Toutes nos possessions (deux personnes, suite à moult déménagements) dans une
 </div>
 
 ##### <small>#insolite</small> Trouver des endroits où travailler
-Sans avoir un recours systématique aux espaces de coworking. Voire même, en privilégiant des endroits qui n'en sont pas. Je découvre qu'on peut se poser
+Sans avoir un recours systématique aux espaces de coworking, voire même en privilégiant des endroits qui n'en sont pas, je découvre qu'on peut se poser à peu près n'importe où (avec une connexion 3G ou 4G) et pouvoir travailler. Ça élargit le champ !
+
+Sélection d'endroits insolites pour travailler :
 
 <div class="gallery" markdown="span">
-  ![Toutes nos possessions dans une boîte](/images/2018-09-07-joies-et-peines/IMG_0810.jpg)
-
-  ![Une étape dans un café](/images/2018-09-07-joies-et-peines/IMG_20180323_142052.jpg){:class="cols-2"}
+  ![Refuge sur : les bibliothèques](/images/2018-09-07-joies-et-peines/biblio travail.jpg)
+  ![Sur les marches d'une église à Sète](/images/2018-09-07-joies-et-peines/travail eglise sete.jpg)
+  ![Les chats, source de procrastination](/images/2018-09-07-joies-et-peines/travail et calin de chat.jpg)
+  ![Gateau terrasse le bon combo](/images/2018-09-07-joies-et-peines/travail gateau terrasse lyon.jpg)
+  ![Jardin des Beaux-Arts à Sète : le bon spot](/images/2018-09-07-joies-et-peines/travail jardin sete.jpg)
+  ![Salon de thé bigarré à Dorchester](/images/2018-09-07-joies-et-peines/Salon de the Dorchester.jpg)
 
 </div>
+<div class="gallery" markdown="span">
+  ![La panacée](/images/2018-09-07-joies-et-peines/travail panacee.jpg)
+  ![Thomas en conf dans le bus](/images/2018-09-07-joies-et-peines/thomas en conf dans le bus.jpg)
+  ![Thomas en conf au Jardin Robinson](/images/2018-09-07-joies-et-peines/thomas en conf au jardin robinson.jpg)
+</div>
+
+Et notre spot préféré, cette cabane de travail avec une vue bof-bof chez Paola dans l'Ariège :
+
+![Cœur cœur cette vue sur les montagnes](/images/2018-09-07-joies-et-peines/cabane de travail.jpg)
+
+
+
+##### <small>#peine</small> Rester trop peu longtemps.
+C'est une de nos premières leçons. Après un mois à faire des sauts de puce de 4 jours à une semaine, on se rend compte que le rythme est trop soutenu. On accumule de la fatigue et des frustrations - pas vu telle chose, pris du retard sur tel autre machin. C'est comme s'il fallait faire un choix entre s'imprégner de la ville ou avancer sur nos projets, jongler entre les deux est un équilibre compliqué à trouver.   
+On remarque qu'on a peu d'occasions d'approfondir les relations. Elles mettront plus longtemps à se développer.  
+Mais avec le temps, ça révèle les endroits où on a envie de revenir - un effet non-anticipé assez chouette.
 
 ##### <small>#fierté</small> Trouver une solidité intérieure
 Apprivoiser ses peurs petit à petit. La plus importante c'est quand je n'ai pas de repère dans un endroit, sortir toute seul ce n'était pas évident — maintenant je sais comment faire pour trouver une stratégie qui fonctionne pour moi (commencer par petits cercles, aller de plus en plus loin). Il y a aussi l'idée même d'être itinérante. Je n'aurais pas imaginé faire ça. Je ne m'en serais pas sentie capable, ni l'envie.
@@ -168,9 +189,6 @@ On en apprend à chaque fois (quand on passe dans une oasis, une minotterie). Pr
   ![Des trucs locaux et indépendants, avec des personnes qui ont le sourire parce que ce n'est pas un travail qui leur coûte](/images/2018-09-07-joies-et-peines/IMG_20180410_175752.jpg)
 </div>
 
-##### <small>#peine</small> Rester trop peu longtemps.
-Peu d'occasions d'approfondir les relations. Elle mettra plus longtemps à se développer.
-Mais avec le temps, ça révèle les endroits où on a envie de revenir - un révélateur assez cool.
 
 ##### <small>#joie</small> <small>#opportunité</small> Vivre pour moins cher.
 Avec un SMIC ou moins, on vit bien. Logement et transports inclus. Les dépenses varient énormément selon nos étapes.
