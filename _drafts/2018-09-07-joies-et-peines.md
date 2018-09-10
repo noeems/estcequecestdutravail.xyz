@@ -11,7 +11,7 @@ author:
 
 On hésitait à appeler cet article "leçons tirées de 6 mois d'itinérance".
 
-Retrouver l'intégralité de notre parcours sur cette page.
+Retrouver l'intégralité de [notre parcours]({% link _pages/parcours.html %}).
 
 L'intention de partager ça, pourquoi on ça intéressant.
 
@@ -170,3 +170,8 @@ Est-ce que c'est ce que vivent des personnes qui se (re)trouvent à la retraite,
 
 ##### <small>#peine</small> Des incompréhensions, parfois, dans le cercle familial
 Certaines personnes de notre cercle familial peinent à comprendre la démarche, ce qu'on y trouve et ce que ça nous procure. Elles s'arrêtent peut-être à leurs propres peurs, à leurs attentes et au rejet d'un mode de vie moins conventionnel, moins socialement normé.
+
+---
+
+Est-ce que ça t'inspire des réflexions ?
+Est-ce que tu as des réactions sur certaines des joies et des peines que nous avons évoqué ? Si tu as écris/filmé/enregistré des réactions ailleurs sur le Web, nous serions ravi·es de placer tes liens à la suite.
