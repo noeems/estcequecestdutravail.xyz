@@ -2,25 +2,46 @@
 title: Leçons tirées de 6 mois d'itinérance
 date: 2018-09-09
 excerpt: Les joies et les peines.
-image: /images/2018-09-07-joies-et-peines/IMG_20180703_082717.jpg
+image: /images/2018-09-07-joies-et-peines/carte relief.jpg
 author:
 - noeems
 - oncletom
 ---
-
-On hésitait à appeler cet article "leçons tirées de 6 mois d'itinérance".
-
+### Intro
 Retrouver l'intégralité de [notre parcours]({% link _pages/parcours.html %}).
-
 L'intention de partager ça, pourquoi on ça intéressant.
 
 <!--more-->
 
-##### <small>#force</small> Adaptabilité au changement
-Je me découvre plus à l'aise que je ne pensais face au changement régulier de lieu de vie/environnement. (ressenti) C'est moins inquiétant que ce je pensais.
+
+##### <small>#force</small> Adaptabilité
+Je me découvre plus à l'aise que je ne pensais face au changement régulier de lieu de vie/environnement. C'est moins inquiétant que ce je pensais avant de partir. Première peur  déconstruite. Je peux compter sur le fait que je saurai re-créer un environnement confortable pour moi, quasiment où que j'aille.
+
+##### <small>#apprentissage</small> Trouver les racines du confort
+En changeant si régulièrement d'environnement, je me rends compte de l'importance de pouvoir accéder à une cuisine sans avoir à se faire discrets, sans avoir la sensation de déranger. Avoir une chambre avec une porte qui ferme pour pouvoir se retirer tranquillement. Un tas de petits éléments, qui, raccordés, me mettent à l'aise.
+Je mets aussi beaucoup d'importance et d'énergie dans le fait de trouver des produits frais et respectueux de l'environnement, d'aller rencontrer des gens qui œuvrent pour ça.
+
+> On l'a appris à la dure à Bournemouth, à manger du houmous sur des craquottes (parce que pas de "pain") six jours d'affilée avant de craquer pour un bon fish 'n chips bien gras.
+
+Découvrir que c'est un fondement. J'ai un rapport de plaisir, de convivialité, d'émerveillement, de partage, de curiosité avec la nourriture. J'ai besoin de bonne bouffe pour m'approprier l'endroit où je suis.
+
+![Ca ressemblerait peut être un peu à ça](/images/2018-09-07-joies-et-peines/racines du confort.jpg)
+
 
 ##### <small>#fierté</small> Posséder peu
-Ça ne me pose pas de problème au quotidien. Le contenu de mon sac à dos me suffit. J'imaginais que ça serait plus apparent au jour le jour, que je mène une vie spartiate parce que j'ai 2 t-shirt et 3 chaussettes. J'ai très peu de sensation de manque — plutôt des trucs de crafts, pour faire de la broderie et du tricot.
+Vivre avec le contenu de mon sac à dos ne me pose pas de problème au quotidien. Ce que j'ai me suffit. J'imaginais que ça serait plus apparent au jour le jour, et pourtant j'ai très peu de sensation de manque. Avec quelques affaires de rechange stockées dans un placard à un endroit où on passe régulièrement, tout roule.
+Ce qui peut manquer à l'occasion, ce sont des ustensiles de cuisine auxquels je suis habituée, ou des affaires de tricot ou de broderie, quand j'ai eu une idée subite et que j'aurais aimé pouvoir me lancer.
+
+Toutes nos possessions (deux personnes, suite à moult déménagements) dans une boîte :
+<div class="gallery" markdown="span">
+  ![Toutes nos possessions dans une boîte](/images/2018-09-07-joies-et-peines/IMG_0810.jpg)
+
+  ![Une étape dans un café](/images/2018-09-07-joies-et-peines/IMG_20180323_142052.jpg){:class="cols-2"}
+
+</div>
+
+##### <small>#insolite</small> Trouver des endroits où travailler
+Sans avoir un recours systématique aux espaces de coworking. Voire même, en privilégiant des endroits qui n'en sont pas. Je découvre qu'on peut se poser
 
 <div class="gallery" markdown="span">
   ![Toutes nos possessions dans une boîte](/images/2018-09-07-joies-et-peines/IMG_0810.jpg)
@@ -46,6 +67,22 @@ Davantage d'espace(s) pour réfléchir et expérimenter des choses pour lesquell
   ![Thomas travaille en extérieur, Noémie fait un cœur avec ses mains depuis la cuisine tandis qu'un chat tourne la tête vers elle, en se demandant si c'est du travail](/images/2018-09-07-joies-et-peines/24-06-2018-1918.jpg)
 
   ![Un repas préparé par Thomas et Noémie, avec des produits frais et d'une manière nouvelle pour elles deux](/images/2018-09-07-joies-et-peines/IMG_20180821_131416.jpg)
+</div>
+
+##### <small>#joie</small> Essaimer
+Thomas voyage avec son levain et Noémie avec son kefir de fruits. Partout où on va, on peut faire notre pain, le partager, l'offrir, expérimenter...
+
+<div class="gallery" markdown="span">
+  ![Miche ensoleillée](/images/2018-09-07-joies-et-peines/miche bordeaux.jpg)
+  ![Kefir de fruit](/images/2018-09-07-joies-et-peines/apple ginger kefir lowres.jpg)
+</div>
+
+<div class="gallery" markdown="span">
+  ![Du pain à Marseille](/images/2018-09-07-joies-et-peines/pain terrasse marseille.jpg)
+  ![Matlouh](/images/2018-09-07-joies-et-peines/matlouh.jpg)
+  ![Deux belles miches](/images/2018-09-07-joies-et-peines/deux belles miches.jpg)
+  ![Levain](/images/2018-09-07-joies-et-peines/Bread galore.jpg)
+  ![Atelier ginger beer](/images/2018-09-07-joies-et-peines/fermentation.jpg)
 </div>
 
 ##### <small>#difficulté</small> Équilibre entre le temps seul(e) et le temps ensemble
@@ -84,8 +121,6 @@ C'est un vrai travail sur soi. C'est lié au fait que je dois expliquer à chaqu
 
 ![Camping sauvage sur la côte Atlantique, une première pour Noémie](/images/2018-09-07-joies-et-peines/IMG_20180809_214119.jpg)
 
-![Réalise tes rêves, lit-on, écrit sur un mur](/images/2018-09-07-joies-et-peines/IMG_20180417_194224.jpg)
-
 ##### <small>#?</small> Se nommer pour se faire comprendre
 Travail d'expérimentation, versionnage de ma présentation, de trouver les bons mots pour apporter un message clair. Maintenant, j'ai moins l'impression de présenter ce qu'on fait, peut-être parce qu'on va dans des endroits où on n'habite pas chez les gens — ça me coûte moins de l'expliquer. "D'où tu viens ?" est une question et attendent une réponse courte — c'est comme "comment ça va ?" , des fois j'invente des endroits où j'habite.
 Pour certain-es le mot "itinérant" est déstabilisant.
@@ -97,12 +132,6 @@ Travail de définition, projet volontairement protéiforme à la base et qui lai
 ##### <small>#?</small> Expérimentation dans la démarche
 Dans la durée des étapes, dans le but, dans l'organisation du temps. La seule constante c'est la bouffe.
 
-##### <small>#?</small> Trouver les racines du confort
-Accéder à une cuisine sans avoir à se faire discret (expérience Bournemouth), mettre beaucoup de temps et d'énergie pour trouver des produits frais respectueux de l'environnement, d'aller rencontrer des gens qui œuvrent pour faire des choses comme ça.
-
-> On l'a appris à la dure à Bournemouth, à manger du houmous sur des craquottes (parce que pas de "pain") 6j d'affilée avant de craquer pour un bon fish 'n chips bien gras.
-
-Découvrir que c'est un fondement. J'ai un rapport de plaisir, de convivialité, d'émerveillement, de partage, de curiosité avec la nourriture. J'ai besoin de bonne bouffe pour m'approprier l'endroit où je suis.
 
 ##### <small>#joie</small> Retrouver les ami.e.s et les voir plus souvent.
 Le fait d'être en mouvement est moins exceptionnel, ça occasionne plus facilement des rencontres avec des gens qu'on aime et qui n'habitent pas notre ville.
@@ -173,4 +202,4 @@ Certaines personnes de notre cercle familial peinent à comprendre la démarche,
 ---
 
 Est-ce que ça t'inspire des réflexions ?
-Est-ce que tu as des réactions sur certaines des joies et des peines que nous avons évoqué ? Si tu as écris/filmé/enregistré des réactions ailleurs sur le Web, nous serions ravi·es de placer tes liens à la suite.
+Est-ce que tu as des réactions sur certaines des joies et des peines que nous avons évoqué ? Si tu as écrit/filmé/enregistré des réactions ailleurs sur le Web, nous serions ravi·es de placer tes liens à la suite.
