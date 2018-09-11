@@ -255,15 +255,12 @@ $baseurl: '{{ site.baseurl }}/images';
 			z-index: 0;
 		}
 
-		&:after {
+		p:last-child:after {
 			content: "”";
 			color: _palette(border2-bg);
 			font-size: 2rem;
 			line-height: 1;
-			right: 0.4em;
 			position: absolute;
-			bottom: 0.2em;
-			z-index: 0;
 		}
 
 		p:last-child {
