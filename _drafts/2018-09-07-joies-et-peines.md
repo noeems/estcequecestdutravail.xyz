@@ -13,7 +13,6 @@ L'intention de partager ça, pourquoi on ça intéressant.
 
 <!--more-->
 
-
 ##### <small>#force</small> Adaptabilité
 Je me découvre plus à l'aise que je ne pensais face au changement régulier de lieu de vie/environnement. C'est moins inquiétant que ce je pensais avant de partir. Première peur  déconstruite. Je peux compter sur le fait que je saurai re-créer un environnement confortable pour moi, quasiment où que j'aille.
 
@@ -29,7 +28,7 @@ Découvrir que c'est un fondement. J'ai un rapport de plaisir, de convivialité,
 
 
 ##### <small>#fierté</small> Posséder peu
-Vivre avec le contenu de mon sac à dos ne me pose pas de problème au quotidien. Ce que j'ai me suffit. J'imaginais que ça serait plus apparent au jour le jour, et pourtant j'ai très peu de sensation de manque. Avec quelques affaires de rechange stockées dans un placard à un endroit où on passe régulièrement, tout roule.
+Curieusement, alors que je ne m'y attendais pas forcément, vivre avec le contenu de mon sac à dos ne me pose pas de problème au quotidien. Ce que j'ai me suffit, alors que j'imaginais que le manque serait plus apparent au jour le jour. Avec quelques affaires de rechange stockées dans un placard à un endroit où on passe régulièrement, tout roule.
 Ce qui peut manquer à l'occasion, ce sont des ustensiles de cuisine auxquels je suis habituée, ou des affaires de tricot ou de broderie, quand j'ai eu une idée subite et que j'aurais aimé pouvoir me lancer.
 
 Toutes nos possessions (deux personnes, suite à moult déménagements) dans une boîte :
@@ -64,30 +63,42 @@ Et notre spot préféré, cette cabane de travail avec une vue bof-bof chez Paol
 
 ![Cœur cœur cette vue sur les montagnes](/images/2018-09-07-joies-et-peines/cabane de travail.jpg)
 
-
-
 ##### <small>#peine</small> Rester trop peu longtemps.
-C'est une de nos premières leçons. Après un mois à faire des sauts de puce de 4 jours à une semaine, on se rend compte que le rythme est trop soutenu. On accumule de la fatigue et des frustrations - pas vu telle chose, pris du retard sur tel autre machin. C'est comme s'il fallait faire un choix entre s'imprégner de la ville ou avancer sur nos projets, jongler entre les deux est un équilibre compliqué à trouver.   
-On remarque qu'on a peu d'occasions d'approfondir les relations. Elles mettront plus longtemps à se développer.  
+C'est une de nos premières leçons aussi.  
+Après le premier mois à faire des sauts de puce de 4 jours à une semaine, on se rend compte que le rythme est trop soutenu. On accumule de la fatigue et des frustrations - pas vu telle chose, pris du retard sur tel autre machin. C'est comme s'il fallait faire un choix entre s'imprégner de la ville ou avancer sur nos projets, jongler entre les deux est un équilibre compliqué à trouver.   
+On a peu d'occasions d'approfondir les relations. Elles mettront plus longtemps à se développer.  
 Mais avec le temps, ça révèle les endroits où on a envie de revenir - un effet non-anticipé assez chouette.
 
 ##### <small>#fierté</small> Trouver une solidité intérieure
-Apprivoiser ses peurs petit à petit. La plus importante c'est quand je n'ai pas de repère dans un endroit, sortir toute seul ce n'était pas évident — maintenant je sais comment faire pour trouver une stratégie qui fonctionne pour moi (commencer par petits cercles, aller de plus en plus loin). Il y a aussi l'idée même d'être itinérante. Je n'aurais pas imaginé faire ça. Je ne m'en serais pas sentie capable, ni l'envie.
+Un truc avec le changement perpétuel, c'est que ça permet d'apprivoiser ses peurs petit à petit.
+Difficile de leur échapper dans ce contexte.  
+Quand j'arrive dans un endroit nouveau et que je n'ai pas de repères, sortir explorer n'était pas nécessairement évident pour moi. J'ai appris à mieux me connaître, à savoir que pour être à l'aise je peux commencer par de petits cercles dans le quartier, puis élargir au fur et à mesure.   
+De manière plus générale, il y a aussi l'idée même d'itinérance. Pas sûr il y a quelques années que je m'en serais sentie capable, ou même l'envie.
 
-Du coup quand les choses changent autour de moi, ça fortifie que je puisse compter sur moi-même. Quand le savoir de cette chose est grandissant, j'ai l'impression d'être plus solide/ancrée/"résiliente" — j'ai l'impression de pouvoir m'en sortir dans beaucoup plus de cas. Genre quand je n'ai pas les clés pour rentrer, j'ai toujours les éléments sur moi pour lire/travailler où je suis ; je me sens moins inquiète des imprévus, changements de dernière minute.
+Le fait que les choses changent si souvent autour de moi m'a aidée à consolider de savoir que je peux compter sur moi-même. Faire face aux imprévus. M'adapter. J'ai l'impression, graduellement, de devenir plus solide, plus ancrée en moi-même. Au lieu de culpabiliser en me disant que "je pourrais quand même être plus comme ceci ou cela", je trouve beaucoup de force dans le fait d'accepter mon fonctionnement et mes besoins tel quels.
+
+> C'est un truc d'amélioration continue.
 
 ##### <small>#difficulté</small> Journées destructurées
-Il n'y a pas de contrainte fait que le temps "glisse un peu". Comme je n'ai pas de contrainte ni d'objectif, j'ai du mal à me les mettre moi-même, c'est trop abstrait. Je n'ai pas envie de mettre un réveil pour mettre un réveil — je ne me sentirais pas mieux. Décalage par rapport à la vie ambiante (aller au travail le matin). Pas de différence entre la semaine et le week-end ; pas de délimitation.
+Comme il y a peu de contraintes dans ma vie actuelle, le temps peut avoir tendance à glisser entre mes mains.  
+Tout prend plus de temps que je ne l'anticipais. C'est à moi de fixer mes objectifs, de savoir où je veux aller. Tout en me laissant de l'espace pour expérimenter. Le décalage avec la vie environnante (rythme de travail conventionnel, semaines découpées, le week-end, etc) est plus ou moins notable selon les moments. Se lancer en indépendant•e ressemble au vertige du chômage : que faire, tant de possibilités et pourtant l'inertie peut arriver au galop.
 
-Je n'y avais pas pensé ; je l'ai redécouvert. Ça ressemble à mon vécu du chômage. Pas de vie/rythme fixe et pas d'externalité qui te créent ce rythme. Donc peu d'ancrage.
+##### <small>#positif</small> Ne pas avoir de travail crée d'autres choses
+C'est l'aspect positif d'avoir cette richesse de temps.  
+Davantage d'espace(s) pour réfléchir et expérimenter des choses pour lesquelles je n'aurais eu ni l'idée ni l'énergie d'explorer si je travaillais à temps plein. Ça me permet d'évoluer sur un autre plan que celui de la carrière pure. J'ai pris du recul par rapport à ma dernière expérience professionnelle, et j'ai fait un travail de "guérison" sur moi-même, et gagné une bien meilleure connaissance de moi.
 
-##### <small>#positif</small> Ne pas avoir de travail crée des choses autres
-Davantage d'espace(s) pour réfléchir et expérimenter des choses pour lesquelles je n'aurais eu ni l'idée ni l'énergie d'explorer si j'étais à temps plein. J'ai l'impression que ça me fait évoluer sur un autre plan que celui de la carrière pure. J'ai pris du recul par rapport à ma dernière expérience, et j'ai fait un travail de "guérison" sur moi-même, gagner une meilleure connaissance de moi.
+J'ai appris plein de trucs, fait plein de choses pour la première fois (poser de l'enduit, partir en camping sauvage) :
+
 
 <div class="gallery" markdown="span">
-  ![Thomas travaille en extérieur, Noémie fait un cœur avec ses mains depuis la cuisine tandis qu'un chat tourne la tête vers elle, en se demandant si c'est du travail](/images/2018-09-07-joies-et-peines/24-06-2018-1918.jpg)
 
-  ![Un repas préparé par Thomas et Noémie, avec des produits frais et d'une manière nouvelle pour elles deux](/images/2018-09-07-joies-et-peines/IMG_20180821_131416.jpg)
+![Camping sauvage sur la côte Atlantique, une première pour Noémie](/images/2018-09-07-joies-et-peines/IMG_20180809_214119.jpg)
+
+![Session enduit avec Lionel](/images/2018-09-07-joies-et-peines/enduit avec Lionel.jpg)
+
+<!--  ![Thomas travaille en extérieur, Noémie fait un cœur avec ses mains depuis la cuisine tandis qu'un chat tourne la tête vers elle, en se demandant si c'est du travail](/images/2018-09-07-joies-et-peines/24-06-2018-1918.jpg) -->
+
+![Un repas préparé par Thomas et Noémie, avec des produits frais et d'une manière nouvelle pour elles deux](/images/2018-09-07-joies-et-peines/IMG_20180821_131416.jpg)
 </div>
 
 ##### <small>#joie</small> Essaimer
@@ -102,57 +113,60 @@ Thomas voyage avec son levain et Noémie avec son kefir de fruits. Partout où o
   ![Du pain à Marseille](/images/2018-09-07-joies-et-peines/pain terrasse marseille.jpg)
   ![Matlouh](/images/2018-09-07-joies-et-peines/matlouh.jpg)
   ![Deux belles miches](/images/2018-09-07-joies-et-peines/deux belles miches.jpg)
-  ![Levain](/images/2018-09-07-joies-et-peines/Bread galore.jpg)
-  ![Atelier ginger beer](/images/2018-09-07-joies-et-peines/fermentation.jpg)
 </div>
 
 ##### <small>#difficulté</small> Équilibre entre le temps seul(e) et le temps ensemble
-Le mode par défaut c'est qu'on est tous les deux, et il y a peu de choses qui nous mènent hors du lieu où on habite, car on n'a pas de bureau. Comment trouver du temps pour soi ? C'est super agréable d'être ensemble. Je fais des choses différentes quand on n'est pas ensemble, mais je n'ai pas un appel à faire ces autres choses — c'est là où on est différent toi et moi.
+Le mode par défaut, c'est qu'on est tous les deux.  
+Il y a peu de choses qui nous mènent hors du lieu où on habite, on n'a pas de bureau. Comment trouver du temps pour soi ? C'est super agréable d'être ensemble, mais je me rends bien compte que je fais des choses différentes quand je suis seul•e.
 
-Finalement passer des moments toute seule c'était plus facile quand on était en tension tous les deux — paradoxalement quand tu te sentais à l'étroit.
+##### <small>#fatigue</small> Les déplacements prennent plus de temps qu'on imagine
+La fatigue s'installe vite. Après un mois, on s'est rendu compte que les journées de déplacement étaient plus dévoreuses d'énergie qu'on ne pensait. Ce n'est pas seulement changer d'endroit, c'est aussi ranger l'espace de vie dont on part, refaire les sacs, organiser l'arrivée... Et ça, à chaque étape.
 
-##### <small>#?</small> Les projets avancent lentement
-
-
-##### <small>#?</small> Les déplacements prennent plus de temps qu'on imagine
-La fatigue sourde s'installe. Après un mois, on s'est rendu compte que les journées où se déplaçait étaient fatigantes. En plus doublé de la frustration d'avoir la sensation de manquer de temps. C'est trop court.
+Quelques exemples de grande gloire (siestes impromptues, couchés à 20h30, grasses matinées... et microbes):
 
 <div class="gallery" markdown="span">
   ![Thomas écrasé de fatigue](/images/2018-09-07-joies-et-peines/IMG_0613.jpg)
 
   ![Thomas "travaille" dans le lit](/images/2018-09-07-joies-et-peines/IMG_0460.jpg)
-
-  ![Noémie fatiguée de changer d'endroit tous les quatre matins](/images/2018-09-07-joies-et-peines/IMG_0536.jpg){:class="rows-2"}
 </div>
 
+<div class="gallery" markdown="span">
+  ![Noémie fatiguée de changer d'endroit tous les quatre matins](/images/2018-09-07-joies-et-peines/IMG_0536.jpg)
+  ![Noémie est tombée malade](/images/2018-09-07-joies-et-peines/lose et mouchoirs.jpg)
+</div>
+![Noémie la plupart du temps](/images/2018-09-07-joies-et-peines/itineraire devant le ter.jpg)
+
+<!--
 ##### <small>#peine</small> Manquer de temps
 Tentation d'aller découvrir et s'imprégner grignote sur le temps de concentration, le temps de disponibilité pour avancer sur des projets.
+-->
 
-##### <small>#?</small> Amplification des peurs
-Le changement régulier peut amplifier des peurs plus ou moins conscientisées. Par exemple sortir explorer seule ; ça me prend du temps à me faire à un endroit.
-Quand le boulot n'avance pas ou se passe mal, les choses s'effondrent. Difficile d'évacuer ou de trouver un sas de décompression sans en faire profiter l'autre personne.
+##### <small>#difficulté</small> Amplification des peurs
+Le changement régulier peut amplifier des peurs plus ou moins conscientisées.  
+Difficile d'évacuer ou de trouver un sas de décompression sans en faire profiter l'autre.
 
-##### <small>#?</small> Apprivoiser ses peurs
+<!--
+##### <small>#force</small> Apprivoiser ses peurs
 Mieux savoir petit à petit composer aux peurs auxquelles on se confronte, plus j'apprends ce dont j'ai besoin et plus j'arrive ensuite à trouver un fonctionnement qui me convient. Essayer d'évacuer la culpabilité ("je ne suis pas assez aventurière/courageuse", etc.), comprendre ma manière à moi d'apprivoiser un endroit (elle ne vaut pas moins — s'il me faut plus de temps que d'autres), être un peu plus indulgente avec mes propres peurs.
 Plus j'arrive à les connaître, moins elles sont fortes, moins elles sont effrayantes.
 
-> C'est un truc d'amélioration continue.
+C'est un vrai travail sur soi. C'est lié au fait que je dois expliquer à chaque étape ce que je fais, d'où je viens.-->
 
-C'est un vrai travail sur soi. C'est lié au fait que je dois expliquer à chaque étape ce que je fais, d'où je viens.
 
-![Camping sauvage sur la côte Atlantique, une première pour Noémie](/images/2018-09-07-joies-et-peines/IMG_20180809_214119.jpg)
+##### <small>#tentatives</small> Se nommer, se faire comprendre
+Je mène en souterrain une expérimentation sur la manière de me présenter, et de présenter notre itinérance. Trouver les bons mots pour apporter un message clair.  
 
-##### <small>#?</small> Se nommer pour se faire comprendre
-Travail d'expérimentation, versionnage de ma présentation, de trouver les bons mots pour apporter un message clair. Maintenant, j'ai moins l'impression de présenter ce qu'on fait, peut-être parce qu'on va dans des endroits où on n'habite pas chez les gens — ça me coûte moins de l'expliquer. "D'où tu viens ?" est une question et attendent une réponse courte — c'est comme "comment ça va ?" , des fois j'invente des endroits où j'habite.
+Maintenant que ça fait plusieurs mois qu'on est sur la route, je présente moins systématiquement toute la démarche, j'essaie d'apporter des réponses en fonction de la disponibilité et la curiosité de nos interlocuteurs. "D'où tu viens ?" est une question qu'on nous pose sans arrêt et qui appelle attendent une réponse courte. Comme le fameux "ça va ?".
+Alors je tente des trucs. Récemment par exemple, j'ai inventé que j'habitais en Gironde ou dans la Drôme.  
 Pour certain-es le mot "itinérant" est déstabilisant.
 
 > Mais tu habites quand même quelque part ? (cf. Jardin Robinson)
 
-Travail de définition, projet volontairement protéiforme à la base et qui laisse suffisamment de brouillard pour laisser émerger des choses. Pas toujours évident.
+Le travail de définition était douloureux à la base mais nécessaire. Le projet dans son idée était volontairement protéiforme, pour être suffisamment ouvert, laisser de la place à la spontanéité et l'émergence. Pas toujours évident d'expliquer ça rapidos entre deux portes. Pas toujours nécessaire.
 
-##### <small>#?</small> Expérimentation dans la démarche
-Dans la durée des étapes, dans le but, dans l'organisation du temps. La seule constante c'est la bouffe.
-
+##### <small>#adaptation</small> Expérimentation dans la démarche
+Très vite, on a appris à adapter nos étapes à bos besoins et nos envies. Le premier changement a été au niveau de la durée des étapes. Après ça, on a eu une (ou plutôt plusieurs) conversations sur nos motivations réelles : en fait elles sont plurielles. Et encore après ça, on a ressenti le besoin de changer dans notre manière d'organiser notre temps, nos journées.
+Sans cesse mouvant, le machin.
 
 ##### <small>#joie</small> Retrouver les ami.e.s et les voir plus souvent.
 Le fait d'être en mouvement est moins exceptionnel, ça occasionne plus facilement des rencontres avec des gens qu'on aime et qui n'habitent pas notre ville.
@@ -172,7 +186,7 @@ Un exemple : sur le partage de l'humeur, il y a des moments où je peux être un
 S'isoler devient un acte explicite et n'est pas fourni par un cadre de type "aller au travail."
 Par défaut, je n'avais pas l'habitude de communiquer ce genre de besoin.
 
-##### <small>#joie</small> <small>#opportunité</small> Se connecter aux tissus vivants des endroits où on va.
+##### <small>#opportunité</small> Se connecter aux tissus vivants des endroits où on va.
 Pouvoir proposer des actions/animations de choses qui me tiennent à cœur, apprendre à connaître un lieu par son activité culturelle et associative, découvrir des liens et des connexions.
 
 ##### <small>#joie</small> Mieux comprendre ce dont j'ai besoin pour vivre.
