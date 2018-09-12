@@ -8,10 +8,10 @@ author:
 - oncletom
 ---
 
-Depuis mars, nous avons fait 35 étapes, principalement en France mais aussi en Angleterre ([souvenez-vous]({% link _posts/2018-03-05-voir-londres-et-partir.md %})).
-Vous les retrouverez avec davantage de détail sur la page "[notre parcours]({% link _pages/parcours.html %})".
+Depuis mars, on a fait 35 étapes, principalement en France mais aussi en Angleterre ([souvenez-vous]({% link _posts/2018-03-05-voir-londres-et-partir.md %})).
+Vous les retrouverez plus en détail sur la page "[notre parcours]({% link _pages/parcours.html %})".
 
-Nous avions envie de partager les remous, les apprentissages et les moments de joie. Ça nous tenait à cœur de ne pas montrer qu'une image lisse et idéalisée.
+On a eu envie de partager les remous, les apprentissages et les moments de joie. Ça nous tenait à cœur de ne pas montrer qu'une image lisse et idéalisée de l'itinérance.
 
 Aperçu des élans de vie et des grains de sable qui viennent se nicher dans les rouages : jamais les mêmes sinon ça ne serait pas drôle !
 
