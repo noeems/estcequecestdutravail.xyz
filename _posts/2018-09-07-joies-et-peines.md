@@ -1,15 +1,19 @@
 ---
 title: Leçons tirées de 6 mois d'itinérance
-date: 2018-09-09
+date: 2018-09-12
 excerpt: Les joies et les peines
 image: /images/2018-09-07-joies-et-peines/carte relief.jpg
 author:
 - noeems
 - oncletom
 ---
-### Intro
-Retrouver l'intégralité de [notre parcours]({% link _pages/parcours.html %}).
-L'intention de partager ça, pourquoi on ça intéressant.
+
+Depuis mars, nous avons fait 35 étapes, principalement en France mais aussi en Angleterre ([souvenez-vous]({% link _posts/2018-03-05-voir-londres-et-partir.md %})).
+Vous les retrouverez avec davantage de détail sur la page "[notre parcours]({% link _pages/parcours.html %})".
+
+Nous avions envie de partager les remous, les apprentissages et les moments de joie. Ça nous tenait à cœur de ne pas montrer qu'une image lisse et idéalisée.
+
+Aperçu des élans de vie et des grains de sable qui viennent se nicher dans les rouages : jamais les mêmes sinon ça ne serait pas drôle !
 
 <!--more-->
 
@@ -64,28 +68,28 @@ Et notre spot préféré, cette cabane de travail avec une vue bof-bof chez Paol
 ![Cœur cœur cette vue sur les montagnes](/images/2018-09-07-joies-et-peines/cabane de travail.jpg)
 
 ##### <small>#peine</small> Rester trop peu longtemps.
-C'est une de nos premières leçons aussi.  
-Après le premier mois à faire des sauts de puce de 4 jours à une semaine, on se rend compte que le rythme est trop soutenu. On accumule de la fatigue et des frustrations - pas vu telle chose, pris du retard sur tel autre machin. C'est comme s'il fallait faire un choix entre s'imprégner de la ville ou avancer sur nos projets, jongler entre les deux est un équilibre compliqué à trouver.   
-On a peu d'occasions d'approfondir les relations. Elles mettront plus longtemps à se développer.  
+C'est une de nos premières leçons aussi.
+Après le premier mois à faire des sauts de puce de 4 jours à une semaine, on se rend compte que le rythme est trop soutenu. On accumule de la fatigue et des frustrations - pas vu telle chose, pris du retard sur tel autre machin. C'est comme s'il fallait faire un choix entre s'imprégner de la ville ou avancer sur nos projets. Jongler entre les deux est un équilibre compliqué à trouver.
+On a peu d'occasions d'approfondir les relations. Elles mettront plus longtemps à se développer.
 Mais avec le temps, ça révèle les endroits où on a envie de revenir - un effet non-anticipé assez chouette.
 
 ##### <small>#fierté</small> Trouver une solidité intérieure
 Un truc avec le changement perpétuel, c'est que ça permet d'apprivoiser ses peurs petit à petit.
-Difficile de leur échapper dans ce contexte.  
-Quand j'arrive dans un endroit nouveau et que je n'ai pas de repères, sortir explorer n'était pas nécessairement évident pour moi. J'ai appris à mieux me connaître, à savoir que pour être à l'aise je peux commencer par de petits cercles dans le quartier, puis élargir au fur et à mesure.   
+Difficile de leur échapper dans ce contexte.
+Quand j'arrive dans un endroit nouveau et que je n'ai pas de repères, sortir explorer n'était pas nécessairement évident pour moi. J'ai appris à mieux me connaître, à savoir que pour être à l'aise je peux commencer par de petits cercles dans le quartier, puis élargir au fur et à mesure.
 De manière plus générale, il y a aussi l'idée même d'itinérance. Pas sûr il y a quelques années que je m'en serais sentie capable, ou même l'envie.
 
-Le fait que les choses changent si souvent autour de moi m'a aidée à consolider de savoir que je peux compter sur moi-même. Faire face aux imprévus. M'adapter. J'ai l'impression, graduellement, de devenir plus solide, plus ancrée en moi-même. Au lieu de culpabiliser en me disant que "je pourrais quand même être plus comme ceci ou cela", je trouve beaucoup de force dans le fait d'accepter mon fonctionnement et mes besoins tel quels.
+Le fait que les choses changent si souvent autour de moi m'a aidée à consolider la sensation que je peux compter sur moi-même. Faire face aux imprévus. M'adapter. J'ai l'impression, graduellement, de devenir plus solide, plus ancrée en moi-même. Au lieu de culpabiliser en me disant que "je pourrais quand même être plus comme ceci ou cela", je trouve beaucoup de force dans le fait d'accepter mon fonctionnement et mes besoins tel quels.
 
 > C'est un truc d'amélioration continue.
 
 ##### <small>#difficulté</small> Journées destructurées
-Comme il y a peu de contraintes dans ma vie actuelle, le temps peut avoir tendance à glisser entre mes mains.  
+Comme il y a peu de contraintes dans ma vie actuelle, le temps peut avoir tendance à glisser entre mes mains.
 Tout prend plus de temps que je ne l'anticipais. C'est à moi de fixer mes objectifs, de savoir où je veux aller. Tout en me laissant de l'espace pour expérimenter. Le décalage avec la vie environnante (rythme de travail conventionnel, semaines découpées, le week-end, etc) est plus ou moins notable selon les moments. Se lancer en indépendant•e ressemble au vertige du chômage : que faire, tant de possibilités et pourtant l'inertie peut arriver au galop.
 
 ##### <small>#positif</small> Ne pas avoir de travail crée d'autres choses
-C'est l'aspect positif d'avoir cette richesse de temps.  
-Davantage d'espace(s) pour réfléchir et expérimenter des choses pour lesquelles je n'aurais eu ni l'idée ni l'énergie d'explorer si je travaillais à temps plein. Ça me permet d'évoluer sur un autre plan que celui de la carrière pure. J'ai pris du recul par rapport à ma dernière expérience professionnelle, et j'ai fait un travail de "guérison" sur moi-même, et gagné une bien meilleure connaissance de moi.
+C'est l'aspect positif d'avoir cette richesse de temps.
+Davantage d'espace(s) pour réfléchir et expérimenter des choses que je n'aurais eu ni l'idée ni l'énergie d'explorer si je travaillais à temps plein. Ça me permet d'évoluer sur un autre plan que celui de la carrière pure. J'ai pris du recul par rapport à ma dernière expérience professionnelle, j'ai fait un travail de "guérison" sur moi-même, et gagné une bien meilleure connaissance de moi.
 
 J'ai appris plein de trucs, fait plein de choses pour la première fois (poser de l'enduit, partir en camping sauvage) :
 
@@ -102,7 +106,9 @@ J'ai appris plein de trucs, fait plein de choses pour la première fois (poser d
 </div>
 
 ##### <small>#joie</small> Essaimer
-Thomas voyage avec son levain et Noémie avec son kefir de fruits. Partout où on va, on peut faire notre pain, le partager, l'offrir, expérimenter...
+Thomas voyage avec son levain et Noémie avec son kefir de fruits. Partout où on va, on peut en produire, les partager, en offrir, expérimenter...
+
+Ce sont des manières parmi d'autres de faire des choses avec nos mains. Ça étonne parfois, mais surtout, ça régale tout le monde !
 
 <div class="gallery" markdown="span">
   ![Miche ensoleillée](/images/2018-09-07-joies-et-peines/miche bordeaux.jpg)
@@ -115,9 +121,13 @@ Thomas voyage avec son levain et Noémie avec son kefir de fruits. Partout où o
   ![Deux belles miches](/images/2018-09-07-joies-et-peines/deux belles miches.jpg)
 </div>
 
-##### <small>#difficulté</small> Équilibre entre le temps seul(e) et le temps ensemble
-Le mode par défaut, c'est qu'on est tous les deux.  
+##### <small>#difficulté</small> Équilibre entre le temps seul·e et le temps ensemble
+Le mode par défaut, c'est qu'on est tous les deux.
 Il y a peu de choses qui nous mènent hors du lieu où on habite, on n'a pas de bureau. Comment trouver du temps pour soi ? C'est super agréable d'être ensemble, mais je me rends bien compte que je fais des choses différentes quand je suis seul•e.
+
+Je me sens libre de mes mouvements et je trouve une concentration différente. Je sens que je réfléchis différemment, en marchant, en observant les personnes des lieux où je passe.
+
+Nous revenons enrichi·es du temps qu'on a passé individuellement même si ça nous demande un petit effort initial, de sortir du mode par défaut.
 
 ##### <small>#fatigue</small> Les déplacements prennent plus de temps qu'on imagine
 La fatigue s'installe vite. Après un mois, on s'est rendu compte que les journées de déplacement étaient plus dévoreuses d'énergie qu'on ne pensait. Ce n'est pas seulement changer d'endroit, c'est aussi ranger l'espace de vie dont on part, refaire les sacs, organiser l'arrivée... Et ça, à chaque étape.
@@ -142,7 +152,7 @@ Tentation d'aller découvrir et s'imprégner grignote sur le temps de concentrat
 -->
 
 ##### <small>#difficulté</small> Amplification des peurs
-Le changement régulier peut amplifier des peurs plus ou moins conscientisées.  
+Le changement régulier peut amplifier des peurs plus ou moins conscientisées.
 Difficile d'évacuer ou de trouver un sas de décompression sans en faire profiter l'autre.
 
 <!--
@@ -154,23 +164,28 @@ C'est un vrai travail sur soi. C'est lié au fait que je dois expliquer à chaqu
 
 
 ##### <small>#tentatives</small> Se nommer, se faire comprendre
-Je mène en souterrain une expérimentation sur la manière de me présenter, et de présenter notre itinérance. Trouver les bons mots pour apporter un message clair.  
+Je mène en souterrain une expérimentation sur la manière de me présenter, et de présenter notre itinérance. Trouver les bons mots pour apporter un message clair.
 
-Maintenant que ça fait plusieurs mois qu'on est sur la route, je présente moins systématiquement toute la démarche, j'essaie d'apporter des réponses en fonction de la disponibilité et la curiosité de nos interlocuteurs. "D'où tu viens ?" est une question qu'on nous pose sans arrêt et qui appelle attendent une réponse courte. Comme le fameux "ça va ?".
-Alors je tente des trucs. Récemment par exemple, j'ai inventé que j'habitais en Gironde ou dans la Drôme.  
+Maintenant que ça fait plusieurs mois qu'on est sur la route, je présente moins systématiquement toute la démarche, j'essaie d'apporter des réponses en fonction de la disponibilité et la curiosité de nos interlocuteurs. "D'où tu viens ?" est une question qu'on nous pose sans arrêt et qui appelle une réponse courte. Comme le fameux "ça va ?".
+Alors je tente des trucs. Récemment par exemple, j'ai inventé que j'habitais en Gironde ou dans la Drôme.
 Pour certain-es le mot "itinérant" est déstabilisant.
 
-> Mais tu habites quand même quelque part ? (cf. Jardin Robinson)
+> Mais tu habites quand même quelque part ?
 
-Le travail de définition était douloureux à la base mais nécessaire. Le projet dans son idée était volontairement protéiforme, pour être suffisamment ouvert, laisser de la place à la spontanéité et l'émergence. Pas toujours évident d'expliquer ça rapidos entre deux portes. Pas toujours nécessaire.
+Le travail de définition était douloureux à la base mais nécessaire. Le projet dans son idée était volontairement protéiforme, pour être suffisamment ouvert, laisser de la place à la spontanéité et l'émergence. Pas toujours évident d'expliquer ça rapidos entre deux portes.
 
 ##### <small>#adaptation</small> Expérimentation dans la démarche
-Très vite, on a appris à adapter nos étapes à bos besoins et nos envies. Le premier changement a été au niveau de la durée des étapes. Après ça, on a eu une (ou plutôt plusieurs) conversations sur nos motivations réelles : en fait elles sont plurielles. Et encore après ça, on a ressenti le besoin de changer dans notre manière d'organiser notre temps, nos journées.
+Très vite, on a appris à adapter le voyage à nos besoins et nos envies. Le premier changement a été au niveau de la durée des étapes. Après ça, on a eu  plusieurs conversations sur ce qui motive réellement notre mouvement.
+En fait les raisons sont multiples : rencontrer des gens qui font, qui expérimentent la citoyenneté, le faire/décider/être ensemble et trouver un lieu de vie qui nous ressemble.
+
+Et encore après ça, on a ressenti le besoin de changer dans notre manière d'organiser notre temps, nos journées.
 Sans cesse mouvant, le machin.
 
 ##### <small>#joie</small> Retrouver les ami.e.s et les voir plus souvent.
-Le fait d'être en mouvement est moins exceptionnel, ça occasionne plus facilement des rencontres avec des gens qu'on aime et qui n'habitent pas notre ville.
-Peut être parce que c'est comme ça que mon réseau d'amitié s'est développé - j'ai des amis dispersés un peu partout. Ça renforce les liens à chaque fois qu'on passe du temps ensemble, et ça peut aller jusqu'à louer un endroit ensemble. Ça a peu d'impact négatif en termes d'organisation(/demande peu de choses), on fait comme d'habitude pour chercher un endroit, on augmente juste le nombre d'hôtes et c'est fait.
+Le fait d'être en mouvement est moins exceptionnel pour nous, ça facilite les rencontres avec des gens qu'on aime et qui n'habitent pas près de chez nous (mais c'est où chez nous ?).
+
+Pour certain·es, le réseau d'ami·es se concentre dans un endroit précis tandis que pour d'autres comme moi, ce sont des relations qui se sont créées au compte-goutte, dans le temps et dans l'espace.
+À chaque fois qu'on passe du temps ensemble, ça renforce nos liens. Il nous arrive de partager une étape avec d'autres ami·es. C'est comme partir ensemble en vacances, dans le quotidien.
 
 <div class="gallery" markdown="span">
   ![Les créations culinaires de Bénédicte à Agile Open France 2018](/images/2018-09-07-joies-et-peines/IMG_20180704_201346.jpg)
@@ -181,19 +196,23 @@ Peut être parce que c'est comme ça que mon réseau d'amitié s'est développé
 </div>
 
 ##### <small>#joie</small> <small>#peine</small> Révéler les points de friction.
-Différent d'un voyage seul. Avoir des cycles courts surligne et révèle petit à petit des choses qui peuvent paraîtres triviales et peuvent devenir difficiles. Allier des habitudes de vie, des attentes, ne va pas toujours de soi.
-Un exemple : sur le partage de l'humeur, il y a des moments où je peux être un peu à plat et je ne le partage pas - l'autre personne ne s'en rend pas compte.
-S'isoler devient un acte explicite et n'est pas fourni par un cadre de type "aller au travail."
-Par défaut, je n'avais pas l'habitude de communiquer ce genre de besoin.
+C'est différent d'un voyage seul·e. Avoir des cycles courts surligne et révèle petit à petit ces choses triviales d'une vie sédentaire qui finissent par devenir difficiles à vivre et à gérer. Allier des habitudes de vie, des attentes, ne va pas toujours de soi.
+Un exemple : sur le partage de l'humeur, il y a des moments où je peux être à plat et je n'ai pas le réflexe d'en parler - l'autre personne ne s'en rend pas forcément compte.
+Je ressens le besoin de m'isoler pour me recharger. C'est une chose qui m'arrivait de manière inconsciente dans l'acte anodin "d'aller au travail".
+
+Ça m'a appris à en prendre conscience, à mieux le détecter ainsi qu'à le formuler sans violence.
 
 ##### <small>#opportunité</small> Se connecter aux tissus vivants des endroits où on va.
-Pouvoir proposer des actions/animations de choses qui me tiennent à cœur, apprendre à connaître un lieu par son activité culturelle et associative, découvrir des liens et des connexions.
+
+Pouvoir proposer des actions/animations/ateliers sur des sujets qui me tiennent à cœur (écriture numérique, fabrication de pain, programmation, déconstruction de privilèges), apprendre à connaître une ville/village par son activité culturelle et associative, et tisser des liens.
 
 ##### <small>#joie</small> Mieux comprendre ce dont j'ai besoin pour vivre.
-Expérimenter de vivre un simili-quotidien dans des endroits de densité différente, d'échelle différente, permet d'affiner par le vécu les choses avec lesquelles je suis à l'aise.
-Par exemple la taille d'une agglomération n'a pas nécessairement de conséquence directe sur ce qu'elle a à offrir. On a vu des endroits tout petits qui étaient aussi agréables et avaient autant à offrir. J'y trouve mon compte, et je trouve ça chouette.
-Comme on va dans des endroits assez hétérogènes, ça étend notre champ de vision, des possibilités de mode de vie.
-On en apprend à chaque fois (quand on passe dans une oasis, une minotterie). Prendre le temps de révéler ces choses-là permet d'apprendre au fur et à mesure.
+Nous expérimentons la vie du quotidien dans des endroits de densité et d'échelle différentes. Ça va du hameau de 30 habitants à la métropole millionaire. À chaque fois on remarque de nouvelles choses. J'affine mon regard et mes perceptions par le vécu.
+
+Un de nos apprentissages, c'est que le nombre d'habitant·es d'une agglomération n'a pas nécessairement de conséquence directe sur sa vitalité et ce qu'elle a à offrir. On a vécu des villes de 8000 habitant·es, en campagne, avec autant d'activités qu'un quartier de Bordeaux.
+Ça a des conséquences sur la manière dont on envisage le travail, la vie de famille et les activités associatives ou non-rémunérées.
+
+La diversification des lieux de vie étend notre champ de vision, et ouvre des perspectives de vie que nous n'avions pas, ou que nous idéalisions jusqu'alors. Passer dans une minoterie et discuter en achetant un sac de farine nous en apprend sur les mécaniques de distribution des céréales en France. Une étape dans une oasis révèle des modes d'organisation que nous imaginons déjà mettre en place, ailleurs.
 
 <div class="gallery" markdown="span">
   ![Dans les environs de Swanage, dans la région du Dorset, en Angleterre](/images/2018-09-07-joies-et-peines/IMG_0482.jpg)
@@ -206,15 +225,21 @@ On en apprend à chaque fois (quand on passe dans une oasis, une minotterie). Pr
 
 ##### <small>#joie</small> <small>#opportunité</small> Vivre pour moins cher.
 Avec un SMIC ou moins, on vit bien. Logement et transports inclus. Les dépenses varient énormément selon nos étapes.
+Nous mangeons moins souvent dehors et le plaisir s'en trouve augmenté.
 
 ##### <small>#frustration</small> Être dans un endroit nouveau et du travail à temps plein.
-Tension entre ses propres envies et des contraintes extérieures, des attentes extérieures. Conflit interne ("je profite du beau temps" et "il faut que j'avance"). Comment faire comprendre à des personnes extérieures que je privilégie parfois mon bien-être dans ma relation de travail avec eux. J'ai besoin de prendre du temps pour moi pour revenir rafraîchi et dispos.
+La tension varie entre nos propres envies et des contraintes extérieures, des attentes extérieures. Conflit interne ("je profite du beau temps" et "il faut que j'avance").
+
+Comment faire comprendre que je privilégie parfois mon bien-être dans ma relation de travail avec certaines personnes ? Comme aller marcher une après-midi où il fait beau, sur un coup de tête au lieu de programmer une fonctionnalité, urgente sur le calendrier.
+J'ai besoin de prendre du temps pour moi pour revenir rafraîchi, calme et disponible.
 
 >En fait on pourrait être en vacances permanentes mais c'est pas le cas. Derrière, il y a l'enjeu de travailler et d'être autonome financièrement.
 
 ##### <small>#joie</small> Le plaisir de découvrir la richesse des marchés fermiers français
-Nous avons été décontenancés par la disparition du marché d'Exmouth, en Angleterre et nous avons à nouveau respiré après avoir franchi la Manche pour rester sur le sol français. Le marché d'une petite ville/village en France est plus grand que le marché fermier de quartier de plusieurs quartiers de Londres (Angel Chapel Market, Stoke Newington, Walthamstow Central).
-Retrouver le marché, c'est faire le tri entre les revendeurs et les maraîchers/producteurs/productrices, le plaisir de découvrir des produits de qualité en agriculture raisonnée, soutenir directement les productions locales, cuisiner avec plaisir des goûts foufous.
+Nous avons été décontenancés par la disparition du marché d'Exmouth, en Angleterre.
+Nous avons à nouveau respiré après avoir franchi la Manche pour rester sur le sol français. Le marché d'une petite ville/village en France est plus grand que le marché fermier de quartier de plusieurs quartiers de Londres (_Angel Chapel Market_, _Stoke Newington_, _Walthamstow Central_).
+
+Retrouver le marché, c'est faire le tri entre les revendeurs et les maraîchers/producteurs/productrices, le plaisir de découvrir des produits de qualité en agriculture raisonnée, soutenir directement les productions locales, cuisiner des goûts foufous avec plaisir.
 
 Parmi nos favoris : Crest (à même les rues et ruelles), Saint Brieuc (part belle aux maraîchers et producteurs), Mirepoix, Foix (et ses deux halles couvertes), Sète (et la halle, malgré le peu de producteurs), Marseille (cours Julien, friche de la Belle de Mai), Lyon (Croix Rousse).
 
@@ -225,13 +250,19 @@ Parmi nos favoris : Crest (à même les rues et ruelles), Saint Brieuc (part bel
 </div>
 
 ##### <small>#joie</small>Développer notre vie
-On se dit déjà que ce moment de vie, l'itinérance, sera une fierté à raconter à nos enfants.
+On se dit déjà que ce moment de vie, cette itinérance, ça sera une fierté à raconter à nos enfants.
+
 Est-ce que c'est ce que vivent des personnes qui se (re)trouvent à la retraite, à se fréquenter à la maison toute la journée ?
+
+Nous apprenons à marcher ensemble, à s'écouter et (dé)construire des schémas de fonctionnement qui ne nous ressemblent pas.
 
 ##### <small>#peine</small> Des incompréhensions, parfois, dans le cercle familial
 Certaines personnes de notre cercle familial peinent à comprendre la démarche, ce qu'on y trouve et ce que ça nous procure. Elles s'arrêtent peut-être à leurs propres peurs, à leurs attentes et au rejet d'un mode de vie moins conventionnel, moins socialement normé.
 
----
+#### Et ensuite ?
 
-Est-ce que ça t'inspire des réflexions ?
-Est-ce que tu as des réactions sur certaines des joies et des peines que nous avons évoqué ? Si tu as écrit/filmé/enregistré des réactions ailleurs sur le Web, nous serions ravi·es de placer tes liens à la suite.
+Cet automne, nous avons prévu d'aller à Londres (Noémie) et à Gêne (Thomas) avant de se retrouver à Bordeaux – explorer le Tiers-Lieu de Bègles, le Quartier Génial de Floirac – se rendre à Lyon puis prolonger l'expérience de la Drôme à Beaufort-sur-Gervanne (🤞 pour peut-être [faire du pain avec leurs boulangèr·es][pains-beaufort]), peut-être Rouen, peut-être Rennes, peut-être les Pyrénées, surement Crest, à nouveau.
+
+Au plaisir d'échanger là-dessus si ça vous interpelle, comme par exemple, le [samedi 15 septembre à la Cité Fertile de Pantin]({% link _posts/2018-09-02-atelier-cite-fertile.md %}), de vive voix ou par e-mail 👇💌.
+
+[pains-beaufort]: http://www.painsdebeaufort.com
