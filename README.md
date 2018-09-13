@@ -9,7 +9,7 @@ and sync with your remote site.
 ## With thanks to
 Loïc Sander at Velvetyne foundry for the [Fengardo Neue font](http://velvetyne.fr/fonts/fengardo-neue/).
 
-## Under [Creative Commons license CC BY-NC](https://creativecommons.org/licenses)
+## Under [Creative Commons license CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)
 **English**
 This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.
 
