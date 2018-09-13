@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [1.4807081222534182, 42.95362708687081]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [1.4941406250000002, 43.004647127794435],
+        [3.6474609375000004, 44.34742225636393]
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Burret"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [1.4936256408691408, 42.95337580656512]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ferme des Cévènnes - Agile Open France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [3.6272048950195317, 44.307451062131435]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Paris"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3510742187500004, 48.864714761802794]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [3.6914062500000004, 44.37098696297173],
+        [2.3291015625000004, 48.864714761802794]
+      ]
+    }
+  },
+  {
+		"type": "Feature",
+		"properties": {},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1.4807081222534182, 42.95362708687081]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[1.4941406250000002, 43.004647127794435],
+				[3.6474609375000004, 44.34742225636393]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Burret"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1.4936256408691408, 42.95337580656512]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Ferme des Cévènnes - Agile Open France"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [3.6272048950195317, 44.307451062131435]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"name": "Paris"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.3510742187500004, 48.864714761802794]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[3.6914062500000004, 44.37098696297173],
+				[2.3291015625000004, 48.864714761802794]
+			]
+		}
+	},
+  {
+		"type": "Feature",
+		"properties": {},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.06287097930908205, 51.5841632644179]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[2.3730468750000004, 48.83579746243093],
+				[0.0439453125, 51.56341232867588]
+			]
+		}
+	},
+  {
+		"type": "Feature",
+		"properties": {},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.5711817741394044, 44.83400647237555]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[2.3510742187500004, 48.879167148960214],
+				[-0.5493164062500001, 44.855868807357275]
+			]
+		}
+	}
+  ]
+}
