@@ -1,0 +1,427 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87671599999999,
+          43.610769,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Montpellier",
+        "styleUrl": "#icon-1596-0097A7",
+        "styleHash": "661e540e",
+        "styleMapHash": {
+          "normal": "#icon-1596-0097A7-normal",
+          "highlight": "#icon-1596-0097A7-highlight"
+        },
+        "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "description": "Rencontre inter-coopérative du 31 mars au 2 avril.<br><br>Découverte de la ville jusqu'au 8 avril."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83565899999996,
+          45.764043,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyon",
+        "styleUrl": "#icon-1596-0097A7",
+        "styleHash": "661e540e",
+        "styleMapHash": {
+          "normal": "#icon-1596-0097A7-normal",
+          "highlight": "#icon-1596-0097A7-highlight"
+        },
+        "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "description": "MiXit les 19 et 20 avril, conférence.<br>Découverte de la ville du 17 au 28 avril."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35222190000002,
+          48.856614,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Paris",
+        "styleUrl": "#icon-1596-0097A7",
+        "styleHash": "661e540e",
+        "styleMapHash": {
+          "normal": "#icon-1596-0097A7-normal",
+          "highlight": "#icon-1596-0097A7-highlight"
+        },
+        "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "description": "Retour au bercail - étape familiale."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36977999999999,
+          43.296482,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marseille",
+        "styleUrl": "#icon-1596-0097A7",
+        "styleHash": "661e540e",
+        "styleMapHash": {
+          "normal": "#icon-1596-0097A7-normal",
+          "highlight": "#icon-1596-0097A7-highlight"
+        },
+        "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "description": "Escale à Marseille pour rencontrer Terre de Mars et ICI Marseille. Du 8 au 17 avril."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.579179999999951,
+          44.837789,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bordeaux",
+        "styleUrl": "#icon-1596-0097A7-nodesc",
+        "styleHash": "288352bd",
+        "styleMapHash": {
+          "normal": "#icon-1596-0097A7-nodesc-normal",
+          "highlight": "#icon-1596-0097A7-nodesc-highlight"
+        },
+        "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.57915,
+            44.83763
+          ],
+          [
+            -0.48681,
+            44.67969
+          ],
+          [
+            -0.25904,
+            44.53786
+          ],
+          [
+            -0.1111,
+            44.53569
+          ],
+          [
+            0.16288,
+            44.42468
+          ],
+          [
+            0.32898,
+            44.23245
+          ],
+          [
+            0.56406,
+            44.18113
+          ],
+          [
+            0.8832,
+            44.05574
+          ],
+          [
+            1.11573,
+            44.0568
+          ],
+          [
+            1.31572,
+            43.92187
+          ],
+          [
+            1.43033,
+            43.65155
+          ],
+          [
+            1.56022,
+            43.47406
+          ],
+          [
+            1.69801,
+            43.39425
+          ],
+          [
+            2.11408,
+            43.22908
+          ],
+          [
+            2.49785,
+            43.1773
+          ],
+          [
+            3.00057,
+            43.16613
+          ],
+          [
+            3.20901,
+            43.30032
+          ],
+          [
+            3.71599,
+            43.49066
+          ],
+          [
+            3.87194,
+            43.61117
+          ],
+          [
+            3.87299,
+            43.61109
+          ],
+          [
+            3.87194,
+            43.61117
+          ],
+          [
+            4.37348,
+            43.80575
+          ],
+          [
+            4.5585,
+            43.68297
+          ],
+          [
+            4.75765,
+            43.62932
+          ],
+          [
+            5.09898,
+            43.66351
+          ],
+          [
+            5.08044,
+            43.75813
+          ],
+          [
+            4.91271,
+            43.90073
+          ],
+          [
+            4.87737,
+            44.08841
+          ],
+          [
+            4.70712,
+            44.23873
+          ],
+          [
+            4.72953,
+            44.39694
+          ],
+          [
+            4.8109,
+            44.5531
+          ],
+          [
+            4.78982,
+            44.74882
+          ],
+          [
+            4.8909,
+            44.9466
+          ],
+          [
+            4.88924,
+            45.16829
+          ],
+          [
+            4.80472,
+            45.37554
+          ],
+          [
+            4.85525,
+            45.54083
+          ],
+          [
+            4.79633,
+            45.60111
+          ],
+          [
+            4.83813,
+            45.76502
+          ],
+          [
+            4.83586,
+            45.76459
+          ],
+          [
+            4.83813,
+            45.76502
+          ],
+          [
+            4.71872,
+            45.95792
+          ],
+          [
+            4.78858,
+            46.28073
+          ],
+          [
+            4.91887,
+            46.52673
+          ],
+          [
+            4.82053,
+            46.77129
+          ],
+          [
+            4.78425,
+            47.05736
+          ],
+          [
+            4.69818,
+            47.16544
+          ],
+          [
+            4.52488,
+            47.26005
+          ],
+          [
+            4.45812,
+            47.34712
+          ],
+          [
+            4.29012,
+            47.44667
+          ],
+          [
+            3.9936,
+            47.51422
+          ],
+          [
+            3.90478,
+            47.64916
+          ],
+          [
+            3.55385,
+            47.85525
+          ],
+          [
+            3.25527,
+            47.93007
+          ],
+          [
+            3.02138,
+            48.10409
+          ],
+          [
+            2.77134,
+            48.21884
+          ],
+          [
+            2.56355,
+            48.37047
+          ],
+          [
+            2.49395,
+            48.55224
+          ],
+          [
+            2.30638,
+            48.70752
+          ],
+          [
+            2.35258,
+            48.85725
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Itinéraire de Bordeaux à Paris",
+        "styleUrl": "#line-1267FF-5000-nodesc",
+        "styleHash": "4b899179",
+        "styleMapHash": {
+          "normal": "#line-1267FF-5000-nodesc-normal",
+          "highlight": "#line-1267FF-5000-nodesc-highlight"
+        },
+        "stroke": "#1267ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1267ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.1031494140625,
+            43.66389797397276
+          ],
+          [
+            5.130615234375,
+            43.624147145668076
+          ],
+          [
+            5.1580810546875,
+            43.59431676355149
+          ],
+          [
+            5.20751953125,
+            43.5843700152048
+          ],
+          [
+            5.24322509765625,
+            43.54854811091286
+          ],
+          [
+            5.23773193359375,
+            43.47883342917123
+          ],
+          [
+            5.240478515625,
+            43.442948806351396
+          ],
+          [
+            5.2789306640625,
+            43.42100882994726
+          ],
+          [
+            5.30914306640625,
+            43.38708594974803
+          ],
+          [
+            5.34210205078125,
+            43.36312895068202
+          ],
+          [
+            5.386047363281249,
+            43.31118965238512
+          ]
+        ]
+      }
+    }
+  ]
+}
