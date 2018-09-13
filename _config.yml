@@ -28,14 +28,6 @@ twitter:
 seo_tag:
   image: /images/2018-03-05-voir-londres-et-partir/Auriga sacs.jpg
 
-# on landing page
-# - set the greeting only if you want to display the first green section
-greeting:
-  title: Quoi ?!
-  text: |
-    "Est-ce que c'est du travail ?", c'est un gimmick, un truc qu'on se lance quand on s'aperçoit qu'on discute de choses liées à nos activités avant le petit déjeuner ou le soir en préparant à manger. Quand nos intérêts sont fortement liés au travail, où est la frontière ?
-
-    Suivez ici les étapes de notre recherche d'un endroit où vivre et être utile.
 # - title for your blog's featured posts
 features-title: Featured articles
 # - displayed at the bottom
@@ -46,7 +38,7 @@ closing-para:
 social:
   twitter: https://twitter.com/noeems
   github: https://github.com/noeems/estcequecestdutravail.xyz
-  email: mailto:hello@estcequecestdutravail.xyz 
+  email: mailto:hello@estcequecestdutravail.xyz
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
