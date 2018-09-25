@@ -82,3 +82,5 @@ En attendant, **Un podcast à soi** a repris !
 Il y a aussi cette série de quatre épisodes essentiels sur [les transidentités racontées par les trans](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/les-transidentites-racontees-par-les-trans-14-histoire-inedite-dune-mobilisation) sur France Culture.
 
 Le collectif Mwasi a sorti un livre, [Afrofem](https://mwasicollectif.com/afrofem-le-livre-de-mwasi/) au début du mois. À se procurer ou à demander dans votre bibliothèque la plus proche.
+
+Et pour zoner devant une séries, vous pourriez choisir [Insecure](https://fr.wikipedia.org/wiki/Insecure) par exemple.
