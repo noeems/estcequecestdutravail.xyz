@@ -14,24 +14,16 @@
   endfor %}
   </ul>
   <ul class="copyright">
-<!-- PREVIOUS COPYRIGHT CODE
-    <li>&copy; {%
-    assign thisyear = site.time | date: "%Y" %}{%
-    if site.first_published %}{%
-      capture diff %}
-        {{ site.first_published | minus:thisyear }}{%
-      endcapture %}{%
-      if diff contains '-' %}{{
-        site.first_published }},{%
-      endif %}{%
-    endif %}
-    {{ thisyear }}{%
-    if site.owner.name %}
-      {{ site.owner.name }}{%
-    else %}
-      {{ site.title }}{%
-endif %}</li> -->
-
-    2018 — <a href="https://creativecommons.org/licenses">CC BY-NC</a>
+    <li>
+      {% assign thisyear = site.time | date: "%Y" %}
+      {% if site.first_published %}{% capture diff %}
+        {{ site.first_published | minus:thisyear }}
+      {% endcapture %}
+      {% if diff contains '-' %}{{ site.first_published }}-{% endif %}{%
+      endif %}{{ thisyear }}
+      — <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC</a>
+      - <a href="http://html5up.net/spectral" target="_blank">Thème : HTML5 UP</a>
+      - <a href="http://velvetyne.fr/fonts/fengardo-neue/" target="_blank">Fonte : Velvetyne</a>
+    </li>
   </ul>
 </footer>

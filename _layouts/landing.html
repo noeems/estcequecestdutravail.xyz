@@ -64,18 +64,23 @@
                 <h2>{{ my_page.title }}</h2>
                 <p>{{ my_page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>
 
-                <a href="{{ my_page.url | prepend:site.baseurl }}">
-                  {% if my_page.options contains 'last-post-image' %}
-                  <span class="button">Voir la liste des articles</span>
-                <a href="{{ site.posts.first.url}}" >
-                    <span class="button">Lire le dernier</span>
-                </a>
-                  {% elsif my_page.permalink == '/map/' %}
-                    <span class="button">Voir les étapes</span>
-                  {% else %}
-                  <span class="button">Lire la suite</span>
-                  {% endif %}
-                </a>
+                {% if my_page.options contains 'last-post-image' %}
+                  <a href="{{ my_page.url | prepend:site.baseurl }}">
+                    <span class="button">Voir la liste des articles</span>
+                  </a>
+
+                  <a href="{{ site.posts.first.url}}" >
+                    <span class="button">Lire le plus récent</span>
+                  </a>
+                {% else %}
+                  <a href="{{ my_page.url | prepend:site.baseurl }}">
+                    {% if my_page.permalink == '/map/' %}
+                      <span class="button">Voir les étapes</span>
+                    {% else %}
+                      <span class="button">Lire la suite</span>
+                    {% endif %}
+                  </a>
+                {% endif %}
               </div>
             </section>{%
                 endunless %}{%

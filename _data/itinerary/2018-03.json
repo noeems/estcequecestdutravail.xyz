@@ -1,0 +1,469 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-1.81820019999998,
+					50.723947,
+					0
+				]
+			},
+			"properties": {
+				"name": "Fisherman's Walk",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "1er au 7 mars"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-1.9796526,
+					50.6052013,
+					0
+				]
+			},
+			"properties": {
+				"name": "Bellevue cottage\n",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "7 au 9 mars"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-2.43620039999996,
+					50.5467225,
+					0
+				]
+			},
+			"properties": {
+				"name": "Isle of Portland\n",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "9 au 16 mars"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-2.44105620000005,
+					50.7112482,
+					0
+				]
+			},
+			"properties": {
+				"name": "Dorchester",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "16 au 21 mars"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-2.58807309999997,
+					51.4635838,
+					0
+				]
+			},
+			"properties": {
+				"name": "Bristol",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "21 au 23 mars.<br>Data for Development festival."
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.0731815999999981,
+					51.5539557,
+					0
+				]
+			},
+			"properties": {
+				"name": "London",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "23-24 mars.<br>Dernière étape avant le retour en France."
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.32480940000005,
+					48.8552402,
+					0
+				]
+			},
+			"properties": {
+				"name": "Paris",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "24-26 mars. <br>Escale et rationalisation de sac à dos."
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.585706399999935,
+					44.8297084,
+					0
+				]
+			},
+			"properties": {
+				"name": "Bordeaux",
+				"styleUrl": "#icon-1596-0097A7",
+				"styleHash": "661e540e",
+				"styleMapHash": {
+					"normal": "#icon-1596-0097A7-normal",
+					"highlight": "#icon-1596-0097A7-highlight"
+				},
+				"icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+				"description": "26 au 30 mars"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-1.81873, 50.72383],
+					[-1.98231, 50.60989],
+					[-1.98214, 50.60921],
+					[-1.98245, 50.60876],
+					[-1.98198, 50.6068],
+					[-1.98156, 50.60672],
+					[-1.98063, 50.6068],
+					[-1.98048, 50.60692],
+					[-1.97983, 50.60538],
+					[-1.97969, 50.60519]
+				]
+			},
+			"properties": {
+				"name": "Itinéraire de Fisherman's Walk à Bellevue cottage",
+				"styleUrl": "#line-1267FF-5000-nodesc",
+				"styleHash": "4b899179",
+				"styleMapHash": {
+					"normal": "#line-1267FF-5000-nodesc-normal",
+					"highlight": "#line-1267FF-5000-nodesc-highlight"
+				},
+				"stroke": "#1267ff",
+				"stroke-opacity": 1,
+				"stroke-width": 5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-1.97969, 50.60519],
+					[-1.97983, 50.60538],
+					[-1.98048, 50.60692],
+					[-1.98063, 50.6068],
+					[-1.98156, 50.60672],
+					[-1.98198, 50.6068],
+					[-1.98245, 50.60876],
+					[-1.98214, 50.60921],
+					[-1.98231, 50.60989],
+					[-2.4592, 50.6127],
+					[-2.45844, 50.61172],
+					[-2.45893, 50.6106],
+					[-2.45968, 50.60833],
+					[-2.45974, 50.60806],
+					[-2.45962, 50.60745],
+					[-2.45999, 50.60679],
+					[-2.45998, 50.60518],
+					[-2.46622, 50.6002],
+					[-2.4672, 50.59995],
+					[-2.47145, 50.59843],
+					[-2.47173, 50.59836],
+					[-2.47288, 50.59815],
+					[-2.47365, 50.59788],
+					[-2.47411, 50.59764],
+					[-2.4745, 50.59736],
+					[-2.47573, 50.59671],
+					[-2.476, 50.59605],
+					[-2.47574, 50.59549],
+					[-2.47546, 50.59453],
+					[-2.47436, 50.59287],
+					[-2.47426, 50.59258],
+					[-2.47229, 50.58807],
+					[-2.47259, 50.58689],
+					[-2.47253, 50.58655],
+					[-2.47237, 50.58629],
+					[-2.47227, 50.58609],
+					[-2.47205, 50.58524],
+					[-2.47068, 50.58158],
+					[-2.47003, 50.58041],
+					[-2.46045, 50.57082],
+					[-2.45814, 50.56954],
+					[-2.45326, 50.56611],
+					[-2.45309, 50.56597],
+					[-2.45098, 50.56383],
+					[-2.44233, 50.5593],
+					[-2.44018, 50.55851],
+					[-2.43999, 50.5584],
+					[-2.44152, 50.55715],
+					[-2.44293, 50.55639],
+					[-2.44424, 50.55465],
+					[-2.44411, 50.55458],
+					[-2.44254, 50.55497],
+					[-2.44043, 50.55474],
+					[-2.43712, 50.55141],
+					[-2.4362, 50.54907],
+					[-2.43597, 50.54671]
+				]
+			},
+			"properties": {
+				"name": "Itinéraire de Bellevue cottage à 41 Easton St",
+				"styleUrl": "#line-1267FF-5000-nodesc",
+				"styleHash": "4b899179",
+				"styleMapHash": {
+					"normal": "#line-1267FF-5000-nodesc-normal",
+					"highlight": "#line-1267FF-5000-nodesc-highlight"
+				},
+				"stroke": "#1267ff",
+				"stroke-opacity": 1,
+				"stroke-width": 5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-2.43597, 50.54671],
+					[-2.4362, 50.54907],
+					[-2.43712, 50.55141],
+					[-2.44043, 50.55474],
+					[-2.44254, 50.55497],
+					[-2.44411, 50.55458],
+					[-2.44424, 50.55465],
+					[-2.44293, 50.55639],
+					[-2.44152, 50.55715],
+					[-2.43999, 50.5584],
+					[-2.44018, 50.55851],
+					[-2.44233, 50.5593],
+					[-2.45098, 50.56383],
+					[-2.45309, 50.56597],
+					[-2.45326, 50.56611],
+					[-2.45814, 50.56954],
+					[-2.46045, 50.57082],
+					[-2.47003, 50.58041],
+					[-2.47068, 50.58158],
+					[-2.47205, 50.58524],
+					[-2.47227, 50.58609],
+					[-2.47237, 50.58629],
+					[-2.47253, 50.58655],
+					[-2.47259, 50.58689],
+					[-2.47229, 50.58807],
+					[-2.47426, 50.59258],
+					[-2.47436, 50.59287],
+					[-2.47546, 50.59453],
+					[-2.47574, 50.59549],
+					[-2.476, 50.59605],
+					[-2.47573, 50.59671],
+					[-2.4745, 50.59736],
+					[-2.47411, 50.59764],
+					[-2.47365, 50.59788],
+					[-2.47288, 50.59815],
+					[-2.47173, 50.59836],
+					[-2.47145, 50.59843],
+					[-2.4672, 50.59995],
+					[-2.46622, 50.6002],
+					[-2.45998, 50.60518],
+					[-2.45999, 50.60679],
+					[-2.45962, 50.60745],
+					[-2.45974, 50.60806],
+					[-2.45968, 50.60833],
+					[-2.45893, 50.6106],
+					[-2.45844, 50.61172],
+					[-2.4592, 50.6127],
+					[-2.44116, 50.71125],
+					[-2.44106, 50.71125]
+				]
+			},
+			"properties": {
+				"name": "Itinéraire de Isle of Portland à Dorchester",
+				"styleUrl": "#line-1267FF-5000-nodesc",
+				"styleHash": "4b899179",
+				"styleMapHash": {
+					"normal": "#line-1267FF-5000-nodesc-normal",
+					"highlight": "#line-1267FF-5000-nodesc-highlight"
+				},
+				"stroke": "#1267ff",
+				"stroke-opacity": 1,
+				"stroke-width": 5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-2.44106, 50.71125],
+					[-2.44116, 50.71125],
+					[-2.73348, 50.96485],
+					[-2.53742, 51.16923],
+					[-2.5909, 51.46109],
+					[-2.58991, 51.46292],
+					[-2.58987, 51.46323],
+					[-2.58814, 51.46364]
+				]
+			},
+			"properties": {
+				"name": "Itinéraire de Dorchester à Bristol",
+				"styleUrl": "#line-1267FF-5000-nodesc",
+				"styleHash": "4b899179",
+				"styleMapHash": {
+					"normal": "#line-1267FF-5000-nodesc-normal",
+					"highlight": "#line-1267FF-5000-nodesc-highlight"
+				},
+				"stroke": "#1267ff",
+				"stroke-opacity": 1,
+				"stroke-width": 5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-2.58814, 51.46364],
+					[-2.58987, 51.46323],
+					[-2.58991, 51.46292],
+					[-2.5909, 51.46109],
+					[-1.90312, 51.55928],
+					[-1.47549, 51.45115],
+					[-0.95428, 51.41321],
+					[-0.72809, 51.49805],
+					[-0.07482, 51.55365],
+					[-0.07318, 51.55396]
+				]
+			},
+			"properties": {
+				"name": "Itinéraire de Bristol à London",
+				"styleUrl": "#line-1267FF-5000-nodesc",
+				"styleHash": "4b899179",
+				"styleMapHash": {
+					"normal": "#line-1267FF-5000-nodesc-normal",
+					"highlight": "#line-1267FF-5000-nodesc-highlight"
+				},
+				"stroke": "#1267ff",
+				"stroke-opacity": 1,
+				"stroke-width": 5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-0.07318, 51.55396],
+					[-0.07482, 51.55365],
+					[0.25437, 51.49133],
+					[0.58031, 51.28357],
+					[1.98978, 50.89644],
+					[2.39138, 50.56575],
+					[2.69116, 50.48424],
+					[2.88419, 50.03072],
+					[2.52643, 49.00611],
+					[2.32481, 48.85524]
+				]
+			},
+			"properties": {
+				"name": "Itinéraire de London à Paris",
+				"styleUrl": "#line-1267FF-5000-nodesc",
+				"styleHash": "4b899179",
+				"styleMapHash": {
+					"normal": "#line-1267FF-5000-nodesc-normal",
+					"highlight": "#line-1267FF-5000-nodesc-highlight"
+				},
+				"stroke": "#1267ff",
+				"stroke-opacity": 1,
+				"stroke-width": 5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[2.32481, 48.85524],
+					[1.90499, 48.54038],
+					[1.84952, 47.90797],
+					[1.29827, 47.61605],
+					[0.73834, 47.44318],
+					[0.49173, 46.77524],
+					[0.20334, 46.50674],
+					[-0.19581, 46.39118],
+					[-0.50899, 46.17155],
+					[-0.66933, 45.74256],
+					[-0.60047, 45.37969],
+					[-0.42765, 44.98636],
+					[-0.58571, 44.82971]
+				]
+			},
+			"properties": {
+				"name": "Itinéraire de Paris à Bordeaux",
+				"styleUrl": "#line-1267FF-5000-nodesc",
+				"styleHash": "4b899179",
+				"styleMapHash": {
+					"normal": "#line-1267FF-5000-nodesc-normal",
+					"highlight": "#line-1267FF-5000-nodesc-highlight"
+				},
+				"stroke": "#1267ff",
+				"stroke-opacity": 1,
+				"stroke-width": 5
+			}
+		}
+	]
+}

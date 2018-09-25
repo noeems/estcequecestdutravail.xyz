@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     map.setView([46.66362, 0.93952], 6);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+      attribution: '&copy; les contributeurs d\'<a href="https://www.openstreetmap.org">OpenStreetMap</a>, <a href="https://www.openstreetmap.org/copyright">CC-BY-SA</a>',
     }).addTo(map);
 
     const jsonData = JSON.parse(decodeURI(el.dataset.geojson));
