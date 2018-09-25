@@ -6,11 +6,18 @@ author:
 - noeems
 ---
 
-Il y a quelques semaines, j'avais commencé à vous partager [mes notes de lecture](https://estcequecestdutravail.xyz/2018/07/why-shes-no-longer-talking-about-race.html) de _Why I'm No Longer Talking To White People About Race_, le livre de Reni Eddo-Lodge récemment réédité en Angleterre. Voilà la deuxième partie.
+Au début de l'été, j'avais commencé à vous partager [mes notes de lecture](https://estcequecestdutravail.xyz/2018/07/why-shes-no-longer-talking-about-race.html) de _Why I'm No Longer Talking To White People About Race_, le livre de Reni Eddo-Lodge récemment réédité en Angleterre.  
+Bonne nouvelle : la traduction française sort demain (le 26 septembre): ["Le racisme est un problème de blancs"](https://www.autrement.com/Catalogue/essais-et-documents/le-racisme-est-un-probleme-de-blancs) aux éditions Autrement.
 
-Bonne nouvelle : la traduction française sort à la fin du mois (le 26 septembre), sous le titre ["Le racisme est un problème de blancs"](https://www.autrement.com/Catalogue/essais-et-documents/le-racisme-est-un-probleme-de-blancs) aux éditions Autrement.
+Je tenais à conclure avec des citations des derniers chapitres, dans lesquels Reni Eddo-Lodge aborde sa relation au féminisme, elle évoque "l'après" (peut-on résoudre cette question ? Peut-on croire à un avenir postracial ? Qu'est-ce qu'on fait maintenant ?  
+Ma réédition comprend une postface où elle prend du recul sur l'évolution des discours ambiants depuis la sortie du livre en 2017, les réactions que son livre a suscitées.  
+L'article s'intitule [_Fugitive Feminism_](https://www.ica.art/on/learning/towards-fugitive-feminism) en écho à un évènement auquel j'ai assisté à Londres, grâce auquel j'ai enfin pu voir _Ouvrir la voix_ d'Amandine Gay et qui a énormément enrichi ma réflexion.
 
-Dans les derniers chapitres, Reni aborde sa relation au féminisme, à "l'après", à l'évolution des discours ambiants depuis la sortie du livre en 2017. En conclusion, je relierai ça à des pensées suite à la projection du film _Ouvrir la voix_ d'Amandine Gay au festival [_Fugitive Feminism_](https://www.ica.art/on/learning/towards-fugitive-feminism) à Londres fin juillet.
+Je continue de m'imprégner de la lecture du monde et de la déconstruction de la norme grâce aux œuvres, témoignages, podcasts, articles, évènements d'afroféministes, de personnes trans, de personnes handicapées, d'écoféministes, de la communauté queer, des personnes qui rejettent l'héritage d'un féminisme excluant...
+
+>La marge donne un regard très précis sur la norme  
+
+Écoute conseillée : 🎧 [Amandine Gay](https://www.franceculture.fr/emissions/par-les-temps-qui-courent/amandine-gay) - Par les temps qui courent
 
 ![Book cover](/images/2018-07-02-reni/Reni - Christina Ascani.jpg)
 
@@ -18,14 +25,14 @@ Dans les derniers chapitres, Reni aborde sa relation au féminisme, à "l'après
 
 En 2014, Reni écrit déjà pour Dazed and Confused sur la question ([How to deal with being a black feminist](http://www.dazeddigital.com/artsandculture/article/18751/1/how-to-deal-with-being-a-black-feminist)).
 
-Ce n'est que depuis très récemment qu'on accède en France à la traduction de textes indispensables de féministes racisées qui datent... Et font partie des cursus académiques aux Etats-Unis et en Angleterre depuis belle lurette. Audre Lorde, bell hooks... On n'a pas encore atteint le moment où le mot "intersectionnalité" a pris sa place, est compris, débattu, adopté.
+Ce n'est que depuis très récemment qu'on accède en France à la traduction de textes indispensables de féministes racisées qui datent parfois des années soixante-dix, quatre-vingt... Et font partie des cursus académiques aux Etats-Unis et en Angleterre depuis déjà bien longtemps. Audre Lorde, bell hooks... On n'a pas encore atteint le moment où le concept d'["intersectionnalité"](https://fr.wikipedia.org/wiki/Intersectionnalit%C3%A9) a pris sa place, est compris.
 
 En France comme ailleurs, les discours dominants sont encore portés par un milieu déséspérément homogène. Alors que, Virginie Despentes herself le dit [dans le Guardian](https://www.theguardian.com/books/2018/aug/31/virginie-despentes-interview-baise-moi-vernon-subutex), les choses les plus intéressantes ces jours-ci sont portées par des artistes, autrices, activistes racisées.
 >In terms of French culture and thought, she says the biggest talent is now among women of colour: the writers Léonora Miano and Faïza Guène, the rapper Casey, the essayist Rokhaya Diallo and the documentary-maker Amandine Gay.
 
 ##### Reappropriating feminism
 
->The process begins with the individual woman's acceptance that [...] women, without exception, are socialized to be racist, classist and sexist, in varying degrees, and that labelling ourselves feminists does not change the fact that we must consciously work to rid ourselves of the legacy of negative socialization. It is obvious that many women have appropriated feminism to serve their own ends, especially those white women who have been at the forefront of the movement; but rather than resigning myself to this appropriation, I chose to reappropriate the term "feminism", to focus on the fact that to be "feminist" in any authentic sense of the term is to want for all people, female and male, liberation from sexist role patterns, domination, and oppression.
+>The process begins with the individual woman's acceptance that [...] women, without exception, are socialized to be racist, classist and sexist, in varying degrees, and that labelling ourselves feminists does not change the fact that we must consciously work to rid ourselves of the legacy of negative socialization. It is obvious that many women have appropriated feminism to serve their own ends, especially those white women who have been at the forefront of the movement; but rather than resigning myself to this appropriation, I chose to reappropriate the term "feminism", to focus on the fact that to be "feminist" in any authentic sense of the term is to want for all people, female and male, liberation from sexist role patterns, domination, and oppression.  
 bell hooks - Ain't I a Woman: Black Women and Feminism
 
 >If the last five years have taught us anything, it's that feminism is a broad church that has less to do with the upkeep of your appearance, and more to do with the upkeep of your politics. Instead of asking about high heels and lipstick, the pressing questions we have always needed to ask are: Can you be a feminist and be anti-choice? Can you be a feminist and be wilfully ignorant on racism?
@@ -57,10 +64,21 @@ L'évènement pose ces questions :
 
 De qui parle-t-on quand on invoque la catégorie 'femme' ? Est-elle caduque ? La binarité des genres, est-elle un héritage toxique de la culture capitaliste, des marqueurs auxquels on se serait trop habitué.e.s ? Est-ce que ça nous dessert ?
 
-Sur la question de la représentativité des enjeux des femmes racisées au sein du féminisme, la note d'intention de l'évènement précise :
+Sur la question de la représentativité des enjeux des femmes racisées au sein des féminismes, la note d'intention de l'évènement précise :
 >In 1851, Sojourner Truth delivered her now iconic speech ‘Ain't I a Woman?’ at the Women's Rights Convention in Akron, Ohio. Truth's speech is one of the earliest recorded instances of intersectionality. She demanded the recognition of Black women as women and demonstrated how being positioned at the intersection of race and gender constitutes a double jeopardy which undermines Black women's claims to justice and equality.
 
 >In 2018, Black women are still making remarkably similar claims for recognition and respect as women. In this talk, Akwugo Emejulu draws on the work of Black radical theorists such as Saidiya Hartman, Hortense Spillers, Stefano Harney, Fred Moten and Tina Campt to explore the impossibility of Black women's claims to and inclusion in ‘womanhood’, and examines the implications this has for contemporary Black feminist politics. Akwugo Emejulu argues that Black feminism is fundamentally destabilised by these analyses but can be reconstructed through different ontological and affective relations of the self, which she names ‘fugitive feminism.’
 
-Prolonger avec l'enregistrement de la rencontre :   
+Si ça vous intéresse, l'ICA propose l'enregistrement de la rencontre :   
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/480635793&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+### Conclusion
+
+Encore beaucoup de découvertes et de déconstruction devant moi.  
+En attendant, **Un podcast à soi** a repris !  
+Écoutez donc [ce premier épisode](https://www.arteradio.com/son/61660259/un_podcast_soi_ndeg10_ainsi_soient_elles) consacré aux féminismes et aux religions. Deux notions qui peuvent sembler irréconciliables en apparence, et pourtant. Pourquoi choisir ? Cet épisode passionnant montre que dès l'apparition des religions, la misogynie se propage, s'enracine... Pourquoi ? En partie parce que les textes fondateurs, traduit par des hommes, pour des hommes, proposent des traductions plus que controversées...
+
+Il y a aussi cette série de quatre épisodes essentiels sur [les transidentités racontées par les trans](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/les-transidentites-racontees-par-les-trans-14-histoire-inedite-dune-mobilisation) sur France Culture.
+
+Le collectif Mwasi a sorti un livre, [Afrofem](https://mwasicollectif.com/afrofem-le-livre-de-mwasi/) au début du mois. À se procurer ou à demander dans votre bibliothèque la plus proche.
