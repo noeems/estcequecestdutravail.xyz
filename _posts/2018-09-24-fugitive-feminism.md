@@ -7,7 +7,7 @@ author:
 ---
 
 Au début de l'été, j'avais commencé à vous partager [mes notes de lecture](https://estcequecestdutravail.xyz/2018/07/why-shes-no-longer-talking-about-race.html) de _Why I'm No Longer Talking To White People About Race_, le livre de Reni Eddo-Lodge récemment réédité en Angleterre.  
-Bonne nouvelle : la traduction française sort demain (le 26 septembre): ["Le racisme est un problème de blancs"](https://www.autrement.com/Catalogue/essais-et-documents/le-racisme-est-un-probleme-de-blancs) aux éditions Autrement.
+Bonne nouvelle : la traduction française sort demain (le 26 septembre): ["Le racisme est un problème de blancs"](https://www.autrement.com/Catalogue/essais-et-documents/le-racisme-est-un-probleme-de-blancs) aux éditions Autrement. Dommage que la couverture de cette traduction n'ait pas inclus la subtilité graphique de l'édition originale.
 
 Je tenais à conclure avec des citations des derniers chapitres, dans lesquels Reni Eddo-Lodge aborde sa relation au féminisme, elle évoque "l'après" (peut-on résoudre cette question ? Peut-on croire à un avenir postracial ? Qu'est-ce qu'on fait maintenant ?  
 Ma réédition comprend une postface où elle prend du recul sur l'évolution des discours ambiants depuis la sortie du livre en 2017, les réactions que son livre a suscitées.  
