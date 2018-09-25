@@ -1,6 +1,6 @@
 ---
 title: Fugitive Feminism
-excerpt: Notes de lecture, suite et fin.
+excerpt: Notes de lecture de Reni Eddo-Lodge, suite et fin.
 image: /images/2018-07-02-reni/Its not feminism unless its intersectional lowres.jpg
 author:
 - noeems
