@@ -80,6 +80,7 @@ En attendant, **Un podcast à soi** a repris !
 Écoutez donc [ce premier épisode](https://www.arteradio.com/son/61660259/un_podcast_soi_ndeg10_ainsi_soient_elles) consacré aux féminismes et aux religions. Deux notions qui peuvent sembler irréconciliables en apparence, et pourtant. Pourquoi choisir ? Cet épisode passionnant montre que dès l'apparition des religions, la misogynie se propage, s'enracine... Pourquoi ? En partie parce que les textes fondateurs, traduit par des hommes, pour des hommes, proposent des traductions plus que controversées...
 
 Il y a aussi cette série de quatre épisodes essentiels sur [les transidentités racontées par les trans](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/les-transidentites-racontees-par-les-trans-14-histoire-inedite-dune-mobilisation) sur France Culture.
+Ah oui, et les tous premiers épisodes de ["Kiffe ta race"](https://www.binge.audio/category/kiffetarace/) avec Rokhaya Diallo et Grace Ly.
 
 Le collectif Mwasi a sorti un livre, [Afrofem](https://mwasicollectif.com/afrofem-le-livre-de-mwasi/) au début du mois. À se procurer ou à demander dans votre bibliothèque la plus proche.
 
