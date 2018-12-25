@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "people": "Thomas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52459716796875,
+          44.853921768268805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "people": "Thomas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.048521041870117,
+          48.454424261419895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3476409912109375,
+          48.85613168160397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.022296905517578,
+          44.728198689689506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "people": "Noémie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1242828369140625,
+          51.52027984939518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "people": "Noémie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.349555969238281,
+          50.84605554556735
+        ]
+      }
+    }
+  ]
+}
