@@ -266,6 +266,15 @@ $baseurl: '{{ site.baseurl }}/images';
 		p:last-child {
 		  margin:0;
 		}
+
+		cite {
+			font-style: normal;
+
+			&:before {
+				content: "—";
+				padding-right: .5em;
+			}
+		}
 	}
 
 	code, .code {
@@ -1305,15 +1314,6 @@ $baseurl: '{{ site.baseurl }}/images';
 					border-radius: 3px;
 				}
 			}
-
-			blockquote {
-				border-color: _palette($p, border);
-			}
-			/*
-			code {
-				background: _palette($p, border-bg);
-			}
-			*/
 
 		// Section/Article
 
