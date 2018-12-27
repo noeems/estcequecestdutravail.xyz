@@ -28,7 +28,7 @@ De ce que j'en ai compris, les "safe spaces" sont des cadres sécurisants et pro
 En contraste avec les safe spaces, les brave spaces proposent non pas de contourner l'inconfort que peuvent générer certains discours, certaines paroles, mais de l'accueillir et de l'utiliser. Pour apprendre sur les autres et sur soi.
 
 Pour aller plus loin dans la compréhension de ces formats, il y a cet essai de Brian Arao et Kristi Clemens : [From Safe Spaces to Brave Spaces : A New Way to Frame Dialogue around Diversity and Social Justice](https://ssw.umich.edu/sites/default/files/documents/events/colc/from-safe-spaces-to-brave-spaces.pdf).
-Pour l'instant je ne maîtrise que grossièrement ces notions mais ça m'intéresse beaucoup de creuser comment les cadres posés peuvent générer des effets et
+Pour l'instant je ne maîtrise que grossièrement ces notions mais ça m'intéresse beaucoup de creuser comment les cadres posés peuvent générer des effets.
 
 #### Créer un cadre. Susciter par la contrainte
 J'arrive donc à l'atelier à plus de la mi-parcours.  
