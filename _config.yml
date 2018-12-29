@@ -16,10 +16,10 @@ description: Documentation d'itinérance
 owner:
   name: Thomas Parisot et Noémie Girard
   email: hello@estcequecestdutravail.xyz
-  url: http://estcequecestdutravail.xyz
+  url: https://estcequecestdutravail.xyz
 first_published: 2018
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://estcequecestdutravail.xyz" # the base hostname & protocol for your site
+url: "https://estcequecestdutravail.xyz" # the base hostname & protocol for your site
 timezone: Europe/Paris
 
 twitter:
