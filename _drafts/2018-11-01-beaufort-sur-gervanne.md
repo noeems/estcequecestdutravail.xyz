@@ -1,7 +1,7 @@
 ---
 title: Beaufort-sur-Gervanne
 excerpt: Retour dans la vallée de la Drôme
-image: /images/
+image: /images/2018-11-01-beaufort-sur-gervanne/IMG_1893.JPG
 date: 2019-01-02
 author:
 - noeems
