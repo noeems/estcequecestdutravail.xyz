@@ -17,7 +17,7 @@ On a décidé de revenir 1 mois et demi dans la Drôme, à Beaufort-sur-Gervanne
 
 <!--more-->
 
-<iframe width="640" height="564" src="https://player.vimeo.com/video/309312584" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+<iframe width="640" height="360" src="https://player.vimeo.com/video/309312584" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 **Podcasts écoutés** 🎧
 
@@ -209,7 +209,7 @@ On recharge nos batteries de ronrons. Preuve à l'appui :
 ![Tom et Nabuchat](/images/2018-11-01-beaufort-sur-gervanne/IMG_1744.jpg)
 </section>
 
-<iframe width="640" height="564" src="https://player.vimeo.com/video/309312603" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+<iframe width="640" height="360" src="https://player.vimeo.com/video/309312603" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 ### On repart avec quoi ?
 
@@ -229,10 +229,10 @@ Noémie ajoute :
 Thomas complète :
 - Je me serais bien vu vivre ici, dans un cadre aussi chaleureux ; à la croisée de beaux sentiers de randonnée, proche des villes et déjà suffisamment éloigné ;
 - Il manquerait presque un café associatif de l'autre côté de la rue, en face de l'épicerie, c'est là que je voyais les personnes s'arrêter pour discuter ;
-— **Il manquait une épicerie associative à d'autres villages de taille similaire** ; quand on les traversait et que je me demandais "est-ce qu'on se sentirait d'habiter ici ?", s'il n'y avait pas un lieu de ce genre, c'était un "non" systématique — ça se ressent dans leur dynamique de vie.
+- **Il manquait une épicerie associative à d'autres villages de taille similaire** ; quand on les traversait et que je me demandais "est-ce qu'on se sentirait d'habiter ici ?", s'il n'y avait pas un lieu de ce genre, c'était un "non" systématique — ça se ressent dans leur dynamique de vie.
 
 Promis on vous raconte bientôt le récit de notre second mois à Crest. Celui où on a décidé que… non je ne _spoile_ pas 😁.
 
-<iframe width="640" height="564" src="https://player.vimeo.com/video/309312612" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+<iframe width="640" height="360" src="https://player.vimeo.com/video/309312612" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
 
 [Usine Vivante]: https://www.usinevivante.org/
