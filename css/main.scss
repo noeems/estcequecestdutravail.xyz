@@ -749,6 +749,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		.gallery img.rows-2 {
 			grid-row: span 2;
 		}
+		.gallery img.panorama {
+			grid-column: 1 / span 3;
+		}
 	}
 
 /* List */
