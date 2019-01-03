@@ -51,7 +51,7 @@ Barbara part le lendemain.
 <section class="gallery" markdown="span">
 ![Thomas carresse Nabu](/images/2018-11-01-beaufort-sur-gervanne/IMG_1756.JPG)
 ![Régal légumineux sur la terrasse](/images/2018-11-01-beaufort-sur-gervanne/IMG_20181103_150038.jpg)
-![Nabu le Grand](/images/2018-11-01-beaufort-sur-gervanne/IMG_1865.jpg)
+![Nabu le Grand](/images/2018-11-01-beaufort-sur-gervanne/IMG_1865.JPG)
 </section>
 
 <!-- Nabu -->
@@ -177,7 +177,7 @@ On sillonne les vallées, on grimpe, on voit la végétation changer en fonction
 
 <!-- Vues de rando - portrait -->
 <section class="gallery" markdown="span">
-![Tom Vellan](/images/2018-11-01-beaufort-sur-gervanne/IMG_1824.JPG)
+![Tom Vellan](/images/2018-11-01-beaufort-sur-gervanne/IMG_1824.jpg)
 ![Bergerie](/images/2018-11-01-beaufort-sur-gervanne/IMG_1846.JPG)
 ![Feuilles colorees](/images/2018-11-01-beaufort-sur-gervanne/IMG_1798.JPG)
 </section>
