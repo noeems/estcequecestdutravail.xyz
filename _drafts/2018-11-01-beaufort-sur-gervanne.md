@@ -103,9 +103,9 @@ Pour compléter la grande assemblée, on se rend à la commission 'Finance et ju
 Ça nous donne envie d'apporter notre soutien, de bien réfléchir à ce qu'on pourrait apporter et sous quelle forme. Ce n'est pas évident : on n'est pas encore installés, on n'a même pas encore détricoté si oui on non on aimerait vivre ici. On ne peut donc proposer qu'une aide ponctuelle, tout en essayant de faire avancer les choses.
 
 Tout ça nous donne matière à réfléchir.
-Il nous faudra un peu de temps pour digérer cette nouvelle.
-Nous nous sommes glissé·es sous le vernis et ce qui nous semblait acquis est un effort collectif constant.
-Il faut donc envisager tous les scénarios : **si l'Usine s'épuise, est-ce que notre intérêt pour Crest reste intact ?**
+Il nous faudra un peu de temps pour digérer cette nouvelle : **si l'Usine s'épuise, est-ce que notre intérêt pour Crest reste intact ?**
+Il faut envisager tous les scénarios, ce qui nous semblait acquis se révèle être un effort collectif constant.
+
 
 ### Marcher dans la nature
 
