@@ -11,9 +11,9 @@ author:
 _Nous avons séjourné à Beaufort-sur-Gervanne du 1er au 17 novembre 2018 — c'est notre neuvième mois d'itinérance._
 
 En juin dernier, la Drôme nous a beaucoup plu.
-On avait passé deux semaines à Crest ; à l'époque en pleine réflexion sur le ralentissement de notre itinérance. Deux semaines, c'était le luxe du temps long, la tranquilité de vivre sans s'empresser.
+[On avait passé deux semaines à Crest]({% link _posts/2018-05-27-crest.md %}) ; à l'époque en pleine réflexion sur le ralentissement de notre itinérance. Deux semaines, c'était le luxe du temps long, la tranquilité de vivre sans s'empresser.
 
-On a décidé de revenir 1 mois et demi dans la Drôme, à Beaufort-sur-Gervanne puis à Crest dans l'optique de vivre un quotidien là bas, et de confirmer ou infirmer une intuition quant à une future installation dans la vallée de la Drôme.
+On a décidé de revenir 1 mois et demi dans la Drôme, à Beaufort-sur-Gervanne puis à nouveau à Crest dans l'optique de vivre un quotidien là bas, et de confirmer ou infirmer une intuition quant à une future installation dans la vallée de la Drôme.
 
 <!--more-->
 
@@ -46,7 +46,7 @@ Barbara part le lendemain.
 
 ### Un quotidien à la campagne : contraste et adaptation
 
-Les premiers jours, nos esprits et nos corps doivent s'habituer à cet environnement nouveau. Le village de Beaufort abrite 400 personnes à l'année. Il y a un bar-hôtel-restaurant, une boulangerie ([Les Pains de Beaufort](http://www.painsdebeaufort.com/)), un bureau de Poste, [une épicerie associative](https://epiceriedebeaufort.wordpress.com) et un autre restaurant (qui ferme pour la saison).
+Les premiers jours, nos esprits et nos corps doivent s'habituer à cet environnement nouveau. Le village de Beaufort abrite 400 personnes à l'année. Il y a un bar-hôtel-restaurant, une coopérative boulangère ([Les Pains de Beaufort](http://www.painsdebeaufort.com/)), un bureau de Poste, [une épicerie associative](https://epiceriedebeaufort.wordpress.com) et un autre restaurant (qui ferme pour l'hiver).
 
 J'ai un vertige de changement d'échelle qui s'installe, mêlé d'une peur souterraine qui refuse de se nommer. Je n'ai pas le permis, et de toute façon, nous n'avons pas de voiture. Aucun bus à l'horizon. Il va falloir faire avec.
 
@@ -56,50 +56,56 @@ On commence à faire du stop pour se rendre au marché. Ça marche bien, souvent
 
 ### Anecdotes d'auto-stop
 
-- la personne qui nous demande si on aime la chasse, et nous dit " de toute façon l'endroit idéal n'existe pas"
-- les personnes de la chorale du 11 novembre ; c'est chouette de voir des enfants courir dans la rue, c'est vivant. Le comble du chic Drômois c'est d'avoir vue sur les Trois Becs.
-- la personne qui voulait vivre en Ardèche, qui avait tout quadrillé avec ses ânes ; il adore la région mais comme il a la sensation d'avoir tout vu, il a envie d'aller ailleurs (mais aussi "naturel").
-- la personne qui bosse à l'usine de Beaufort ; il nous raconte la transition de propriétaire à l'usine, que c'est devenu plus dur pour certain·es mais que lui ça va, parce qu'il n'est pas dans "la chaîne".
-- la personne qui fumait beaucoup, anciennement en production dans le cinéma, maintenant éduc spé, qui adore habiter à Beaufort pour le calme, la nature et le changement de rythme de vie.
-- la personne qui parlait de l'arrivée massive de nouvelles personnes dans la Drôme depuis 10 ans ; à raccrocher avec une autre personne qui nous disait qu'elle voyait d'un bon œil l'arrivée des néo-ruraux, ils s'installent pour faire des fromages ou des produits de qualité.
-- la personne rencontrée la veille au café avec son van en direction de Barcelone, souriant, il nous a reconnu, il file volontiers un coup de main.
-- la personne qui nous a raconté son arrivée ici et l'épanouissement de ses enfants dans la nature.
+Voici justement un petit florilège de ce qui a ponctué nos trajets en stop :
+
+- la personne qui nous demande si on aime la chasse, et nous dit <q>de toute façon l'endroit idéal n'existe pas</q> ;
+- les personnes de la chorale du 11 novembre ; c'est chouette de voir des enfants courir dans la rue, c'est vivant. Le comble du chic Drômois c'est de vivre avec une vue sur les Trois Becs ;
+- la personne qui voulait vivre en Ardèche, qui avait tout quadrillé avec ses ânes ; il adore la région mais comme il a la sensation d'avoir tout vu, il a envie d'aller ailleurs (mais dans un endroit "aussi naturel") ;
+- la personne qui bosse à l'usine de Beaufort ; il nous raconte la transition de propriétaire à l'usine, que c'est devenu plus dur pour certain·es mais que lui ça va, parce qu'il n'est pas dans "la chaîne" ;
+- la personne qui fumait beaucoup, anciennement en production dans le cinéma, maintenant éduc' spé, qui adore habiter à Beaufort pour le calme, la nature et le changement de rythme de vie ;
+- la personne qui parlait de l'arrivée massive de nouvelles personnes dans la Drôme depuis 10 ans ; à raccrocher avec une autre personne qui nous disait qu'elle voyait d'un bon œil l'arrivée des néo-ruraux, ils s'installent pour faire des fromages ou des produits de qualité ;
+- la personne rencontrée la veille au café avec son van en direction de Barcelone, souriant, il nous a reconnu, il file volontiers un coup de main ;
+- la personne qui nous a raconté son arrivée ici et l'épanouissement de ses enfants dans la nature ;
 - la personne qui bossait au centre de jeûne de Plain-de-Baix ; la durée de trajet idéale, y'a tout ce qu'il lui faut, il nous raconte que les chefs de grandes entreprises viennent là pour arrêter l'alcool et la coke pendant une semaine.
 
-Seul dénominateur commun ? Les Drômois•es s'accordent pour dire qu'il se passe quelque chose de particulier ici.
-C'est vivant. De nouvelles personnes viennent constamment s'installer, le solde démographique est positif. Des projets fleurissent un peu partout dans la vallée. L'épicerie de Beaufort en est un signe, l'Usine Vivante en est un autre, l'été il y a un bar à vins naturels éphémère à quelques kilomètres de là...
+Le dénominateur commun ? Les Drômois•es s'accordent pour dire qu'il se passe quelque chose de particulier ici.
+C'est vivant. De nouvelles personnes viennent constamment s'installer, le solde démographique est positif. Des projets fleurissent un peu partout dans la vallée. L'épicerie de Beaufort en est un signe, l'Usine Vivante en est un autre. L'été il y a même un [bar à vins naturels éphémère](https://www.facebook.com/evidencebaravin/) à quelques kilomètres de là...
 
 ### La biovallée
 
-Information non-négligeable, la Drôme est la première région bio de France, 20% des terrains le sont contre 5% en moyenne ailleurs en France.
-Au marché, ça se voit. C'est ce qui nous a séduit la première fois, et qu'on retrouve le samedi matin à Crest. Les étals sont beaux. On croise les producteurs passionnés, on peut discuter avec eux. Et tout a un goût merveilleux. Jusqu'à la moindre carotte. Imaginez un peu.
+Information non-négligeable, la Drôme est la première région bio de France : 20% des terrains le sont contre 5% en moyenne ailleurs en France.
+Au marché, ça se voit. C'est ce qui nous a [séduit la première fois]({% link _posts/2018-05-27-crest.md %}). Les étals sont beaux. On croise les producteurs passionnés, on peut discuter avec eux. Et tout a un goût merveilleux. Jusqu'à la moindre carotte. Imaginez un peu.
 
-On l'a compris pendant ce voyage, c'est quelque chose qui nous tient à cœur. On veut mettre de bonnes choses dans nos corps, respecter la terre, mieux rémunérer les producteurs, respecter les animaux, manger le moins d'antibiotiques et de pesticides possible. Ça paraît d'un bon sens implacable, et comme vous le savez sans doute, c'est plus compliqué qu'il n'y paraît.
+On l'a compris pendant ce voyage, c'est quelque chose qui nous tient à cœur. On veut mettre de bonnes choses dans nos corps, respecter la terre, mieux rémunérer les producteurs, respecter les animaux, manger le moins d'antibiotiques et de pesticides possible. Ça paraît d'un bon sens implacable, et comme vous le savez peut-être, c'est plus compliqué qu'il n'y paraît.
 C'est un processus qui _coûte_ plus, en temps, en vigilance et en argent.
-En venant ici, on se sentirait bien plus proche de ce qui nous parle : des productions respectueuses. On rencontre des boulangers qui font eux-même leur production de céréales anciennes, font eux-même leur mouture, font eux-même leur pain au levain naturel. Des vrais passionnés. Je ne pensais jamais être autant transportée par du pain, du pain vivant (sur ce sujet, [À la recherche du pain vivant](https://www.actes-sud.fr/catalogue/cuisine-et-gastronomie/la-recherche-du-pain-vivant) de Roland Feuillas et Jean-Philippe de Tonnac est un excellent bouquin.)
+En venant ici, on se sent proche de ce qui nous parle : des productions respectueuses. On rencontre des boulangers qui font eux-même leur production de céréales anciennes, font eux-même leur mouture, font eux-même leur pain au levain naturel. Des vrais passionnés. Je ne pensais jamais être autant transportée par du pain, du pain vivant — sur ce sujet, [À la recherche du pain vivant](https://www.actes-sud.fr/catalogue/cuisine-et-gastronomie/la-recherche-du-pain-vivant) de Roland Feuillas et Jean-Philippe de Tonnac est un excellent bouquin.
 
 ### L'Usine est-elle assez vivante pour grandir ?
 
 Si on remonte à la racine de notre recherche, elle se situe autour d'un nouveau lieu de vie _et_ de projets auxquels participer.
-Crest et l'Usine Vivante avaient piqué notre curiosité l'été dernier.
-Deux jours après notre arrivée, on reçoit une invitation à une grande assemblée.
-L'Usine, locataire jusqu'ici d'anciens bâtiments de l'industrie automobile, a reçu une offre de vente d'un des deux bâtiments, pour pouvoir s'étendre et accueillir du public.
+Crest et l'[Usine Vivante][] avaient piqué notre curiosité l'été dernier.
 
-Alors, l'Usine a-t-elle les forces vives pour mener ce projet à bien ?
+Deux jours après notre arrivée à Beaufort, coïncidence : on reçoit une invitation à une grande assemblée.
+L'Usine, locataire jusqu'ici du bâtiment central de cette ancienne usine automobile, a reçu une offre de vente, pour s'étendre sur un bâtiment supplémentaire et s'ouvrir au public.
 
-Dans l'idée initiale qui a porté ce projet, le lieu devait avoir ces deux pôles : un endroit où un collectif de gens se retrouve pour travailler, déjeuner ensemble, faire vivre le jardin, etc - et un café ouvert sur la ville, plus ouvert vers l'extérieur.
+> L'Usine a-t-elle les forces vives pour mener ce projet à bien ?
+
+Dans l'idée initiale qui a porté ce projet, le lieu devait avoir ces deux pôles : un endroit où un collectif de gens se retrouve pour travailler, déjeuner, faire vivre le jardin, etc - ainsi qu'un café ouvert sur la ville, plus ouvert vers l'extérieur.
 
 L'Usine Vivante a trois ans et vit grâce à des forces bénévoles. Elle a besoin de nouveaux bras, de nouveaux cerveaux et d'envies fraîches pour reprendre son élan et entamer ce nouveau chapitre.
 
-On trouve des points communs avec une de nos toutes premières étapes de voyage : l'intercoop des supermarchés coopératifs et son souci de l'essouflement / l'épuisement progressif de bénévoles surinvestis.
+On trouve des points communs avec une de nos toutes premières étapes de voyage : l'[intercoop des supermarchés coopératifs]({% link _posts/2018-04-12-intercoop-la-cagette.md %}) et son souci de l'essouflement / l'épuisement progressif de bénévoles surinvestis.
 
-Au fur et à mesure des discussions, on glâne des informations. On saisit toute la complexité du projet. Par curiosité, on se rend au groupe 'Finance et juridique' pour mieux saisir les tenants et aboutissants du projet. On comprend tout la force qu'il a fallu pour que ce projet naisse et qu'il tienne, et ce qu'il faudrait pour qu'il puisse fleurir.
+Au fur et à mesure des discussions, on glâne des informations. On saisit toute la complexité du projet. Derrière un lieu unique se cachent plusieurs dynamiques : celle des résident·es, celle des bénévoles, celle des salarié·es. Les intérêts, les envies et le temps libre varient. Acheter ou ne pas acheter l'aile, à quel prix ? Les réponses divergent.
 
-Ça donne envie d'apporter notre soutien et notre renfort, de bien réfléchir à ce qu'on pourrait apporter et sous quelle forme. Ce n'est pas évident : on n'est pas encore installés, on n'a même pas encore détricoté si oui on non on aimerait vivre ici. On ne peut donc proposer qu'une aide ponctuelle, tout en essayant de faire avancer les choses.
+Pour compléter la grande assemblée, on se rend à la commission 'Finance et juridique' pour mieux saisir les tenants et aboutissants du projet, notamment son impact financier. On mesure toute la force qu'il a fallu pour que ce projet naisse, pour qu'il tienne, et ce qu'il faudrait pour qu'il s'épanouisse davantage.
 
-Pour nous aussi, il faudra un peu de temps pour digérer cette nouvelle.
-Il faut envisager tous les scénarios.
-**Si l'Usine s'épuise, est-ce que notre intérêt pour Crest reste intact ?**
+Ça nous donne envie d'apporter notre soutien, de bien réfléchir à ce qu'on pourrait apporter et sous quelle forme. Ce n'est pas évident : on n'est pas encore installés, on n'a même pas encore détricoté si oui on non on aimerait vivre ici. On ne peut donc proposer qu'une aide ponctuelle, tout en essayant de faire avancer les choses.
+
+Tout ça nous donne matière à réfléchir.
+Il nous faudra un peu de temps pour digérer cette nouvelle : **si l'Usine s'épuise, est-ce que notre intérêt pour Crest reste intact ?**
+Il faut envisager tous les scénarios, ce qui nous semblait acquis se révèle être un effort collectif constant.
+
 
 ### Marcher dans la nature
 
@@ -111,10 +117,10 @@ On sillonne les vallées, on grimpe, on voit la végétation changer en fonction
 
 On s'aventure d'abord à pied de la maison jusqu'à Gigors.
 Puis à la Croix du Vellan.
-Puis carrément jusqu'à Font d'Urle. On grimpe tellement haut que les rapaces nous cotoient et qu'on a vue sur toute la vallée. Les Trois Becs toujours en repère.
+Puis carrément jusqu'à Font d'Urle, au cœur du massif du Vercors. On grimpe suffisamment haut pour que les rapaces nous cotoient. On a vue sur toute la vallée, les Trois Becs toujours en repère.
 Jamais été aussi contents d'être flexibles dans notre cadre de travail.
 
-La nuit tombe vite, ces jours-ci. On passe les soirées à câliner Nabu, qui nous fait bien comprendre que c'est "his way or the high way" : il a des pendants pour les aisselles des gens, s'étaler de tout son long sur la poitrine de son réceptacle...
+La nuit tombe vite, ces jours-ci. On passe les soirées à câliner Nabu, qui nous fait bien comprendre que c'est "his way or the high way" : il a un penchant pour les aisselles des gens, s'étaler de tout son long sur la poitrine de son réceptacle...
 On recharge nos batteries de ronrons. Preuve à l'appui :
 
 ### On repart avec quoi ?
@@ -130,3 +136,5 @@ On recharge nos batteries de ronrons. Preuve à l'appui :
 - Les chemins de randonnée, qu'ils partent au pied de la maison ou au-delà de cols dans le Vercors, nous coupent le souffle !
 - Les 3 semaines qui vont suivre, on va être à Crest, 8000 habitants vs 400, et "comparer" nos vécus de la Vallée, à 15 kilomètres d'écart ; les impacts sur notre vie et sur nos envies d'implantation
 - Noémie : faire l'expérience de cadres de vie de petite échelle comme celui-ci me fait voir Crest d'une manière différente, je la considère plus comme une ville parmi des villages.
+
+[Usine Vivante]: https://www.usinevivante.org/
