@@ -1855,6 +1855,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			@include vendor('transform', 'scale(1)');
 //		@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
 			@include vendor('transition', ('transform 0.2s ease', 'opacity 0.2s ease'));
+			background-color: rgba(0, 0, 0, .4);
 			display: inline-block;
 			opacity: 1;
 			padding: 0.35em 1em;
@@ -1887,7 +1888,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		p {
+			background-color: rgba(0, 0, 0, .4);
+			display: inline-block;
 			letter-spacing: _size(letter-spacing-alt);
+			padding: .5em 1em;
 			text-transform: uppercase;
 
 			a {
