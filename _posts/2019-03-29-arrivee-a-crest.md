@@ -38,7 +38,7 @@ Pendant l'itinérance, Thomas avait un sac à dos de 60L et moi de 35L, en plus 
 
 C'est pas rien.
 
-Un immense merci à celles et ceux qu'on a croisé sur la route, qui nous ont offert des sourires, qui ont partagé un verre, qui nous ont invité chez eux...
+Un immense merci à celles et ceux qu'on a croisé sur la route, avec qui on a partagé des discussions, avec qui on a partagé un verre, qui nous ont invité chez eux...
 
 <!-- Déménagement -->
 <section class="gallery" markdown="span">
