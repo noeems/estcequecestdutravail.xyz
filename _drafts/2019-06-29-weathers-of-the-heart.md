@@ -44,43 +44,78 @@ Et oui, peut être que maintenant je vais devoir passer aux aveux inavouables : 
 Ben, on n'est jamais sûr.es de rien, et peut être que ça fait de nous des gens un peu barges mais ça nous a filé un sacré coup de main à des moments pas évidents.
 
 Alors on a commencé à se donner rendez-vous pour parler de nous.  
-Pourtant, on n'est pas nés de la dernière pluie, on en a fait du chemin émotionnel, ensemble et chacun de son côté.
+Pourtant, on n'est pas nés de la dernière pluie, on en a fait du chemin émotionnel, ensemble et chacun de son côté. Mais ces moments où on sait qu'on passe du temps uniquement à prendre soin de nous et de notre relation apporte quelque chose de différent.
 
-##### Les classiques
-• **Météo** : ce grand classique. Tour rapide de parole pour dire comment on se sent : fatigué ou débordant.e d'énergie, nerveux ou serein.e...  
-• **Souvenirs de la dernière rétro, s'il y en a une.  
+Possible que certains formats vous paraissent un peu "gnan-gnan", dégoulinants ou déjà vu.
+À vous de picorer et voir ce qui vous paraît le plus adapté votre singularité et celle de votre relation, le but étant de ne surtout pas se forcer, ou de sentir qu'on se conforme à une recette pré-établie. Mieux vaut bricoler les formats qui nous conviennent et dans lesquels on peut se sentir le plus fidèle à soi, même dans ces moments qui peuvent sembler artificiels en théorie.
+
+Une de mes sorcières préférées donne ce conseil : "Consider the energy you bring into a space."  
+Si l'idée te rebute dès le début, c'est que ça n'est pas le bon outil pour toi. Chacun.e porte la responsabilité de trouver ce qui lui convient.  
+C'est la même chose que dans les rétrospectives au travail : l'idée, c'est que toutes les personnes participantes y soient de leur plein gré. Que tout soit propositionnel, adaptable à tout moment.  
+If this isn't your jam, make your own.  
+
+Je me suis inspirée en partie de ce site, et d'autres formats viennent de... ma tête.
+
+NB : j'écris cet article dans le contexte d'une relation monogame (mot affreux mais passons). Les relations ouvertes et/ou polyamoureuses ont exploré la sécurité affective depuis bien longtemps et ont certainement des manières super intéressantes d'aborder ce sujet. A voir si certaines sections de ces propositions peuvent s'adapter ou non à des participant.es multiples.
+
+##### Ouverture
+• **Météo**  
+Grand classique. Tour rapide de parole pour dire comment chacun.e se sent : fatigué, débordant.e d'énergie, nerveux, serein.e...  
+
+• **Souvenirs de la dernière rétro.  
 Comment se sent-on depuis ? Qu'est-ce qui a changé ?**  
 
+##### Réparer
 • **Merci** :
-Je vous mets au défi de demander aux gens autour de vous s'ils se sentent assez reconnus pour les efforts, les attentions, le travail qu'ils fournissent. C'est le moment de se plonger dans la gratitude pour se remercier - de choses profondes ou de celles du quotidien.    
+Je vous mets au défi de demander aux personnes autour de vous si elles sentent qu'elles reçoivent assez reconnaissance pour les efforts, l'attentions, le travail qu'elles fournissent. C'est le moment de se plonger dans la gratitude pour se remercier - de choses profondes ou de celles du quotidien.     
 
-• **Je te présente mes excuses pour...** : L'occasion de formuler (ou de réitérer !) des excuses. Parfois, ce n'est pas évident de demander pardon, surtout sur le moment. Mis bout à bout, ces petites occurrences peuvent peser bien lourd... C'est le moment de panser un peu les plaies.  
+• **Je te présente mes excuses pour...** : L'occasion de formuler (ou de réitérer !) des excuses. Parfois, ce n'est pas évident de demander pardon, surtout sur le moment. Mises bout à bout, ces petites et grandes blessures s'accumulent, et finissent par peser lourd dans nos interactions au quotidien, qu'on en soit conscient.es ou non. C'est le moment de verbaliser le problème, quelle que soit l'échelle, de partager sa version et recevoir ce dont on a besoin pour dépasser la chose.
 
 ##### Prendre du recul
 • **4 Ls - Loved, Learned, Lacked, Longed for**  
+Retour sur le mois qui vient de passer.  
+Qu'avez-vous aimé, appris, qu'est-ce qui vous a manqué, qu'auriez-vous aimé avoir ou recevoir ?  
 
-• **La boîte à relation (j'enlève, j'ajoute)**  
+• **La boîte à relation (j'enlève, j'ajoute) ou 'The hopes & fears box'**  
+Crée un cadre de partage pour parler d'un truc qui vous dérange ou qui vous manque, mais vous n'aviez pas réussi à trouver un bon moment pour l'aborder. Explicitez vos besoins, observez les points communs et la manière dont les expériences et les demandes diffèrent l'une de l'autre.
 
 • **Les chantiers du moment (pour toi, pour moi)**  
+On ne prend pas toujours le temps de parler aux autres de ce qui se passe à l'intérieur de soi.   Quelles réflexions nous habitent, qu'est-ce qu'on a réalisé récemment, qu'est-ce qu'on essaie consciemment de changer en ce moment, quelles difficultés est-ce qu'on traverse ?  
 
 ##### Dé-centrer son regard, comprendre ce que traverse l'autre
 • **Drawing together**
-Draw what you've seen of the other person's journey / your journey / both
-• **Where are we now / where will we be next**
-Next season? Next year?
-Pragmatic and/or ideal versions, exercise for alignment and wishing things into being. Clarification.
-• **Nos récits sur les années passées : quelles ont été nos crises ? quels étaient nos plus beaux moments ? (dessin-frise)**
+Dessiner sa compréhension de sa propre trajectoire / celle de l'autre / celle de la relation sur un temps récent. Partager et voir combien les versions se recoupent... ou non. Ça permet de voir sur quoi chacun.e met l'accent.
 
-• **Listening without answering**
-Making sure our perspectives are really heard by the other person. A space to say what we're usually afraid to say. Creating a better understanding of our mutual mindscapes. The listener can take notes if he/she is afraid to forget things to say afterwards, or to create perspective for him/her to reflect on.
-• **The hopes & fears box**
-The time to open up about things in the back of your mind you've not known how or when to address.
+• **Où sommes-nous maintenant / où allons-nous ensemble ?**  
+On sera où à la saison prochaine ? L'année prochaine ?  
+On peut imaginer des versions idéales ou des versions réalistes de cet exercice qui sert à se projeter et à clarifier ses intentions.
+
+• **Nos récits intérieurs : quelles ont été nos crises ? Quels étaient nos plus beaux moments ?**  
+Comment est-ce qu'on se raconte ? Les réponses divergentes vont probablement soulever des sujets à approfondir.  
+
 • **Tell me something I don’t know**
+Même constat, on n'extériorise jamais autant qu'on ne pense 
+
+• **L'écoute en silence**
+Making sure our perspectives are really heard by the other person. A space to say what we're usually afraid to say. Creating a better understanding of our mutual mindscapes. The listener can take notes if he/she is afraid to forget things to say afterwards, or to create perspective for him/her to reflect on.
+
 • **Le temps des questions (que je te pose, que je voudrais que tu me poses)**  
 
-#### Conclure
+##### Conclure
 • **Demain, tu fais quoi pour te faire du bien ?**  
-• **On se revoit quand ?**
-• **Qu'est-ce qu'on met concrètement en place ? Individuellement, et dans la relation ?**
-• **Comment est-ce que je peux te soutenir ? , how can I support myself ? (pendant le mois à venir)**
+• **On se revoit quand ?**  
+• **Qu'est-ce qu'on met en place, concrètement ? Individuellement, et dans la relation ?**  
+• **Comment est-ce que je peux te soutenir ? Comment puis-je mieux respecter mes propres besoins ? (concrètement, dans le mois à venir)** (première question tirée du [principe de "stewarding" chez Loomio](https://loomio.coop/stewarding.html))  
 • **Écrire ou dessiner ce qui nous a le plus touché, ce qu'on a appris**
+
+#### Labour of love
+Est-ce que c'est du travail ? Oui.  
+Une BD a popularisé la notion de charge mentale en France, et on commence à se réchauffer à l'idée qu'il existe une charge émotionnelle bien spécifique à celle d'un couple hétéro.  
+C'est utile de se demander qui fait le travail émotionnel dans le groupe ?  
+Qui investit son temps dans le fait de déconstruire et comprendre ce qui se passe ? Qui fait le travail d'introspection pour pouvoir mieux créer des passerelles ?  
+Est-ce que c'est déséquilibré ? Est-ce que c'est super-genré ?  
+La plupart du temps la réponse est oui, parce que qu'on est humains, que c'est le bordel, que c'est le reflet de notre société hétéro-patriarcale et qu'on ne peut pas tout maîtriser consciemment.
+
+Personnellement, j'ai ressenti un énorme besoin de poser ces questions et de regarder les réponses en face (même celles qui me déplaisent profondément, comme celles qui concernent ma responsabilité dans ces schémas, au hasard). L'idée c'est de s'accompagner dans nos remises en question et d'ajuster la trajectoire.
+
+Les deux années qui viennent de passer ont probablement été à proportion égale les plus riches et les plus éprouvantes de ma vie, maintenant j'ai besoin de repos, de racines, de clarté. De temps pour célébrer (mon courage, ma fatigue, ma prise de risque, ma détermination).
