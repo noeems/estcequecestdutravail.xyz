@@ -143,11 +143,11 @@ Article écrit en écoutant beaucoup 🎧 Herizen - _[Do What You Want To](https
 "Sometimes it feels like it is all bad, but it gets better"_  
 et période influencée grandement par Adrienne Maree Brown, son livre 📚 _[Pleasure Activism](https://www.akpress.org/pleasure-activism.html)_ et sa question "Who taught you to feel good ?"
 
-#### Side note : la recette de l'article
-Vous avez été plusieurs à demander comment on faisait pour tenir ce blog à deux.  
-C'est loin d'être évident. L'exercice de l'écriture en soi est difficile, à deux n'en parlons pas. (Même si on a développé quelques méthodes pour nos articles co-écrits).  
-Il faut que chacun.e soit disponible sur un temps donné. Pas évident quand on jongle entre plusieurs projets à la fois.   
-Parfois, on a volontairement publié des articles co-signés et écrits à la première personne pour que nos ressentis se mêlent sans qu'il soit forcément nécessaire de retracer à qui appartient quelle expérience.
+#### ✐ la recette de l'article ✐
+Certains d'entre vous ont demandé comment on faisait pour tenir ce blog à deux.  
+C'est loin d'être évident. L'exercice de l'écriture est difficile en soi, à deux n'en parlons pas. (Même si on a développé quelques méthodes pour nos articles co-écrits).  
+Il faut que chacun.e soit disponible sur un temps donné. Pas évident quand on jongle entre plusieurs projets à la fois, comme c'est le cas pour nous.   
+Parfois, on a volontairement publié des articles co-signés et écrits à la première personne pour que nos ressentis se mêlent sans qu'il soit forcément nécessaire de retracer à qui appartient telle ou telle expérience.
 
 **Alors comment a-t-on fait cette fois-ci ?**   
 D'abord, j'écris la trame de l'article en partant de la base de nos formats de rétrospective : c'est la matière première de mon brouillon.  
@@ -162,3 +162,4 @@ En général, j'ai passé beaucoup de temps à écrire, j'ai le nez dedans, et �
 
 Je prends des notes, je change, j'ajoute tout un tas de choses.  
 Et à partir de là, on est en bonne voie pour la publication.
+C'est comme ça qu'on a fonctionné, la plupart du temps, pour nos articles passés !
