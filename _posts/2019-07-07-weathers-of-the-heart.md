@@ -18,7 +18,7 @@ Au-delà de ça, j'ai pris conscience que mes réseaux sociaux (et dans une cert
 Équilibre difficile à atteindre.
 
 Alors j'ai voulu raconter combien l'itinérance nous a mis à l'épreuve à la fois individuellement et dans notre relation.
-Comment on a tatonné , quelles pistes on a trouvé, et comment on a bricolé des outils qui nous ont apporté un peu d'aide en chemin.
+Comment on a tâtonné, quelles pistes on a trouvé, et comment on a bricolé des outils qui nous ont apporté un peu d'aide en chemin.
 
 ### Secouer les structures de stabilité
 Je ne compte plus le nombre de fois où on m'a parlé de [la pyramide de Maslow](https://fr.wikipedia.org/wiki/Pyramide_des_besoins#cite_note-2).  
