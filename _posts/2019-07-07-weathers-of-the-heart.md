@@ -9,12 +9,13 @@ author:
 >If we think of love as a feeling we tend to expect it to always feel good, a view that is self-focused + unrealistic. If we think of love as an action, we make room for the range of feelings that relationship involves, including disappointment, anger + frustration.  
 [Jessica Dore](https://twitter.com/thejessicadore/status/1146047702058381313)
 
-Depuis la fin de notre itinérance et le début de notre ancrage à Crest, plusieurs personnes sont venues prendre des nouvelles, demander comment ça allait, en disant : « si je m'en tiens à tes photos ça a l'air génial ! »
+Depuis la fin de notre itinérance et le début de notre ancrage à Crest, plusieurs personnes sont venues prendre des nouvelles, demander comment ça allait, en disant : « si je m'en tiens à tes photos ça a l'air génial ! »  
 À un moment où, en réalité, je traversais une période très difficile. Cet énorme décalage avec mon ressenti m'a fait un choc. Comme si j'avais trahi quelque chose qui me tenait beaucoup à cœur : être transparente sur les aspects difficiles de l'itinérance, ne pas en arrondir les angles pour présenter une version lisse, "acceptable" ou facile à fantasmer. Véhiculer des imaginaires creux, ça ne m'intéresse pas. Où était passée la ruguosité de nos expériences ?
 
 Je pense qu'on était au plus proche de cette intention de discours nuancé et fidèle à notre vécu quand on a écrit [nos joies et nos peines](https://estcequecestdutravail.xyz/2018/09/joies-et-peines.html) à mi-parcours.
 
-Au-delà de ça, j'ai pris conscience que mes réseaux sociaux (et dans une certaine mesure la newsletter) proposaient des updates de la vie douce, par facilité. Parce que la difficulté et la tristesse nécessitent plus de recul, parce qu'il faut attendre qu'un peu de clarté se dégage. Et sans doute aussi par pudeur : ce sont des parts qui touchent de près une intimité qui n'a pas forcément vocation à être dévoilée.  
+Au-delà de ça, j'ai pris conscience que mes réseaux sociaux (et dans une certaine mesure la newsletter) proposaient des updates de la vie douce par facilité.  
+Parce que la difficulté et la tristesse nécessitent plus de recul, parce qu'il faut attendre qu'un peu de clarté se dégage. Et sans doute aussi par pudeur : ce sont des parts qui touchent de près une intimité qui n'a pas forcément vocation à être dévoilée.  
 Équilibre difficile à atteindre.
 
 Alors j'ai voulu raconter combien l'itinérance nous a mis à l'épreuve à la fois individuellement et dans notre relation.
