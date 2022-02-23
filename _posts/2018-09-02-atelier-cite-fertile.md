@@ -4,18 +4,18 @@ excerpt: Samedi 15 septembre à 15h
 image: /images/2018-09-02-cite-fertile/ouigonono.jpg
 author:
 - noeems
-- oncletom
+- thom4parisot
 ---
 🎧 À écouter avec ceci : [Pourquoi tant de friches ?](https://www.franceculture.fr/emissions/la-grande-table-dete/pourquoi-tant-de-friches)
 
-Il y a quelques mois, on a reçu un email de Laure. Elle s'occupe de la programmation chez Sinny & Ooko, et tout particulièrement pour leur nouveau lieu la Cité fertile (c'est une ancienne collègue de Noémie de la Gaîté lyrique).  
+Il y a quelques mois, on a reçu un email de Laure. Elle s'occupe de la programmation chez Sinny & Ooko, et tout particulièrement pour leur nouveau lieu la Cité fertile (c'est une ancienne collègue de Noémie de la Gaîté lyrique).
 Elle a suivi notre démarche et voulait discuter pour voir si on serait partants pour faire un retour d'expérience sur notre itinérance jusqu'ici.
 
 La Cité fertile a ouvert cet été dans un ancien site ferroviaire de la SNCF et le futur éco-quartier de Pantin. Pendant 3 ans, le programme tournera autour de l'agriculture urbaine, le futur des villes et de la citoyenneté.
 
 ### Vivre en itinérance, changer de vie petit à petit
-Plutôt que de dérouler un récit, nous avons tout de suite eu envie d'ouvrir le format. De répondre aux interrogations des gens.  
-De quoi sont-ils curieux ? Qu'est-ce qui les retient ?   
+Plutôt que de dérouler un récit, nous avons tout de suite eu envie d'ouvrir le format. De répondre aux interrogations des gens.
+De quoi sont-ils curieux ? Qu'est-ce qui les retient ?
 Si vous avez des ami.e.s qui s'intéressent à ces sujets, qui ne savent pas trop comment s'y prendre, qui ont imaginé des choses mais ont du mal à passer au concret, indiquez-leur la date, on sera ravi.e.s de discuter.
 
 ##### La discussion

@@ -21,7 +21,7 @@ _Dans cet article je ne parle pas beaucoup de la ville, je me penche plutôt sur
 Après avoir été absorbés par la richesse des échanges à [l'intercoopérative](http://estcequecestdutravail.xyz/2018/04/intercoop-la-cagette.html), ce n'est pas désagréable de prendre un rythme plus doux.
 
 [Stéphane](http://scopyleft.fr/) est dans les parages.
-On profite de sa présence : il lance quelques questions à Thomas pour l'aider à clarifier ses intentions sur l'écriture de [son livre](https://github.com/oncletom/nodebook) (Apprendre Node.js sans se prendre la tête et en français).
+On profite de sa présence : il lance quelques questions à Thomas pour l'aider à clarifier ses intentions sur l'écriture de [son livre](https://github.com/thom4parisot/nodebook) (Apprendre Node.js sans se prendre la tête et en français).
 A travers ça et la documentation de nos voyages qui prend pas mal de retard, je me rends compte que l'écriture est un exercice d'endurance, qu'on peut vite perdre son souffle sans quelques regards extérieurs, quelques discussions qui viennent nourrir la réflexion et qui redonnent des forces.
 
 Au détour de nos échanges avec Stéphane, on aborde pas mal de choses, dont beaucoup font écho à notre itinérance :

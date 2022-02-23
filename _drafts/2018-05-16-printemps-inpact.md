@@ -3,7 +3,7 @@ title: Bénévole en Beauce pour un festival d'agro-écologie paysanne
 excerpt: Printemps d'InPACT
 image: images/2018-05-16-printemps-inpact/printemps-inpact.jpg
 author:
-- oncletom
+- thom4parisot
 ---
 
 Trucs que j'ai vu en off :

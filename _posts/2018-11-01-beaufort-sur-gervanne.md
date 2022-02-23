@@ -5,7 +5,7 @@ image: /images/2018-11-01-beaufort-sur-gervanne/Coucher de soleil sur la vallee.
 date: 2019-01-03
 author:
 - noeems
-- oncletom
+- thom4parisot
 ---
 
 _Nous avons séjourné à Beaufort-sur-Gervanne du 1er au 17 novembre 2018 — c'est notre neuvième mois d'itinérance._

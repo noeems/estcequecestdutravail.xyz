@@ -136,7 +136,7 @@ Portland est en fait une presqu'île (et non pas une île), un énorme rocher, e
 Et à côté, ça ne respire pas la joie. Ici, on est dans un cottage à trois, pas d'hôtes à (peut être) déranger, mais en bonus, le bruit des voitures passantes en stéréo...
 Moi qui pensais avoir trouvé un endroit plein de 'mignonceté', je me suis bien trompée. On en profite pour plonger chacun dans nos projets.
 
-Thomas continue d'écrire [son livre sur Node.js](https://oncletom.io/node.js/).
+Thomas continue d'écrire [son livre sur Node.js](https://apprendre-nodejs.fr/v1/).
 Et tout ça s'entrecoupe de marches pour explorer les environs. Le sud de la presqu'île est bien plus sauvage et agréable, d'ailleurs c'est une réserve naturelle d'oiseaux.
 
 La méga bonne nouvelle : Thomas avait emporté à peu près cinq kilos de farine dans son sac, et on peut à nouveau faire du pain !

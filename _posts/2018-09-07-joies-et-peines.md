@@ -5,7 +5,7 @@ excerpt: Les joies et les peines
 image: /images/2018-09-07-joies-et-peines/carte relief.jpg
 author:
 - noeems
-- oncletom
+- thom4parisot
 ---
 
 Depuis mars, on a fait 35 étapes, principalement en France mais aussi en Angleterre ([souvenez-vous]({% link _posts/2018-03-05-voir-londres-et-partir.md %})).

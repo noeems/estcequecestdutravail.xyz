@@ -5,7 +5,7 @@ date: 2018-06-05
 image: /images/2018-03-26-entretien-valentin/liberte-living-lab.jpg
 author:
 - noeems
-- oncletom
+- thom4parisot
 ---
 
 **Thèmes** : communs, technologie, démocratie, citoyenneté, participation, service public, design de service...
@@ -95,27 +95,27 @@ Une fois les objectifs de la plateforme définis, le projet nécessite un accomp
 Pour les associations ou collectivités qui se lancent dans ce genre d'expérimentation participative, il est parfois difficile de fournir et rassembler les ressources internes (en investissement, en disponibilité, en compétences) pour créer une vraie dynamique.
 
 ### Les difficultés
-**La demande des collectivités**  
+**La demande des collectivités**
 La demande se situe plus sur un système participatif et engageant, démocratiquement parlant.
 La réflexion sur la contribution aux communs est encore très peu répandue et arrive au second plan dans la plupart des cas.
 
-**Le travail dans l'urgence, le travail à distance**  
+**Le travail dans l'urgence, le travail à distance**
 Les demandes qui arrivent chez Open Source Politics sont souvent associées à un évènement ou une échéance en particulier, ce qui peut pénaliser certains projets si le temps de déploiement est insuffisant. Dans l'urgence et les budgets serrés, la contribution aux communs a du mal à passer.
 
 Le travail à distance reste compliqué, et plus ou moins adapté selon les métiers.
 Pour le volet technologique, la petite équipe d'Open Source Politics fonctionne avec la constellation de freelances sourcés du réseau [Happy Dev](https://happy-dev.fr/) — ce qui favorise une culture commune.
 
-**Toucher tout le monde**  
+**Toucher tout le monde**
 >Les technologies de la citoyenneté sont pleines de promesses. Nos attentes collectives sont très élevées. Pourtant, l’impact du numérique sur la politique est, encore à ce jour, trop limité à un cercle restreint d’initiés répondant aux mêmes traits socio-économiques.
 
 >De même que les plateformes n’évoluent pas en un claquement de doigts, la participation citoyenne ne se décrète pas en un jour.
 
 ### La maturité de réflexion sur les communs
-**"Notre code commun"**  
+**"Notre code commun"**
 Il y a pas mal de boîtes en France qui fonctionnent sur un modèle "classique".
 Certaines entreprises se réclament de la Civic tech mais n'intègrent pas la dimension open source et communs.
 
-**Libre ne veut pas dire gratuit**  
+**Libre ne veut pas dire gratuit**
 Pourquoi ?
 
 >"Une mauvaise traduction de “free software” induit en erreur de nombreux interlocuteurs qui nous sollicitent : ce n’est pas parce qu’un logiciel est libre qu’il est gratuit."
@@ -125,7 +125,7 @@ Pourquoi ?
 >"L’investissement bénéficiera à n’importe quelle institution et n’importe quel collectif citoyen qui voudra s’en saisir, partout dans le monde.
 Voilà ce qu’est un bien commun numérique. Voilà ce que doit être un investissement public dans un code public."
 
-**Et vous**  
+**Et vous**
 Est-ce que ça vous plairait d'interagir avec votre mairie sur des enjeux locaux via une plateforme ?
 
 ### Pour prolonger la réflexion
@@ -140,7 +140,7 @@ There is opportunity to explore what kinds of tools could be useful at a local l
 It’s commonly understood that the intricacies of communities are typically understood best by individuals. Individuals who understand their communities through a combination of listening, talking and observing — gathering new information often.
 It’s interesting to think about what brands can do in reference to the list above that takes convenience beyond consumerism — how they can make it convenient to participate in your community and convenient to co-operate around local activity.
 
-J'ai la sensation que pas mal de gens s'interrogent sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices (humains, sociaux) sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer les impacts ces jours-ci).  
+J'ai la sensation que pas mal de gens s'interrogent sur les manières de raviver l'esprit du collectif et de la communauté dont les bénéfices (humains, sociaux) sont difficilement quantifiables (puisqu'on est obsédés par le besoin de mesurer les impacts ces jours-ci).
 Faciliter la prise en main en s'insérant dans des usages existants est une question pas évidente non plus, mais j'aime l'idée de nous interroger sur la cartographie d'intérêts qu'auraient les gens à utiliser des services. Mieux comprendre les motivations.
 
 Le pied de nez de fin, aperçu aujourd'hui à Saillans, un brin de solution analogique&nbsp;:
